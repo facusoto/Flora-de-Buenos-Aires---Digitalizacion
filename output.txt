@@ -521,7 +521,7 @@ II  División SPERMATOPHYTA
                                                 l'  Hojas simples
                                                                                         123. RUBIACEAE
 1   —   DIVISION PTERIDOPHYTA
-1   EQUISETACEAE
+1.  EQUISETACEAE
     Esporangios uniloculares, amontonados bajo las escamas de una espiga estrobiliforme. 
     Esporos todos de la misma forma y tamaño, provistos de dos apéndices en forma de cinta,
     unidos en su parte media, que están enrollados alrededor del esporo cuando el ambiente
@@ -532,7 +532,7 @@ II  División SPERMATOPHYTA
     extendidos sobre la superficie del suelo.
     Un solo género con unas 30 especies.
 
-2. SELAGINELLACEAE
+2.  SELAGINELLACEAE
 
     Esporangios uniloculares, solitarios en las axilas de las hojas superiores que se ordenan
     en forma de espiga más o menos cuadangular. Unos contienen 4 macrosporos (macrosporangios)
@@ -543,7 +543,7 @@ II  División SPERMATOPHYTA
     Hojas escamiformes, dispuestas en varias series o en 4 series y entonces de dos tipos.
     Un solo género con unas 350 especies.
 
-3. ISOETACEAE
+3.  ISOETACEAE
     Esporangios alojados debajo de la lígula en la base de algunas hojas (esporófilos), en una
     cavidad denominada fovea, con frecuencia cubiertos por una tenue membrana o velo.Macrosporos
     y microsporos numerosos, los primeros bastante más grandes. Los protalos masculinos  abandonan
@@ -553,7 +553,7 @@ II  División SPERMATOPHYTA
     esporangio. Plantas de aspecto junciforme hererosporadas, acuáticas o palustres, con rizoma perenne
     y tallo corto. Hojas subuladas, dspuestas en roseta. Un solo género con unas 60 especies
 
-4. OPHIOGLOSSACEAE
+4.  OPHIOGLOSSACEAE
     Protalo monoico, de forma variada, hipogeo, sin clorofila, simbiótico con micelio de hongos
     Rizoma perenne, emitiendo en cada período vegetativo una mas frondas erguidas que pronto se
     dividen en la lámina esteril y segmento fertil. La lámina es simple palmada p pinatífida.
@@ -562,7 +562,7 @@ II  División SPERMATOPHYTA
     longitudinales; membrana formada por varias capas de células. Esporos isomorfos. Tres géneros
     distribuídos por todo el globo.
 
-    1   Ophroclossum L.
+    1.  Ophroclossum L.
 
         Una o varias frondas erguidas en cada período vegetativo; lámina entera o lobada; nervadura
         reticulada. Segmento fértil por lo común largamente pedunculado, terminado en una especie de
@@ -571,570 +571,237 @@ II  División SPERMATOPHYTA
         Plantas herbáceas, de tamaño variado, con rizoma generalmente erecto. Raíces fasciculadas.
         Especie tipo: Ovulgatum L.
 
-5. OSMUNDACEAE
+5.  OSMUNDACEAE
     Esporangios con anillo subapical transverso incompleto, libres, membranáceos, dehiscentes
     longitudinalmente. Indusio nulo. Esporos globosos, con 3 estrías. Plantas perennes, con rizoma
     horizontal o ascendente. Frondas de prefoliación circinada; lámina bipinada, con las pinas inferiores
     estériles, foliáceas, y las superiores reducidas a la nervadura y cargadas de esporangios, semejando
     una panoja contraída. Tres géneros.
 
-6. SCHIZAEACEAE
-
-Esporangios membranosos, sésiles o cortamente pedicelados, ovados
-u oblongos, provistos en el ápice de un anillo completo transverso,
-multiovulados, dehiscentes longitudinalmente, dispuestos unas veces
-sobre las nervaduras de las frondas, o en las lacinias de las mismas,
-o sobre frondas reducidas a las nervaduras. Esporos tetraédricos u
-oblongos, tuberculado-ásperos o estriados. Hierbas rizomatosas con
-frondas de diversos tipos, flabeladas o pinaticompuestas. Nervaduras
-
- 
-
-Fre. 6. — A-C: Aneímia tweediana Hook.: A, planta (< 0,5); B, detalle de una fronda fértil; C, es-
-porangio (aumentados). D-F, Dryopteris riograndensis €. Christ.; D hoja (< 0,3); E, detalle del
-envés de la hoja, con soros; F, esporangio.
-
-Primarias indivisas, dicotómicas. Nervaduras secundarias dicotómicas
-o flabelado-dicotómicas, libres o anastomosadas. Cuatro géneros con
+6.  SCHIZAEACEAE
+Esporangios membranosos, sésiles o cortamente pedicelados, ovados 
+u oblongos, provistos en el ápice de un anillo completo transverso, 
+multiovulados, dehiscentes longitudinalmente, dispuestos unas veces 
+sobre las nervaduras de las frondas, o en las lacinias de las mismas, 
+o sobre frondas reducidas a las nervaduras. Esporos tetraédricos u 
+oblongos, tuberculado-ásperos o estriados. Hierbas rizomatosas con 
+frondas de diversos tipos, flabeladas o pinaticompuestas. Nervaduras 
+primarias indivisas, dicotómicas. Nervaduras secundarias dicotómicas 
+o flabelado-dicotómicas, libres o anastomosadas. Cuatro géneros con 
 más de 160 especies.
 
-l. Anzimía Sw.
+1.  Aneimia Sw.
 
-Frondas fértiles generalmente contraídas, paniculiformes, con espo-
-rangios dispuestos en dos series bajo los nervios primarios y los raquis.
-Esporangios sésiles, ovales, con anillo completo multirradiado en el vér-
+Frondas fértiles generalmente contraídas, paniculiformes, con esporangios 
+dispuestos en dos series bajo los nervios primarios y los raquis.
+Esporangios sésiles, ovales, con anillo completo multirradiado en el vértice, 
+con dehiscencia longitudinal extrorsa. Indusio nulo. Esporos tetraédricos, 
+estriados. Rizoma horizontal o ascendente. Raquis primarios y secundarios 
+canaliculados. Lacinias de las frondas fértiles ternadas; las
+de las frondas estériles pinatisectas o bipinatisectas, con segmentos subcoriáceos, 
+enteros o divididos
+Especie tipo: A. phyllitidis (L.) Sw.
 
- 
-26 FLORA DE BUENOS AIRES
-
-tice, con dehiscencia longitudinal extrorsa. Indusio nulo. Esporos tetraé-
-dricos, estriados. Rizoma horizontal o ascendente. Raquis primarios y”
-secundarios canaliculados. Lacinias de las frondas fértiles ternadas; las
-de las frondas estériles pinatisectas o bipinatisectas, con segmentos sub--
-coriáceos, enteros o divididos, Especie tipo: A. phyllitidis (L.) Sw.
-
-1. A. tweediana Hook., 7con. Plant. 10: tab. 906, 1854. Rizoma ascendente. Fron-
-das glabras, pinaticompuestas, con 3-4 pares de segmentos y un segmento terminal, -
-todos ellos lanceolados, marcadamente serrulados, de 3-5 cm de long. Esporangios:
-en panojas cortas. (Fig. 6, A-C).
-
-América Austral cálida. Rara en la región: Isla Martín García. Exsice. Pasiore 333.
-
-7. POLYPODIACEAE
-
-Soros generalmente en la cara inferior de las hojas, formados por un:
+7.  POLYPODIACEAE
+Soros generalmente en la cara inferior de las hojas, formados por un
 manojo de esporangios y cubiertos o no por una membranita o indusio.
-Paredes del esporangio membranosas, muy delgadas (formadas por
-una sola capa de células); pedicelo largo o córto; anillo de dehiscencia,
-vertical. Protalo hermafrodita, foliáceo, desarrollándose sobre la su-
-perficie del suelo. Esporófito de aspectos muy diversos, generalmente:
-con rizoma horizontal subterráneo y hojas enteras o divididas, de:
-prefoliación circinada. Nervaduras bifurcadas. Más de 100 géneros
-con unas 4000 especies distribuidas por todo el globo.
+Paredes del esporangio membranosas, muy delgadas (formadas por una sola 
+capa de células); pedicelo largo o córto; anillo de dehiscencia vertical. 
+Protalo hermafrodita, foliáceo, desarrollándose sobre la superficie del suelo. 
+Esporófito de aspectos muy diversos, generalmentecon rizoma horizontal 
+subterráneo y hojas enteras o divididas, de prefoliación circinada. Nervaduras 
+bifurcadas. Más de 100 géneros con unas 4000 especies distribuidas por todo el globo.
 
-Bibliogr.: Hicken, C. M., en Apunt. Hist. Nat. 1: 177-199, 1909.
 
-A. Scros descubiertos, sin indusio o con indusio rudimentario no apreciable.
-B. Hojas distantes entre sí, articuladas sobre un tallo rastrero o sobre un rizoma,
-. enteras O pInatisectas ....oo.ooooonocnorororerrrcaornoroo. 1. Polypodium
-B', Hojas amontonadas bacia él extremo de un rizoma corto o largo, generalmente:
-pinatisectas Oo pinaticompuestas,
-C. Soros alargados, extendiéndose a lo largo de las nervaduras. Hojas grá--
-ciles, muy divididas ......ooooooonororroron caro... 2. Anogramma.
-C*. Soros circulares. Hojas por lo común bjpinatisectas.
-D. Pinas divididas en tres segmentos oblongo-lanceolados, enteros.
-3. Trismeria:
-D'. Pinas lanceoladas, crenadas, lobadas o pinatisectas, con numerosos:
-
-SOBIMOMbOS +. ooo roo 4. Dryopteris:
-
+A.  Soros descubiertos, sin indusio o con indusio rudimentario no apreciable.
+    B.  Hojas distantes entre sí, articuladas sobre un tallo rastrero o sobre un rizoma, enteras o pinatisectas
+                                                                                        1. Polypodium
+    B'. Hojas amontonadas hacia él extremo de un rizoma corto o largo, generalmente pinatisectas o pinaticompuestas
+        C.  Soros alargados, extendiéndose a lo largo de las nervaduras. Hojas gráciles, muy divididas
+                                                                                        2. Anogramma.
+        C'. Soros circulares. Hojas por lo común bipinatisectas
+            D.  Pinas divididas en tres segmentos oblongo-lanceolados, enteros
+                                                                                        3. Trismeria
+            D'. Pinas lanceoladas, crenadas, lobadas o pinatisectas, con numerosos segmentos
+                                                                                        4. Dryopteris
 A'. Soros cubiertos por un indusio.
-E. Indusio formado por el borde revoluto de la hoja.
+    E.  Indusio formado por el borde revoluto de la hoja.
+        F.  Soros muy alargados, continuos a lo largo del borde de las divisiones de la hoja.
+            G.  Soros colocados entre el borde revoluto de la hoja y un indusio inferior frondas tri- o tetrapinatisectas
+                                                                                        5. Pteridium
+            G'. Soros colocados bajo el borde revoluto de la hoja, sin indusio inferior hojas generalmente pinadas o bipinadas, con pinas grandes
+                                                                                        6. Pteris
+        F'. Soros reniformes o circulares en el extremo o en el borde de los lóbulos de las pinas
+            H.  Pínulas cuneiformes o flabeladas, palmatilobadas 
+                                                                                        7. Adiantum.
+            H'. Pínulas oblongas
+                                                                                        8. Adiamiopsis
+    E'. Indusio membranoso, no formado por el borde revoluto de la hoja.
+        J. Soros alargados, paralelos a la nervadura central
+                                                                                         9. Blechnum
+        J'. Soros alargados o no, paralelos a las nervaduras secundarias o insertos sobre ellas.
+            K.  Soros muy alargados
+                                                                                        10. Asplenium
+            K'. Soros redondeados, semicirculares o arriñonados.
+                L.  Las nervaduras no llegan hasta el borde de la hoja u algunas de ellas terminan en un soro
+                                                                                        11. Nephrolepis
+                L'. Las nervaduras llegan hasta el borde de la hoja. Soros insertos lateralmente o sobre la nervadura
+                    M.  Soros muy próximos al margen, insertos lateralmente con respecto a la nervadura
+                                                                                        12. Athyrium 
+                    M'. Soros no próximos al margen, insertos sobre la nervadura
+                        N.  Indusio peltado, inserto por su centro
+                            O.  Nervaduras no anastomosadas. Frondas bi- o tri- pinatisectas
+                                                                                        13. Polystichum
+                            O'. Nervaduras anastomosadas. Frondas simplemente pinadas
+                                                                                        14. Phanerophlebia
+                        N'. Indusio reniforme o cordiforme, inserto por su borde o por una escotadura
+                            P.  Indusio reniforme, inserto por la escotadura
+                                                                                        4. Dryopteris
+                            P'. Indusio ovado, inserto por uno de sus bordes
+                                                                                        15. Cystopteris
 
-F, Soros muy alargados, continuos a lo largo del borde de las divisiones:
+1. POLYPODIUM L.
 
-de la hoja.
-G. Soros colocados entre el borde revoluto de la hoja y un indusio inferior
-Frondas tri- o tetrapinatisectas .......0oocoooomoc.o 5. Pteridium
+Soros circulares, sin indusio, dispuestos en una o mas series sobre la cara inferior
+de las hojas, Esporangios pedicelados. Plantas epífitas o terrestres, con tallos 
+rastreros o rizomas alargados, ramosos, sobre los que se articulan espaciadamente 
+hojas simples o pinatisectas.
+Especie tipo: P. vulgare L.
 
-G”. Soros colocados bajo el borde revoluto de la hoja, sin indusio inferior.
-Hojas generalmente pinadas o bipinadas, con pinas grandes.
+A.  Hojas enteras, dimorfas, glabras; las estériles ovadas u ovado-lanceoladas, atunuadas en la base en corto pecíolo, con nervaduras anastomosadas entre cuyas mallas queda una sola nervadura libre; hojas fértiles lanceoladas, más estrechas, con una serie de soros a cada lado
+                                                                                        1. P. vaccinifolium
+A'. Hojas pinatisectas, con segmentos opuestos en 9-11 pares y con un segmento impar terminal, todos ellos oblongo-elípticos, de unos 8 mm de longuitud por 1,5 mm de ancho, glabros en la cara superior y cubiertos de escamas redondeadas en la cara inferior. Soros circulares
+                                                                                        2. P. polypodioides
 
-6. Peris
-
-F”, Soros reniformes o circulares en el extremo o en el borde de los lóbulos:
-de las pinas.
-
-H. Pínulas cuneiformes o flabeladas, palmatilobadas ..... 7. Adiantum.
-
-H'. Pínulas OblONBas .....ooocccoronnrnno nan 8. Adiamiopsis
-
-E”. Indusio membranoso, no formado por el borde revoiuto de la hoja.
-J. Soros alargados, paralelos a la nervadura central ........ 9. Blechnum:
-J'. Soros alargados o no, paralelos a las nervaduras secundarias o insertos
-sobre ellas.
-K. Soros Muy alargados .....ooocooocooommomoroo...s , 10. Asplentunv
-K”. Soros redondeados, semicirculares o arriñonados.
-
- 
-
- 
-
-POLYPODIACEAE 27
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Fia. 7. — Detalle de las hojas fértiles de algunos géneros” de' Polypodiaceae: A, Polystichum adianti-
-forme (X 2); B, Adiantum cuneatum (X 5); C, Cystopteris fragilis (X 5); D, Pieris longifolia (X 2);
-E, Adiantopsis chiorophylla (X 5); E, Asplenium argentinum (x 5; GS, Anogramma chaerophylla (X 5;
-H, Blechnum auriculatum (X 2); 1, Nephrolepis cordifolia (Xx 2); J, Athyrium decurtatum var, pla-
-tense (X 5); K, Druopteris submarginalis (X 5).
- 
-
- 
-
-2 FLORA DE BUENOS AIRES
-
-L. Las nervaduras no llegan hasta
-y ellas terminan e UN SOMO ........... 11. Nephrolepis
-- Las nervaduras llegan hasta el borde de la ho: ja. $ i
-penalmente o sobre la a > Co la Roja. Soros insertos
-+ BOros muy próximos al margen, insert 8
-, respecto a la nervadura ... dl o o y o on
-. Soros no próximos al margen, insertos sobre la ne, '
-N. Indusio peltado, inserto por su centro.
-O. Nervaduras no anastomosadas, Frondas bi- o tri-
-o prantiscotas Lo 13. Polystichum
-- Nervaduras anastomosadas. Frondas simplemente
-
-Pinadas 0... 14. Ph z
-
-N”. Indusio reniforme o cordiforme. ins : a enóta
-orme, insert
-
-por una escotadura, ESTO por su borde o
-
-P. Indusio reniforme, inserto por la escotadura,.
-
-. . 4. D ,
-P”. Indusio ovado, inserto por uno de sus Dodo
-
-15. Cystopteris
-
-el borde de la hoja y algunas de
-
-nervadura.
-
-1. Pouyroprum L.
-
-Soros circulares, sin indusio, dis
-cara' inferior de las hojas.
-terrestres, con tallos rastre
-
-puestos en una o más series sobre la
-Esporangios pedicelados. Plantas epífitas o
-ros o rizomas alargados, ramosos, sobre los
-
-  
-
-CAE
-
-  
-
-Fic. 8. — Polypodium vaccinifolium Lang. et Fisch. (Xx 0,5)
-
-que se articulan es
-
-paciadamente hojas si inati
-do: P. vulgar Jas simples o pinatisectas.
-
-Especie
-
-A. moles enteras, dimorías, glabras; las estériles ovadas u ovado-lanceoladas, ate-
-alla ed e on corto pectolo, con nervaduras anastomosadas entre cuyas
-do da a nervadura libre; hojas fértiles lanceoladas, más estrechas
-
-as. Ho na, ro e soros a cada lado ooo... 1. P. vaccinifolium
-
-. E pinatisectas, con segmentos opuestos en 9-11 pares y con un s
-mpar terminal, todos ellos oblongo-elípticos, de unos 8 mm de long. por
-
-1,5 mm de anch, tabros 1 Cara s I ertos de escamas redondeadas
-»2£ en la a Superior y cubi
-en la cara inferior. Soros circulares Lora rara 2. l POLyp:
-. ol: odioides
-
-POLYPODIACEAR 22
-
-1, P. vaccinifolium Lang. et Fisch., Icon Fil.: 8, tab. 7, 1810. Hierba perenne,
-epífita, ¿on tallos rastreros cubiertos de escamas membranosas. (Fig. 8).
-
-América Tropical, desde las Antillas hasta el Río de la Plata. Común en el Delta
-y en la ribera del Plata, sobre los seibos y laureles. Exvicc. Cabrera 1506.
-
-2, P. polypodioides (L.) Watt, var. minus (Fée) Weatherby, Contrib, Gray. Herb,
-124: 31, 1939. Goniophlebium incanum b. minus Fée, Crypt. Vasc. Bres.: 107, 1869.
-Epífita con largos tallos tendidos, cubiertos de escamas rojizas lanceoladas.
-
-Sur del Brasil, Uruguay y NE. de Argentina. Hallada en los bosques indígenas
-del Delta. Exsice. Cabrera 1600, 1954.
-
-2. ANOGRAMMA Link,
+2. ANOGRAMMA Link
 
 Soros alargados, ocupando las nervaduras en casi toda su extensión,
 o dejando sólo libres los extremos. Rizoma corto y débil, provisto de
-pelos cerdosos. Hojas amontonadas, casi glabras, multicompuestas. Es-
-pecie tipo: A. leptophylla (L.) Link.
+pelos cerdosos. Hojas amontonadas, casi glabras, multicompuestas. 
+Especie tipo: A. leptophylla (L.) Link.
 
-1. A. chaerophylla (Desv.) Link., Spec. Fil: 138, 1841. Gymnogramma chaerophy!la
-Desv. en Berl. Mag. 5: 307, 1811. Hierba perenne, delicada, glabra; rizoma corto.
-Hojas en manojo, de contorno ovado, largamente pecioladas, profundamente divi-
-didas cuatro o más veces. (Fig. 7, G). .
-
-América Tropical y Antillas. Común en el Delta y en la selva marginal de la ribera
-del Plata, sobre troncos podridos. También en las paredes de viejos pozos de ladrillos,
-Exsice. Cabrera 1565, 1586,
-
-3. TrISMERIA Fée
+3. TRISMERIA Fée
 
 Soros desprovistos de indusio, colocados a lo largo de las nervaduras,
 salvo su extremo terminal. Esporangios casi sésiles, grandes. Esporos
 globular-tetraédricos. Hierbas rizomatosas; hojas bipinadas, con cada.
 pina dividida en 3 segmentos enteros. Pinas fértiles muy contraídas.
-Venas libres, bifurcadas. Especie tipo: T. argentea Fée.
+Venas libres, bifurcadas.
+Especie tipo: T. argentea Fée.
 
-1. T. trifoliata (L.) Diels, en Engl. u. Prantl, Pflanzenfam. 1 (4): 265, 1899. Acrosti-
-chum trifoliatum a, Sp. Pl. 2: 1070, 1753. Hierba de cerca de 1 m de alt. con rizoma:
-erecto, corto, cubierto de escamas castañas lanceoladas. Hojas erectas, oblongo-lan-
-ceoladas, de 60-90 em de long., verdes, rígidas, bipinadas, con cada pina dividida
-en 3 segmentos oblongo3 o lanceolados. Pínulas fértiles lineales. Raquis desnudo,
-castaño, Soros lineales, ocupando la cara inferior de la pínula.
+4. DRYOPTERIS Adans
 
-América Cálida, hasta el Delta del Paraná. Exsicc. Cabrera 1628.
+Soros circulares, con o sin indusio, insertos sobre el dorso de las nervaduras 
+y no muy próximos al margen. Cuando existe indusio, éste es cordiforme o reniforme,
+inserto por un seno o escotadura. Hojas pinadas una o más veces, con pecíolo no 
+articulado al rizoma.
+Especie tipo: D. filix-mas (L.) Schott.
 
-4. DrYOPTERIS Adans
+A.  Pinas profundamente partidas, con segmentos oblongos, angostos. 
+    B.  Hojas de 60-80 em de longitud; parte inferior del pecíolo con un mechón de escamas rojizas; raquis con pelos escamosos lineales; pinas muy numerosas, de 10-18 cm de longitud por unos 2 cm de ancho, profundamente partidas. Ner vaduras de los segmentos libres entre sí y no bifurcadas
+                                                                                        1. D. submarginalis
+    B'. Hojas de contorno lanceolado, de 30-50 cm de longitud; pecíolo con escamas rojizas esparcidas; raquis sin pelos escamosos; lámina con 20-25 pares de pinas lanceoladas, de 3-8 cm de longitud por 7-12 mm de ancho, profundamente pinatífidas; segmentos oblongos, de 5-7 mm de longitud por 2,8-3 mm de ancho, enteros, pubescentes. Indusio inconspicio
+                                                                                        2. D. argentina
+A'. Pinas crenadas o lobadas, con lóbulos redondeados anchos.
+    C.  Hojas de 20-50 cm de longitud, glabras; pinas crenadas, de 3-8 cm de longitud por 1 cm de ancho; nervaduras ramificadas y anastomozadas
+                                                                                        3. D. riograndensis
+    C'. Hojas lanceoladas de cerca de 1 m de longitud; pinas 20-30-yugas, lanceoladolineales, acuminadas, de 10-20 cm de longitud por 1-2 cm de ancho, uniformemente lobadas, con lóbulos redondeados, obtusos, de 3-8 mm de longitud por 4-6 mm de ancho, glabras o casi glabras
+                                                                                        4. D. gongylodes
 
-Soros circulares, con o sin indusio, insertos sobre el dorso de las ner-
-vaduras y no muy próximos al margen. Cuando existe indusio, éste es
-cordiforme o reniforme, inserto por un seno o escotadura. Hojas pinadas
-una o más veces, con pecíolo no articulado al rizoma. Especie tipo: PD.
-filiz=mos (L.) Schott.
-
-A. Pinas profundamente partidas, con segmentos oblongos, angostos.
-
-B. Hojas de 60-80 em de long.; parte inferior del pecíolo con un mechón de
-escamas rojizas; raquis con pelos escamosos lineales; pinas muy numerosas,
-de 10-18 cm de long. por unos 2 em de anch., profundamente partidas. Ner-
-vaduras de los segmentos libres entre sí y no bifurcadas.. 1. D. submarginalis
-
-B”. Hojas de contorno lanceolado, de 30-50 em de long.; pecíolo con escamas
-rojizas esparcidas; raquis sin pelos escamosos; lámina con 20-25 pares de
-pinas lanceoladas, de 3-8 em de long. por 7-12 mm de anch., profundamente
-pinatífidas; segmentos oblongos, de 5-7 mm de long. por 2,8-3 mm de anch.,
-enteros, pubescentes. Inausio inconspicUO .......o.oo.oooom.o.. 2. D. argentina
- 
-
-30 FLORA DE BUENOS AIRES
-
-A”. Pinas crenadas o lobadas, con lóbulos redondeados anchos.
-C. Hojas de 20-50 em de long., glabras; pinas crenadas, de 3-8 em de long. por
-l em de aneh.; nervaduras ramificadas y anastomozadas.. 3. D. riograndensis
-C*. Hojas lanceoladas de cerca de 1 m de long.; pinas 20-30-yugas, lanceolado-
-lineales, acuminadas, de 10-20 em de long. por 1-2 em de anch., uniforme-
-mente lobadas, con lóbulos redondeados, obtusos, de 3-8 mm de long. por
-4-6 mm de anch., glabras o casi BÍabras occ... 4. D. gongylodes
-
-1. D. submarginalis (Lang. et Fisch.) C. Chrst., Ind, Fil: 296, 1906. Polypodium
-
-submarginale Lang. et Fisch., Icon. Fil.: 12, tab. 13, 1810, Helecho de cerca de 1 m
-de alt. (Fig. 7, K).
-
-América Cálida, hasta el Delta del Paraná y la ribera del Plata. Exsicc. Cabrera
-1234, 10399.
-
-2. D. argentina (Hieron.) C. Christ., Ind. Fil.: 253, 1905. Aspidium argentinum
-Hieron., Bot. Jahrb. 22: 367, 1896. Rizoma horizontal, rojizo, escamoso.
-
-Norte y centro de la Argentina, hasta el Delta del Paraná. Exsleo, Cabrera 1597,
-16209.
-
-3. D. riograndensis (Liadm.) C. Christ., Ind. Fil: 289, 1906. Polypodium rio-
-grandense Lindm., Arkiv. fór Bot. 1: 230, tab. 9, 1904.
-
-Sur del Brasil, Paraguay, Uruguay y NE. de Argentina, hasta la ribera del Plata,
-Exsicc. Cabrera 1559, 5246, (Fig. 6, D-P).
-
-4. D. gonsylodes (Schkubr.) O. Kuntze, Rev. Gen. Plant, 2: 811, 1891. Aspidium
-gongilodus Schkuhr., Kr. Gew., 1: 193, tab. 33, 1809. Rizoma, horizontal, fuerte, rojizo.
-Regiones cálidas. Hallada en el Delta del Parana. Exsicc. Cabrera 1959, 2522,
-
-9. PTERIDIUM Gled.
+5. PTERIDIUM Gled.
 
 Soros marginales, generalmente continuos. Esporangios situados entre
 un indusio exterior (el borde modificado de la fronda), y un indusio
 interno. Esporos pardos, finamente espinulosos, tetraédrico-globosos.
 Hierbas perennes con rizoma, rastrero ramificado y cubierto de pelos.
 Frondas alternas, grandes, tri- o tetrapinatisectas; segmentos oblongo-
-lineales, revolutos en el margen. Especie tipo: P. aquilinum (L.) Kuhn.
+lineales, revolutos en el margen.
+Especie tipo: P. aquilinum (L.) Kuhn.
 
-Bibliogr.: Tryon, R. M., en Ehodora, 43: 1-31, 37-67, 1941.
-
-1. P. aquilinum (L.) Kubn, var. arachnoideum (Kaulf.) Horter, Rev. Sudam
-Bot. 5: 21, 1937. Pteris arachnoidea Kaul£, Enum. Fil.: 190, 1824. Frondas de un
-metro y más de longibud, de contorno ovado-triangular, 3-1-pinadas, con los últimos
-segmentos oblongo-lineales, arañíento-pubescentes en el envés.
-
-América Cálida. Hallado en las islas arenosas del Delta del Paraná. Exsice. Ca-
-brera 2526.
-
-6. Preris L.
+6. PTERIS L.
 
 Soros insertos en líneas marginales más o menos extensas, continuas,
 cubiertos por el borde revoluto de la hoja que sirve de indusio. Hojas
+divididas, frecuentemente con pinas enteras muy alargadas. 
+Especie tipo: P. longifolia L.
 
-divididas, frecuentemente con pinas enteras muy alargadas. Especie
-tipo: P. longifolía L.
+A.  Hojas simplemente pinadas. Rizoma horizontal rastrero.
+    B.  Pinas numerosas, enteras, lineales, atenuadas en la parte superior y truncadas en la base, con soros ozupando todo su borde. Raquis con pelos escamosos lineales
+                                                                                        1. P. longifolia
+    B'. Pinas inferiores bífidas o trífidas, raquis glabro
+        C.  Raquis foliar alado entre las pinas; éstas lineales, agudas, enteras o, las inferiores, trilobadas, decurrentes en la base. Soros continuos a lo largo del borde
+                                                                                        2. P. multifida
+        C'. Raquis foliar no alado entre las pinas. Hojas de 15-30 cm de longitud, ternadas o pinadas con 2-5 pares de pinas sésiles, las inferiores bífidas o trífidas, las superiores enteras y algo decurrentes sobre el raquis. Pinas estériles más anchas, espinuloso-aserradas. Soros continuos
+                                                                                        3. P. cretica
+A'. Hojas 2-3-pinadas. Rizoma erecto, corto. Hojas de 60-100 cm de longitud; pinas superiores pinadas; las inferiores divididas dos o tres veces
+                                                                                        4. P. tremula
 
-Bibliogr.: Burkart, A., en Physts, 11: 253-265, 1933.
-
-A. Hojas simplemente pinadas. Rizoma horizontal rastrero.
-B. Pinas numerosas, enteras, lineales, atenuaaas en la parte superior y trun-
-cadas en la base, con soros ozupando todo su borde. Raquis con pelos esta-
-mosos lineales ooo coccion rancio ona 1. P. longifolia
-
- 
-
-31
-
-POLYPODIACEAE
-
-Raquis fol a ala o entre las pinas éstas li reales udas enteras O las
-é 28 , ,
-d , ,
-
-c continuos a lo largo
-inferiores, trilobadas, decurrentes en la base. Soros cont A Po msi
-del borde. oooocconoorrcrnrr no CENA e er
-
-C”. Raquis foliar no alado entre las OS los, 1530 em do o
-
-ES p! 25 pares de
-nadas 9] inadas con ) a
-tr ífidas, :48 SUPerior es enteras w algo decurrentes sobre el raquis Pinas
-
-j . P. cretica
-
-estériles más anchas, espinuloso-aserradas. Soros pon timos do ne Ts
-
-» Hojas 2-3-pinadas. Rizoma erecto, corto. Hojas de co e de Jon j pinos
-2 superiores pinadas; las inferiores divididas dos o tres veces. ......
-
-. ie. 7, D.
-P. longifolia L., Sp. Pl. 2: 1074, 1753. Hojas de 30-50 em de long: (Fig. 7, D)
-Hogiones cálidas. Se halla en muros viejos. Exsicc. Cabrera .
-
-Encyel. Meth. 5: 714, 1804. Hojas de 20-40 em de long.
-
-a 0 En muros de ladrillo, pozos, etc. Exsice. Ca-
-
-Europa; adventicia en la Argentina.
-brera 2669.
-
-P. cretica L., Mantissa: 130, 1767. Frondas de 15-30 cm a ari 2888.
-Europa Cultivada como planta ornamental y subespontánea. Lx .
-
-., Prodr. 1: 10, 1827. %
-era dia Cultivada como planta ornamental y, a veces, sub
-
-espontánea. Exsicc. Burkart 5680.
 7. ADIANTUM L.
 
-Soros localizados en el borde de los lóbulos de las pinos, qe so repisa
-j 1 dondeado o reniforme. Helec -
-» llos formando un indusio re : A q
-o de hojas muy divididas, con pinas cuneiformes, palmatilobada
-8, ]
+Soros localizados en el borde de los lóbulos de las pinas, que se repliega sobre ellos
+formando un indusio redondeado o reniforme. Helechos delicados, de hojas muy divididas,
+con pinas cuneiformes, palmatilobadas.
+Especie tipo: A. capillus-veneris Li.
 
-Especie tipo: A. capillus-venerís L.
+8. ADIANTOPSIS Fée.
 
-23, tab. 26, 1810. Hieba pe-
+Soros orbiculares u oblongos, dispuestos en el extremo de las nervaduras en un receptáculo
+puntiforme y cubiertos por el borde revoluto del lóbulo, más o menos modificado. Frondas
+herbáceas 1-4-pinadas o palmadas, glabras o casi glabras. Nervaduras libres.
+Especie tipo: A. capensis (Thumb.) Fée.
 
-] il. Bras.: ]
-1. A. cuneatum Lang. et Fisch., Icon. Fi o ao Integularmonte
+9. BLECANUM L.
 
-«enne: tizoma corto. Hojas glabras, delicadás, tripinadas,
-,
+Soros lineales, paralelos a la nervadura central de la pina. Rizomas erectos. Frondas
+fasciculadas, a menudo dimorfas. Nervios de las láminas estériles libres; los de las
+láminas fértiles unidos en la parte inferior por una nervadura transversal que lleva los
+soros.
+Especie tipo: B. orientale L.
 
-j entforme. (Fig. 7, B). . o
-no e da E crio de la Argentina, hasta el Río de la Plata. N. v.:
-Amér .
+10. ASPLENIUM L.
 
-«culantrillo. Exsiec. Cabrera 1579, 2192.
-
-3. ADIANTOPSIS Fée.
-
-Soros orbiculares u oblongos, dispuestos en el o
-«dluras en un receptáculo puntiforme y cubiertos por e oinadas O
-¿dlel lóbulo, más o menos modificado. Frondas her tons o oo
-palmadas, glabras o casi glabras. Nervaduras libres. Esp
-
-«capensis (Thumb.) Fée. "
-
-é Ml, 145 30-52. Cheilanthes chlorophylla
-
-lla (Sw.) Fée, Gen. Fil.: 145, 1850. he
-
-:S L Pa ISA AS 1817. Frondas de 70 cm de long Doblas e
-raquis castaño; lámina tripiaada, con pínulas 5 último grado triang
-
-ras, ñas. Soros redondeados. (Fig. 7, ce
-
-ion tnopical y subtropical, hasta el Delta del Parani y
-
-«Scala 17.
-
-San Fernando. Íxsicc.
-
-9. BLECHNUM L.
-
-Soros | neales pa a.e108 la ner vadura central de la ina. Rizoma
-s a 3
-. S £ $ -
-o] ectos H rondas ascic 1ladas a me udo dimorfas. N ervio de las lá
-,
-minas estériles libres; los de las láminas Í er tiles unidos en la parte infer 10Y
-
-ie tipo: B. orizn-
-por una nervadura transversal que lleva los soros. Especie tipo: B
-tale L.
-
- 
-1
-32 FLORA DE BUENOS AIRES
-
-1. B. auriculatum Cav., Praelect: 262, 1801. Perenne; rizoma corto; hojas de 20-
-40 em de long, pinadas; raquis apenas peludo; pinas lenceoladas, enteras o denti-
-pas, judas y muecronadas en el ápice, ensanchadas y auriculadas en la base.
-
-ig. 7, HD.
-
-América del Sur templada, desde el sur ae] Brasil, hasta la Cordillera Patagónica.
-Cerca de Buenos Átres se halla en los bosques del Delta y de la ribera platense, Exsice,
-Cabrera 1562, 5241.
-
-10. AsPLeNIUM L,
-
-Soros alargados, lineales o lanceolados, ubicados sobre las nerva-
-duras secundarias de cada pina, con indusio membranoso que se abre
-hacia la nervadura central. Hojas de tipos diversos, pinadas o bipinadas.
+Soros alargados, lineales o lanceolados, ubicados sobre las nervaduras secundarias
+de cada pina, con indusio membranoso que se abre hacia la nervadura central. Hojas de
+tipos diversos, pinadas o bipinadas.
 Especie tipo: A. trichomanes L.
 
-A. Hojas de contorno lanceolado, de 25-60 em de long. por 2,5-6,5 cm de anch.,
-pinadas; pinas 30-15-yugas, oblongo-faleadas, asimétricas, auriculadas en la
-base, aserrado-dentadas, de 1,5-35 cm de long, por 0,5-1,5 em de anch. Soros
-de hasta 4 mm de ON 1. A. argentinum:
+A.  Hojas de contorno lanceolado, de 25-60 cm de longitud por 2,5-6,5 cm de ancho, pinadas; pinas 30-15-yugas, oblongo-falcadas, asimétricas, auriculadas en la base, aserrado-dentadas, de 1,5-35 cm de longitud por 0,5-1,5 cm de ancho Soros de hasta 4 mm de longitud
+                                                                                        1. A. argentinum:
+A'. Hojas de 15-20 cm de longitud por 1,5-2 cm de ancho, pinadas; pinas 30-40-yugas, rómbico-trapezoidales, de 0,5-1 cm de long., por 0,5-0,7 cm de ancho, profundamente aserradas, soros pocos
+                                                                                        2. A. ulbrichtii
 
-A”. Hojas de 15-20 cm de long. por 1,5-2 em de anch., pinadas; pinas 30-40-yugas,
-rómbico-trapezoidales, de 0,5-1 cm de long., por 0,5-0,7 cm de anch,, profunda-
-Mente aserradas, Oros POCOS ooo nro ooo 2. Á. ulbrichtii
+11. NEPHROLEPIS Schott.
 
-1. A. argentinum Hieron., Hedwigía, 60: 249, 1918. Rizoma corto, erecto o ascen»
-dente. (Fig. 7, E.
+Soros redondeados o reniformes, situados en el extremo de las nerva
+duras y cubiertos por un indusio reniforme, Hierbas rizomatosas, a 
+veces con tubérculos. Hojas pinadas o bipinadas; pinas con nervaduras 
+secundarias bifurcadas.
+Especie tipo: N. exaltata (L.) Schott.
 
-Norte y centro de la Argentina. Común en los bosques del Delta, y de la ribera pla-
-tense. Exsicc. Cabrera 1561, 5347, 10390.
-
-2. A. ulbrichtii Rosenst., Hedwigia, 43: 220, 1904. Rizoma corto, erecto,
-Brasil, Uruguay y NE. de Argentina. En los bosques húmedos del Delta y de la.
-ribera del Plata, Exsicc, Cabrera 10391.
-
-11. NermroLerrS Schott.
-
-Soros redondeados o reniformes, situados en el extremo de las nerva-
-duras y cubiertos por un indusio reniforme, Hierbas rizomatosas, a
-veces con tubérculos. Hojas pinadas o bipinadas; pinas con nervaduras
-secundarias bifurcadas. Especie tipo: N. exaltata (L.) Schott.
-
-1. N. cordifolia (L.) Presi, Tent.: 79, 1836, Polypodium. cordifolium L., Sp. Pl.
-2: 1089, 1753. Rizomatoso, con tubérculos elipsoideos. Hojas de contorno oblongo,.
-pinadas, de 50-80 em de long. Pinas oblongas, perpendiculares al raquis, obtusas,
-dilatadas y auriculadas en la base, aserradas, de 2,5-5 em de long. por 0,5-0,8 cm:
-
-de anch.; nervaduras secundarias bifurcadas, con los soros en: el extremo de una de
-las bifurcaciones. (Fig, 7D.
-
-Regiones tropicales. Cultivada como ornamental y subespontánea en lugares hú-
-medos y sombríos, N. y.: helecho serrucho. Exsice. Rodrigo 2057.
-
-12. AruYrium Roth.
+12. ATHYRIUM Roth.
 
 Soros no muy alargados, rectos o algo reniformes, situados cerca del
 margen de las pinas, al costado de las nervaduras secundarias. Indusio
-de la misma forma que el soro. Hojas pinadas o bipinadas, Especie tipo:
-A. filiz-foeminea (L.) Roth.
+de la misma forma que el soro. Hojas pinadas o bipinadas
+Especie tipo: A. filiz-foeminea (L.) Roth.
 
-1. A. decurtatum (Kze.) Presi. var. platense Weatherby, Amer. Fern. JFourn
-36: 95, 1946, Hierba robusta, rizomatosa, formando grandes matas, Hojas de con-
-torno ovado, de 50-90 em de long., pinadas; pinas muy numerosas, oblongo-lanceo-
-ladas, profundamente partidas, con segmentos obtusos, de 8-15 em de long., por
-1-2 em de anch., pubescentes, glandulosas. (Fig. 7, J..
-
-América del Sur cálida, Frecuente en las selvas marginales del Delta y de la ribera
-del Plata. Exsicc. Cabrera 1555, 2162,
-
-POLYPODIACEAE - MARSILIACEAE 33
-
-13. PonystTICcHUM Roth.
+13. POLYSTTICHUM Roth.
 
 Soros grandes, circulares, dispuestos en la cara inferior de las hojas.
-Indusio orbicular, peltado, a veces rudimentario e inconspicuo. Espo-
-rangios largamente pedicelados. Hojas bipinadas, coriáceas o semicoriá-
-ceas, con pinas asimétricas, dentadas. Venas libres o anastomosadas.
-Especie tipo: P. aculeatum (L.) Roth. se
+Indusio orbicular, peltado, a veces rudimentario e inconspicuo. Esporangios
+largamente pedicelados. Hojas bipinadas, coriáceas o semicoriáceas, con pinas
+asimétricas, dentadas. Venas libres o anastomosadas.
+Especie tipo: P. aculeatum (L.) Roth.
 
-ianti 1 , dl. . Polypolium adian-
-ntiforme (Forst.) J. Smith, Hist, Fil.: 220, 1875,
-t no Prodr.: EN 1786. Hierba, perenne, con rizomas horizontales presos cu
-biertos de escamas membranosas lineal-lanceoladas, de Color pardocrobwo. Hojas de
-j 1 y bi- ripinadas,
+14. PHANEROPHLEBIA Presl.
 
-o ovado-deltoideo, de cerca de medio metro de long., bi- o ] con
-las, lanceoladas, aserrado-dentadas, glabras, Soros de 1-1,5 mm de dim, ms
-Fiados a cada lado ae la nervadura central; indusios planos, caducos. (Fig. 7, :
-: Cosmopolita. Cultivado como planta ornamental. Dudoso como espontáneo en el
-Delta. Exsicc, Cabrera 1958,
-
-14, PHANEROPHLEBIA Presl.
-
-Soros dorsales (algunas veces terminales), dispuestos sobre las ner-
-vaduras. Indusio peltado, persistente o caduco (a veces inconspicuo).
+Soros dorsales (algunas veces terminales), dispuestos sobre las nervaduras.
+Indusio peltado, persistente o caduco (a veces inconspicuo).
 Anillo del esporangio formado por unas 16 células engrosadas. Esporos
 bilaterales, tuberculados. Helechos terrestres, con rizoma ascendente
-o erecto, escamoso. Hojas pinadas; pinas a menudo falcadas, acumina-
-das, aserrado-dentadas; nervaduras anastomosadas. Especie tipo: Ph,
-
-2
-nobilis (8. et C.) Presi. sa o
-
-dl: dium falcatum L. f.,
-
-1. Ph. falcata (L. f.) Copeland, Gen. Fil.: 111, 1947. Polypo 1 :
-Suppl.: 446, 1781, is erecto, grueso, cubierto de escamas pardas. Hojas coriás
-Ceas, pinadas, con pinas ovado-falcadas, acuminadas, redondeadas u oblicuamente
-
-- de anch.
-la base, aserrado-dentadas, de 10-15 cm de long. por 2,5-5 cm
-eto de Asia, Cultivado como planta ornamental y a veces subespontáneo.
+o erecto, escamoso. Hojas pinadas; pinas a menudo falcadas, acuminadas,
+aserrado-dentadas; nervaduras anastomosadas.
+Especie tipo: Ph. nobilis (S. et C.) Presl
 
 15. CYsTOPTERIS Bernh.
 
