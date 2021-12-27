@@ -1,0 +1,6 @@
+Api Wikipedia:
+	Imagenes y descripciones
+Api UICN:
+	Estado de conservación
+SIB:
+	Presencia documentada en parques nacionales
