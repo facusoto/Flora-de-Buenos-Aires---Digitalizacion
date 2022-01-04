@@ -4,3 +4,7 @@ Api UICN:
 	Estado de conservación
 SIB:
 	Presencia documentada en parques nacionales
+
+-----
+
+Para hacer que las Especies tengan la misma indentación que los selectores de las mismas se puede seleccionar masivamente su indentación (Que es siempre la misma) y a partír de esta borrar hasta la línea anterior, al volver a presionar Enter los elementos aparecerán con la indentación de su elemento padre.

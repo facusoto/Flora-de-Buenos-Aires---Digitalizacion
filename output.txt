@@ -2079,1643 +2079,405 @@ Tribu 7. PHALARIDAE
     rudimentarias reducidas a dos pequeñas escamas. Lemma fértil coriácea, más corta que las glumas. Hierbas anuales o perennes;
     hojas planas. Espiguiilas en panojas densas, espiciformes.
     Especie tipo: Ph. canariensis L.
-
-    
+        A.  Glumas con quilla anchamente alada: ala puntiaguda en la parte superior. Panoja cilindrica, de 4-6 cm de long. Glumas aristuladas, glabras, con 9 nervaduras. Lemma de la flor fértil lanceolada, glabra, con algunos pelos en su parte superior.
+                                                                                        1. Ph. paradoxa
+        A'. Glumas con quilla estrechamente alada: ala no puntiaguda.
+            B.  Espiguillas de 7-9 mm de long. Panojas ovoides, de 34 cm de long. Glumas ovadas, 3-nervadas. Lemma de la flor fértil pubescente.
+                                                                                        2. Ph. canariensis
+            B'. Espiguillas de 3-6 mm de long.
+                C.  Panojas cilindricas, de 5-15 cm de long. Espiguillas de 3,5-4,5 mm de long..
+                    D.  Espiguillas de unos 4,5 mm de long. Lemma pubescente, a excepción de su tercio superior, que es glabro. Glumas lanceoladas, agudas, glabras, 3-nervadas. Panojas cilindricas, de 5-10 cm de long.
+                                                                                        3. Ph. platensts
+                    D'. Espiguillas de 3,54 mm de long. Lemma uniformemente pubescente. Glumas agudas, glabras, 3-nervadas. Panojas cilíndricas, de 8-15 cm de long..
+                                                                                        4. Ph. angusta
+                C'. Panojas ovoideas o cortamente cilíndricas, de 2-5 (-7) em de long. Espiguillas de 5-6 mm de long. Lemma pubescente a excepción de su tercio inferior.
+                                                                                        5. Ph. minor
 
 51. ANTHOXANTHUM L.
-
-Espiguillas con una flor terminal fértil y dos flores estériles en su base,
-Raquilla articulada por encima de las glumas. Glumas desiguales, agudas
-o mucroradas. Lemmas de las flores estériles más cortas que las glumas;
-aristadas. Lemma fértil menor que las estériles, sin arista. Hierbas anuales
-o perennes, fragantes. Hojas planas. Espiguillas en panojas densas, espi-
-ciformes. Especie tipo: A. odoratum L.
-
-1, A. odoratum L., Sp. Pl. 1:28, 1753. Perenne, de 30-60 cm de alt. Hojas planas.
-Panojas amarillentas, de 2-6 cm de long. Espiguillas de 8-10 mm de long. Glumas
-escabrosas. Lemmas estériles cubiertas de pelos dorados. Lemma fértil glabra. (Figu-
-ra 26, A).
-
-Europa; cultivada para formar césped y, a veces, espontánea en suelos húmedos
-de la ribera.
+    Espiguillas con una flor terminal fértil y dos flores estériles en su base, Raquilla articulada por encima de las glumas.
+    Glumas desiguales, agudas o mucroradas. Lemmas de las flores estériles más cortas que las glumas; aristadas. Lemma fértil
+    menor que las estériles, sin arista. Hierbas anuales o perennes, fragantes. Hojas planas.
+    Espiguillas en panojas densas, espiciformes.
+    Especie tipo: A. odoratum L.
 
 Tribu 8. ORYCEAE
 
-52. LeErsIa Sw.
+52. LEERSIA Sw.
+    Espiguillas unifloras, muy comprimidas lateralmente, articuladas sobre el pedicelo. Glumas ausentes. Lemma cartácea, ancha,
+    oblonga u ovada, generalmente 5-nervada, con márgenes, nervaduras y quilla frecuentemente híspidos. Pálea tan larga como la
+    lemma, generalmente 3-nervada. Estambres 6. Hierbas perennes, rizomatosas, con hojas planas y panojasabiertas.
+    Especie tipo: L. oryzoides (L.) Sw.
 
-Espiguillas unifloras, muy comprimidas lateralmente, articuladas sobre
-el pedicelo. Glumas ausentes. Lemma cartácea, ancha, oblonga u ovada,
-generalmente 5-nervada, con márgenes, nervaduras y quilla frecuente-
-mente híspidos. Pálea tan larga como la lemma, generalmente 3-nervada.
-Estambres 6. Hierbas perennes, rizomatosas, con hojas planas y panojas
-abiertas. Especie tipo: L. oryzoides (L.) Sw. :
+53. LUZIOLA Juss.
+    Plantas diclinas monoicas. Espiguillas unisexuales, uniiloras, articuladas sobre el pedicelo. Espiguillas masculinas y femeninas
+    en panojas distintas. Glumas ausentes. Lemma y pálea casi iguales, delgadas, plurinervadas, lanceoladas u oblongas. Estambres 6
+    o más. Hierbas perennes, delicadas, con hojas angostas, planas, y panojas laxas axilares y terminales.
+    Especie tipo: L. peruviana Gmel.
 
-1. L. hexandra Sw., Prodr.: 21, 1788. Hierba de 20-50 cm de alt. Hojas lanceo-
-ladas. Espiguillas de 4-5 mm de long. (Fig. 23, B).
-
-Regiones cálidas, Frecuente en el Delta y en la ribera platense; también en lugares
-pantanosos del interior. Exsice. Cabrera 1698, 9889.
-
-53. Luziotña Juss.
-
-Plantas diclinas monoicas. Espiguillas unisexuales, uniiloras, articu-
-ladas sobre el pedicelo. Espiguillas masculinas y femeninas en panojas
-distintas. Glumas ausentes. Lemma y pálea casi iguales, delgadas, pluri-
-nervadas, lanceoladas u oblongas. Estambres 6 o más. Hierbas perennes,
-delicadas, con hojas angostas, planas, y panojas laxas axilares y ter-
-minales. Especie tipo: L. peruviana Gmel.
-
-1. L. peruviana Gmel., Syst, Nat, 2: 637, 1791. Tallos ascendentes de 10-40 cm
-de alt, Panojas masculinas terminales; espiguillas de 7 mm de long. Panojas feme-
-
-ninas axilares y terminales, difusas; espiguillas de 2 mm de long. (Fig. 23, D).
-América cálida. Común en lugares pantanosos. Exsiec, Cabrera 869.
-
-54. ZizawtoPsIs Doell. et Asch.
-
-Plantas diclinas monoicas. Espiguillas unisexuales, unifloras, articu-
-ladas debajo de las glumas, las de uno y otro sexo sobre la misma panoja,
-las masculinas debajo. Glumas ausentes. Lemma con 7 nervaduras,
-aristada. Pálea 3-nervada, Estambres 6. Fruto aquenio, con estilo per-
- 
-
-92 FLORA DE BUENOS AIRES
-
-sistente. Hierbas robustas, rizomatosas, con hojas anchas, generalmente
-palustres. Especie tipo: Z, macrostachys Nees.
-
-1. Z. bonariensis (Balansa et Poitr.) Speg.. Anal. M Y T :
-1902. Zizania bonariensis Balansa et Poio ol Noe Ho: Na Polos 10. 23
-1878. Hierba perenne, con rizomas horizontales muy poderosos. Tallos de hasta 2 m
-de aíó. Vainas glabras; lígula lanceolada, de 2 em; láminas foliares lineales de 1 nn
-y mís de long. Panojas erestas, de 0,5-1 m de long. Espiguillas lanceoladas de 10
-
-e long. Lemma largamente aristada, (Fig. 29, D-E). ? a
-
-Pajonales del norte de la provincia de B |
-daña. Exsice. Cabrera 6585, 9826. o Buenos Altres y del Uruguay, N, y.1 espa
+54. ZIZANIOPSIS Doell. et Asch.
+    Plantas diclinas monoicas. Espiguillas unisexuales, unifloras, articuladas debajo de las glumas, las de uno y otro sexo sobre la misma
+    panoja, las masculinas debajo. Glumas ausentes. Lemma con 7 nervaduras, aristada. Pálea 3-nervada, Estambres 6. Fruto aquenio, con
+    estilo persistente. Hierbas robustas, rizomatosas, con hojas anchas, generalmente palustres.
+    Especie tipo: Z. macrostachys Nees.
 
 Tribu 9. PANICEAE
 
-39. AXONOPUS Beauv.
-
-Espiguillas unifloras, deprimidas, biconvexas, oblongas, subsésiles, dis-
-Puestas en dos filas a lo largo de uno de los lados de un raquis trian cular
-con el dorso de la lemma fértil hacia afuera. Glumas 2 (gluma superior
-y lemma estéril), iguales. Lemma fértil y pálea rígidas. Hierbas perennes
-(raramente anuales), estoloníferas. Hojas planas. Espigas delgadas digi-
-
-,
-
-tadas en el ápice del tallo o racimosas a lo largo de éste. Especie tipo: -
-
-Á. compressus (Sw.) Beauv.
-
-1. A. compressus (Sw.) Beauv., Ess. Agrost.: 12, 1812. Milium c p
-
-. .: 12, . ompr
-Qrodr: 24, 1788. Perenne. Tallos rastreros, estoloníferos, radicantes on los mudos.
-añas floríferas erestas, de 20-69 cm de alt. Espigas generalmente 3, lineales dos de
-ellas colocadas en el extremo de la caña y la tercera algo más abajo de 4-8 cm d
-long. Espiguillas de 2 mm de long., elíptico-lanceoladas me DS
-
-América cáli A o a . :
-bronces, cálida, Común en el Delta y en la ribera platense. Forrajera. Exsicc, Ca.
-
-56. CeNcurus L.
-
-Espiguillas rodeadas por un involuero espinoso formado por nume-
-
-rosas cerdas soldadas entre sí, que se desprende cayendo con la espi-
-
-. . .
-ca Espinas provistas con frecuencia de barbas retrorsas. Glumas 2
-
-$ . . " ?
-muy desiguales. Lemma estéril muy semejante a la gluma superior. Hier-
-
-bas anuales o perennes. Hoj igul
-ó , . jas planas. Espiguillas r Í
-tipo: €. echinatus L. NN reomosas. Especie
-
-A . ! ] . hos
-
-Cerdas pavo lucrales delgadas, unidas únicamente en su base, cubiertas de pelitos
-
-A» X ro sos. Racimos densos, espicitormes, de 10-25 cm de long... 1. C. myosuroides
-
-. jo sas ¿pvolucralos muy ensanchadas y unidas por encima de la base.
-
-. Lavoluero, formado por numerosas cerdas, las externas delgadas, las internas
-
-: ane as on la base, soldadas entre sí casi hasta su mitad, con pelos re-
-
-a nacimos densos, espiciformes, de 3-10 cm de long. Espiguillas agru-
-eat... o ;
-
-e creer AN 2. C. echinatus
-
-. Involtiero formado Únicamente por espinas muy anchas en la base, abiertas,
-
-sin po os retrorsos. Racimos de 3-8 cm de long. Espiguillas 2 en cada invo-
-
-a 3. C. pauciflorus
-
-1. C. myosuroides H. B. K.. N É :
-basta, de DO ea de alt , Nov. Gen. et Sp. 1: 115, tab. 35, 1815. Perenne, ro=
-América cálida. Citada por Parodi para Campana y San Fernando. N, v.: cadillo.
-
-2. C. echinatus L., Sp. PI, 2: 1050, 1753. Anual, d
-Sl mn: , Sp. Pl. 2: , . 2 , de 25-60
-América cálida. Accidental en Palermo (Parodi, loc. cit.). 00 con de alt.
-
-GRAMINEAE 93
-
-3. C.pauciflorus Benth., Bot. Voy. Sulph.: 56, 1840, Anual, ascendente, de 20-90
-
-le alt. (Fig. 26, C). j '
-CA imérica cálida. Muy común en suelos arenosos. N, v.: roseta. Exsice. Cabrera 2038,
-
-7579.
-57. Dicrrarra Heister
-
-Espiguillas en grupos de 2-3, sésiles o cortamente pediceladas, dis-
-puestas en dos hileras sobre uno de los lados de un raquis triangular,
-lanceoladas o elípticas, casi plano-convexas. Gluma inferior muy peque-
-ña; gluma superior igual a la lemma estéril o más corta. Lemma fértil
-cartilagínea. Hierbas anuales o perennes. Espiguillas en espigas unilate-
-rales o racimos espiciformes, amontonados en el ápice de la caña florí-
-fera o racimosos a lo largo de un eje principal. Especie tipo: D. sangut-
-
-malís (L.) Scop. !
-Bibliogr.: Henrard, J. Th., Monograph of ihe Genus Digitaria, Leiden, 1950.
-
-A. Racimos distribuidos a lo largo de un eje principal, no amontonados en el £pice
-de la caña. :
-
-B. Espiguillas con la segunda gluma mucho más corta que la tercera (lemma
-estéril). Panoja formada por 3-6 racimos espiciformes. Espiguillas lanceo-
-ladas, velludas, de 4-5 mm de lONB...ooooooornoorcorrcners 1, D. sellowti
-
-B'. Espiguillas con la segunda gluma casi igual a la tercera (lemma estéril), lan-
-ceoladas, velludas, de 5-6 mm de long. Panoja formada por 10 a muchos
-TACÍMOS ESPiCIfOTMES ...0ooooororrrrre rre 2. D. insularis
-
-A'. Racimos amontonados y más o menos fasciculados en el ápice de la caña florífera.
-
-C. Espiguillas con la segunda gluma mucho más corta que la lermma estéril,
-lanceoladas, de unos 3 mm de long. Racimos espiciformes en número variable,
-digitados en el ápice de la caña, de 5-15 cm de long ...... 3. D. sanguinalis
-
-C'. Espiguillas con la segunda gluma casi igual a la lemma, estéril.
-
-D. Espiguillas de 3,5 mm o más de largo. Gluma inferior ausente. Gluma
-superior y lemma estéril iguales, acuminadas, velludas. Racimos espici-
-formes 3-5, delgados, de 3-7 cm de long., amontonados en el ápice de
-la caña florífera ......oooooooorrrrrrrrrrra rr 4. D. aeguiglumis
-
-D'. Espiguillas de menos de 3 mm. Gluma inferior ausente. Gluma superior
-y lemma estéril de la misma longitud, velludas. Espigas 8 a muchas,
-débiles, de 7-11 cm de long., alternas y amontonadas en el ápice de la
-caña florÍfera .......oooooooo rre 5. D. lanuginosa
-
-1. D. sellowii (Miller) Henrard, Blumea, 1: 99, 1934. Trichachne sellowtt Miller,
-Bot. Zeit. 19: 315, 1861. Perenne, cespitosa, de 50 cm de alt. Hojas lineales, planas,
-
-pubescentes. UN
-Norte y centro de la Argentina y Uruguay. Hallada en Campana y San Isi
-
-dro.
-
-2. D. insúlaris (L.) Mez, ap. Ekman, Arkiv for Bot. 11 (4): 17, 1912. Andropogon
-insularis L., Syst. Nat. ed. 10, 2: 1804, 1759. Perenne, cortamente rizomatosa, de
-1 m de alt. Hojas planas.
-
-América tropical. Rara en la región,
-
-3. D. sanguinalis (L.) Scop., Fl. Carniol. ed. 2, 1: 52, 1772. Panicum sanguinale
-L., Sp. Pl. 1: 57, 1753. Anual, ascendente. Hojas planas. (Fig. 26, H).
-
-Europa; adventicia en América. Común en jardines y rastrojos. N. v.: pastó de.
-cuaresma, pata de gallina. Exsicc. Cabrera 2667, 7457.
-
-4. D. aequiglumis (Hack. et Arech.) Parodi, Rev. Fac. Agron. y Vet. Bs. Aires,
-4: 47, 1922, Panieum aequiglume Hack. et Arech., Gram. Uruguay.: 93, 1895. Anua
-con cañas débiles de 30-60 cm de alt. Hojas planas, estrechas.
-
-Uruguay y NE. de la Argentina. En suelos húmedos del Delta y de la ribera pla-
-
-tense.
-94 FLORA DE BUENOS AIRES
-
-5. D. lanuginosa (Nees) Henrard, var. cuyabensis (Trin.) Henrard, Monogr.
-Digitaria: 16t£, 1950. Panicum cuyabense Trin., Mem. Acad. St. Petersb. ser. 6, 3 (2):
-206, 1831, Perenne, de 40-89 cm de alt. Hojas planas, velludas.
-
-América tropical, Hallada unicamente en Puerto Nuevo. (Parodi, loc. cit.).
-
-58. EcHINocHLoa Beauv.
-
-Espiguillas deprimidas, plano-convexas, solitarias o en glomérulos irre-
-sulares sobre un lado de las ramificaciones de la panoja. Primera gluma
-corta, puntiaguda. Segunda gluma y lemma estéril iguales, puntiagudas,
-mucronadas, o la gluma cortamente aristada y la lemma largamente
-aristada. Á veces la lemma estéril encierra una pálea membranácea y
-una flor masculina. Lemma fértil plano-convexa, lisa y brillante, punti-
-aguda en el ápice. Hierbas anuales o perennes; hojas planas. Espiguillas
-en panojas compactas. Especie tipo: E. crusgallz (L.) Beauv.
-
-Bibliogr.: Martínez Crovetto, R., en Rev, Argent. Agron. 9: 310-342, 1942,
-
-A. Plantas perennes, Hojas con lígula formada por una hilera de pelos,
-B. Hojas de 10-25 mm de anch. Panojas densas (pedicelos de las espiguillas
-de menos de 1 mm de long.), verdosas o purpúreas. Espiguillas ovoideas, de
-
-4,5-7 mm de long. por 2-3 mm de anch. Gluma inferior acuminada; la superior -
-
-subaristada; lemma de la flor estéril largamente aristada.. 1. E. polystachya
-B'. Hojas de 6-10 mm de anch. Panojas laxas (pedicelos de las espiguillas de
-
-2-6 mm de long.), nutantes, paucifloras. Espiguillas lanceoladas, verdosas, -
-
-de 6-7 mm de long., por 1,7-2 mm de-anch, Gluma, inferior lanceolada, subula-
-da en el ápice. Gluma superior y lemma estéril aristadas ...... 2. E. helodes
-A'. Plantas anuales, Hojas sin lígula (a lo más algo pubescentes en la región ligular)
-C. Espiguillas de 2-2,6 mm de long., ovoides, obtusas, rojizas o verdosas, mú-
-ticas. Panoja erecta, lineal, con ramas apretadas contra el raquis. Espiguillas
-en 2-4 series, densas .....oooococorocorcnerr rr 3. E. colonum
-
-C', Espiguillas de 3 mm o más de largo, acuminadas, generalmente aristadas,
-D. Espiguillas ovoides, ensanchadas, de 2,8-3,7 mm de long. por 1,7-2 mm
-de aneh., espinulosas. Lemma estéril con arista de 3-30 mm de long.
-Panojas piramidales, densas ......eoooooroocrcraccos 4. E. crusgalle
-D'. Espiguillas lanceoladas, de 2,8-3,7 mm de long. por 1-1,4 mm de ancho
-Lemma estéril con espínulas poso desarrolladas, terminada en una arista
-
-de 2-15 mm de long. Panojas oblongo-lanceoladas, nutantes.
-
-5. E. cruspavonis
-
-1. E. polystachya (H. B. K.) Hitche.. Contrib. U. S. Nat. Herb. 22 (3): 139, 1920.
-Oplismenus polystachyus H. B. K., Nov. Gen. et Sp. 1: 88, 1815. Tallos gruesos, asten-
-dentes, estriados, glabros, Nudos glabros. Hojas planas.
-
-América tropical y subtropical. Especie acuática, flotante, frecuente en los cama-
-lotales del Delta y de la ribera platense. Exsice, Spegazzint, 1-1886.
-
-la. E. polystachya var. spectabilis (Nees) Mart. Crov., Rev. Argent. Agron. 9:
-318, 1912. Panicum spectabile Nees, Agrost. Brasil.; 282, 1829. Difiere por los nudos
-engrosados, setoso-hirsutos.
-
-Frecuente en el Delta y en la ribera del Plata. Exsicc. Cabrera 2795, 4428.
-
-2. E. helodes (Hazk.) Parodi, Physis, 8: 72, 1925. Panicum spectabile var. heloles
-Hack., en Anal. Mus, Nac. Bs. Aíres, 11: 74, 1994. Rizomas tuberculiformes. Tallos
-ascendentes, con nudos hirsutos. Hojas planas.
-
-Uruguay y NE. de la Argentina. Fresuente en suelos inundables, Exsicc. Cabrera
-5217, 7500.
-
-3. E. colonum (L.) Link, Hort. Berol, 2: 209, 1833. Panicum colonum L., Syst.
-Nat. ed. 10, 2: 870, 1759. Anual, de 10-50 cm de alt. Hojas lineales, planas. (Fig. 27).
-
-Viejo Mundo; adventicia en todo el Globo, Común en suelos modificados. Exsicc.
-Cabrera 609, 7100.
-
- 
-
-Fra. 27,
-
-GRAMINEAE
-
-— Echinochloa colonum
-
-(L.) Link, (según Martínez
-
- 
-
-Crovetto).
- 
-
- 
-
- 
-
-96 FLORA DE BUENOS AIRES
-
-4. E. crusgalli (L.) Beauv., Ess. Agrost.: 161, 1812. Panicum crusgalli L., Sp..
-
-Pl. 1: 56, 1753. Anual, de 30-100 cm de alt. Hojas planas, glabras.
-
-Europa; adventicia en América. Común en suelos modificados, Exsiec. Cabrera
-2645, 5156.
-
-5. E. cruspavonis (H. B. K.) Schultes, Mant., 2: 2
-más H. B. K., Nov. Gen. et Sp. 1: 88, 1815, Anual, de
-chas.
-
-América cálida. Muy común en la ribera platense. Exsicc. Cabrera 2044, 7458,
-
-69, 1324. Oplismenus cruspavo—
-1-2 m de alt, Hojas planas, an-
-
-59, Errocutoas H. B. K.
-
-Espiguillas deprimidas, solitarias o geminadas,
-ladas, con una dilatación claviforme en su base, disp
-sobre uno de los lados de un raquis estrecho. G
-
-cortamente pedice-
-uestas en dos hileras.
-luma inferior inconspicua,
-ta última encierra a veces:
-ísida, mucronada o aris-
-tada. Hierbas anuales o perennes, con panojas formadas por racimos
-
-simples colocados a lo largo de un eje principal. Especie tipo: E. dista-
-chya H. B, K.
-
-1. E. montevidensis Griseb., Symbolae: 306, 1879. Perenne
-de alt las amontonadas principalmente en la base, planas. Racimos pocos. Espi-
-gulllas lanceoladas, de 3-5 mm de long. Gluma y lemma, esté il fi -
-centes. Lerma fértil aristulada. (Fig. 26, E). y e miamente pubes
-
-a Y NE. de la Argentina. Se halla en campos bajos y húmedos. Exsicc,
-
-, erecta, de 30-50 em
-
-60. Panicum L.
-
-Espiguillas más o menos deprimidas, dispuestas en panojas laxas
-densas, Glumas dos, muy desiguales, la inferior muy corta, la superior
-igual 'a la lemma estéril. Esta última suele llevar una pálea membraná
-cea y, a veces, una flor masculina. Lemma fértil muy dura, rígida, cbtusa
-con los bordes enrollados sobre la pálea. Hierbas anuales o perennes
-de aspectos muy diversos. Especie vipo: P. miliaceum L.
-
-o
-
-LP liogr.: Hitebcock, A. S., and A. Chase, en Contrib, U. $. Nat. Herb, 15: 1-396.
-
-A. Espiguillas de 6-8 mm de long., ovoideo-globosas
-+luma inferior alcanzando 3/4 de la long. de la e
-estéril largamente velludas. Lemma fértil glab
-Ud o
-A'. Espiguillas de 1-5 mm de long.
-B. Espiguillas de 4-5 mm de long.
-C. Plantas robustas, flotantes, con tallos gruesos ricos en aerénquima, radi-
-cantes en los nudos, Hojas planas, de 15-50 cm de long. por 7-20 mm
-de auch, Panojas grandes, abiertas, Espiguillas lanceoladas, acuminadas,
-, de 4-5 mm de MM ooo 2. P. elephantipes
-Cc. Plantas terrestres, anuales, erectas o ascendentes, de 20-100 cm de alt.
-Hojas velludas o glabrescentes, planas, Panojas por lo común parcial-
-mente incluídas en la vaina de la hoja superior, laxas, de 10-30 cm de
-long. Espiguillas de 4,5-5 mm de long., ovado-lanceoladas. elabras. Glu-
-ma inferior alcanzando hasta /4 de la espiguilla ....... 3. P. miliaceum
-B'. Espiguillas de 1-3,5 mm de long.
-D. inflorescencia más o menos contraída, formada por espiguillas corta.
-mente pediceladas, amontonadas formando racimos que se ordenan a
-lo largo de un eje principal. :
-
-, Cubiertas de largos pelos blancos,
-spiguilla, Gluma superior y lemma
-ra. Panojas largas y densas, sub-
-o 1. P. racemosum
-
-GRAMINEAE 97
-
-: jas de 15-25 mm de anch., glabras. Plantas perennes, rizomato-
-E: sta] de 1-2 m de alt. Panojas erectas, amplias, formadas
-por numerosos racimos compuestos densos. Espiguillas elípticas, de
-2,5 mm de long., glabras; gluma inferior corta, e amesum
-
-! jas de menos de 11 mm de anchura, ,
-
-E' E epicuillas de 1-1,5 mm de long., ovoideas, semiagudas, glabras,
-Giuma inferior alcanzando '/s de la longitud de la espiguilla,
-Perenne; tallos decumbentes en la base, radicantes, luego erectos,
-de 20-50 cm de alt. Hojas lineales, glabras. Panojas formada por
-varios racimos CONtraÍdOS.......ooooomooomommoroo.. 5. P., lazum
-
-F'. Espiguillas de 1,5-3 mm de long.
-
-G. Gluma inferior alcanzando hasta 2 de la long. de la espi-
-guilla. Hojas lineal-lanceoladas, redondeadas en la base, de
-4-8 cm de long., por 5-7 mm de anebh., rígidas. Lígula, formada
-por una serie de cilias. Panojas terminales laxas, parcialmente
-incluídas en la vaina de la hoja superior; las laterales lineal-
-oblongas, de 3-4 cm de long., contraídas, paucispicadas. Es
-piguillas ovoideas, obtusas, pubescentes, de Dn lo
-MB cc . P. fultum
-
-E'. a inferior aleanzando, a lo más, hasta 1/¿ de la longitud
-de la espiguilla.
-
-l. Espiguillas de 1,8-2 mm de long., ovadas, agudas, glabras.
-Panojas contraídas, formadas por 10-25 racimos densos.
-Plantas perennes, de 30-60 cm de alt. Hojas lineales, pla-
-MAS 7. P, miltoides
-
-T'. Espiguillas de 2,5-3 mm de long., lanceoladas, agudas,
-glabras, rojizas, con gluma inferior muy corta. Panojas
-muy densas, espiciformes, formadas por 4-10 racimos.
-Plantas rizomatosas, ascendentes, de 20-40 cm de alt.
-Hojas lineales .................. mono SP, decipiens
-
-D'. Inflorescencia muy laxa, difusa, formada por espiguillas largamente pe-
-S. ,
-
-, a base de la espiguilla existen generalmente algunas cerdas invo-
-lucrales caducas. Plantas bambusoides, rizomatosas, de 13 m do
-alt. Hojas con vainas coriáceas, glabras o pestañosas; láminas L-
-neales. Panojas amplias, de 25-30 cm de long.; ramificaciones verti-
-ciladas. Espiguillas anchamente ovoideas, de 2,5 mm de long. Gluma
-inferior tan larga como Y/a de la espiguilla ..... 9. P, tricholaeno? es
-
-4. Espiguillas sin cerdas en su base. Plantas no bambusoides.
-
-. Plantas anuales.
-
-E L. Plantas densamente bhirsutas, erectas, de 20-80 cm de alt.
-Hojas planas. Panojas amplias y laxas. Espiguillas ovoideo-
-lanceoladas, acuminadas en el ápice, de unos 2 mm de long.
-
-: Gluma inferior aguda, alcanzando */¿ de la long, de la es
-laUilla .......oooooooorooooo canon. mo... . P. capr
-
-T'. Plantas laxamente pubescentes o glabras, ascendentes o
-
-erectas, de 50-100 cm de alt. Hojas planas. Panojas terminales
-
-y axilares, incluídas parcialmente en la vaina de la hoja su-
-
-perior o tardíamente exertas, multifloras, de 10-40 cm de
-
-long. o más. Espiguillas estrechamente ovadas, de 2-3,2 mm
-
-de long., agudas. Gluma inferior truncada o anchamente
-triangular, alcanzando sólo Y/s a Ya de la longitud de la es-
-piguilla .......ooocooooococomo..... 11. P. dichotomiflorum
-
-K'. Plantas perennes.
-
-M. Hojas planas, anchas, de 5-15 mm de anch., con la base de
-la lámina redondeada o auriculada.
-N. Gluma inferior obtusa, alcanzando sólo de Y; a Ya de
-la long. de la espiguilla ...... 11. P. dichotomiflorum
-N'. Gluma inferior aleanzando de Ys a 94 de la long de la.
-espiguilla.
- 
-
-98 , FLORA DE BUENOS AIRES
-
-“50. Lígula pilosa. Hojas de más de 6 cm de long., lan-
-ceoladas. Espiguillas obovadas, obtusas, laxamente
-pubescentes, de 2,5 mm de long. Panojas laxas,
-parcialmente incluídas en la vaina de la hoja su-
-
-perior o exertas tardíamente .... 12, P. sabulorum
-: 0'. Lígula glabra o casi glabra. Hojas de 4-5 cm de
-. long.
-
-P. Espiguillas obtusas, de unos 2 mm de long., lar-
-gamente pediceladas, glabérrimas. Gluma in-
-ferior alcanzando %/, de la espiguilla. Lemma
-estéril con una. flor maseulina, Hojas lanceola.
-das, redondeadas o auriculadas en la base. Pa-
-nojas difusas, muy laxas ..... 13. P. helobium
-
-P*. Espiguillas agudas, ovadas, glabras, de unos
-2 mm de long. Gluma inferior casi tan larga como
-la superior. Panojas cortas, paucispicadas, ter-
-minales y axilares. Hojas lanceoladas, redondea-
-das y semiabrazadoras en la base, de 4-5 cm
-de long. ...... e 14. P. unilineatum
-
-M'. Hojas por lo común más o menos convolutas, de 1-5 mm
-de anch., no redondeadas en la base de la lámina.
-R. Plantas con rizomas horizontales u oblicuos cundidores.
-
-Tallos de unos 30 cm de alt. Panojas pequeñas, densas, .
-
-algo purpúreas. Espiguillas de 2,2 mm de long., por
-
-1 mm de anch. Primera gluma triangular, alcanzando
-
-1/, del largo de la espiguilla ........... 15. P. gouini
-
-R'. Plantas cespitosas. Gluma inferior alcanzando de Y. a
-
-1/, del largo de la espiguilla,
-
-S. Hojas de 1-3 mm de anch., lineales, rígidas, pubes-
-centes. Plantas de cerca de 50 cm de alt. Panojas
-deltoideas, amplias, muy laxas, Espiguillas ovoideas
-acuminadas, de 2-2,5 mm de long., glabras.
-
-16. P. bergit
-
-S'. Hojas de cerca de 5 mm de anch. Plantas de 50-100
-cm de alt., ligeramente hirsutas o glabrescentes. Pa-
-nojas amplias, difusas, Espiguillas ovoideas, acumina-
-das, glabras, de 2,5 mm de long. 17. P. pilcomayense
-
-1. P. racemosum Spreng., Syst. Veg. 1: 313, 1825, Perenne, rizomatosa, de 70-
-120 cm de alt. Hojas con vainas retrorso-velludas y lámina convoluta. (Fig. 28, K).
-
-Sur del Brasil, Uruguay y NE. de la Argentina. Frecuente en las dunas de la ense-
-nada de Samborombón y del litoral atlántico. Hallada. también en el médano de la
-isla Martín García. Exsice. Cabrera 4944.
-
-2. P. elephantipes Nees, Agrost. Brasil.: 165, 1829. (Fig. 28, H).
-
-América cálida. Muy común en los camalotales del Delta y de la ribera platense.
-
-N. v.: pasto camalote. Exsicc. Cabrera 1416, 4430.
-
-3. P. miliaceum L., Sp. Pl 1: 58, 1758. (Fig. 28, O).
-Asia. Cultivado por sus granos y, a veces, subespontáneo en suelos modificados,
-calles, ete. N. v.: mijo. Exsiec. Dawson 713.
-
-4. P. grumosum Nees, -Agrost. Brasil.: 182, 1829: (Fig. 28, D).
-
-Sur del Brasil, Uruguay. Paraguay y NE. de la Argentina, Muy frecuente en suelos
-inundados del Delta y de la ribera del Plata, N. v:: paja mansa. Exsicc. Cabrera
-2267, 3271, 7386.
-
-5. P. laxum Sw., Prodr.: 23, 1788. (Fig. 28, L).
-Indias occidentales y América cálida. Hallada en Martín García.
-
-6. P. fultum Hack, en Fedde, Repert. 6: 342, 1909. Erecta, de 20-30 cm de alt.
-Paraguay, Uruguay y NE. de la Argentina. Citada para la isla Martín García
-por Parodi (loc. cit.: 93). :
-
-7, P. milioides Nees, Agrosi. Brasil. :
-
-Delta y de la ribera platense.
-
- 
-
- 
-
- 
-
-99
-GRAMINEAE
-
-175, 1829. (Fig. 28, E). , .
-Sur del Brasil, Uruguay y NE. de la Argentina. Común en campos húmedos. Exsicc.
-ur de , h
-
-Cabrera 1412, 7417, 7584.
-
-ipi L: 193, 1829. (Fig. 28, B).
-S p. decipiens Nooo. 49 EEN Ta Argentina. En suelos arenosos húmedos del
-ur y y
-
-Exsiee. Cabrera 2262, 3368.
-
- 
-
- 
-
-y s Aires: A, P.
-ecies del género Panicum de los alrededores de Buenos e isides
-
-sum Nees;
-ra ap. elephantives Nees; J, P.
-capillare L.; N, P. picoma-
-
-: = iguillas de las esp an o
-Te 28. O P. decipiens Nees; C, P. gouins Pourn. a:
-bd F P. dichotomiflorum Mehx.; G, P. e o Y
-Bulorum Lam.; K, P. racemosum Spreng.; L, P. ;
-Sense Hack.; O, P. miliaceum L. (< 10).
-
-ic - Gramán.: 68, 1855. (Fig. 28, G).. o
-Y se o la a Hallada en los arenales de la Isla Santiago. Éxsicc.
-rugua; . ¿
-
-Spegazzini TI-1889.
-1 : 58 . (Fig.
-llare L., Sp. Pl. 1: 58, 1753. (Fig.
-
-Anérica. del Norte: adventicia en la Argentina.
-
-Spegazzini 18295,
-
-2 : M). “q .
-Ñ e suelos modificados. Exsice.
-
-Fl. Bor. Amer. 1: 48, 1803. (Fig. 28, F).
-
-11. P. dichotomiflorum Michx., e a caczine 1-1886.
-
-América cálida. En lugares húmed
-
-bulorum Lam., Encycl. Meth. 4: 744, 1798. Perenne, ascendente, de 50
-abu » yel,
-
-hadas en la base. (Fig. 28, 3).
-
-12. P. s
-en la ribera del Plata. Ex-
-
-, jas lanceoladas, ensanchad ,
-ay a. de la Argentina Común en el Delta y
-
-sicc. Dawson 861.
-
-13. P. helobium Mez, ap. Ekman, Árkiv for Bo
-
-d 40 cm de alt. ,
-ascendente, hasta el Delta del Paraná.
-
-E 11 (4): 23, tab. 1, 1912, Pe-
-
--Tenne, 1
-América tropical,
- 
-
- 
-
-ms
-
-100
-FLORA DE BUENOS AIRES
-
- 
-
-   
-
-2: 14, P. unilineatum M
-
-UD cn t ez, Bot. Jahrb. 56 (Beibl. 125): 1, 1921. Perenne, tendido
-
-. ' ó. Nordeste de la: Argentina, hasta el Delta.
-
- 
-
-15. P: gouini Fourn., Mex. Pl. 2: 28, 1886. (Fig. 28 C)
-
-e
-“fySur de los Estados Unidos, Méxi
-; : , México, U: i
-y le, la ribera platense, Exsice. Cabrera 1264. 7458, Asgentina. Frecuente en el césped
-
-Na
-
-“16, P. bergii Arech., Gram. Uruguay.: 127, 1894. (Fig. 28 A)
-
-Uruguay y NE. de la Argenti
-lado o, E, de 24, CS Precuente en la estepa climax. N. v.: paja vo
-
-17, P. pilcomayense Hack Bull ;
-> . Herb. Botss. ser. 2, 7: i ;
-Paraguay y NE. de la Argentina. Hallada en Palermo por Pe: PA
-
-61. Pasparum L.
-
-_ Espiguillas deprimidas, plano-convexas
-sésiles, solitarias o en pares, dispuestas en
-
-una 1
-a 2 pone 0 Ne los lados de un Taquis angosto o dilatado, con el dors
-So As Ñ értil hacia este raquis. Primera gluma, generalmente ause te.
-de o a gluma y lemma estéril generalmente casi iguales. Lemma tertil
-poro común obtusa, dura, con los bordes enrollados. Hierbas ener ,
-a po ennes, con frecuencia rzomatosas, con hojas planas > espia
-a estas en racimos espiciformes unilaterales solitarios. di
-208 O dispuestos en número diverso a lo largo de un eje incipal, Espoz
-cle tipo: P. dissectum L. Je prnl. Espe-
-Bi . . ;
-ibliogr.: Parodi, L, R., en Rev. Mus. La Plata (W. 8.) Bot. 1: 211-250 1937
-A. Plantas perennes, flot j osa, l
-, Hotantes, con vainas dilat
-sobre el agua, radicantes en los nudos. PS
-csbigas, con quis membranáceo ancho
-piguillas ovado-lanceoladas, de uno
-, ». s 2 mm de long. .
-A' pantas terrestres, con vainas no dilatadas. Raquis ponoralma o e tro,
-2 o más angosto que las espiguillas. pncammente triquetro,
-
-B. Inflore; j
-. se : .
-midad d e pineda por dos espigas geminadas en forma de V en la ext
-o 1 5 oríteras, raramente con una, terce iga 1 o
-le las otras, ra espiga Inserta cerca
-
-Ds as cortos y fuertes, que dan lugar a matas compacta
-ou obovadas, een en done ia EE dipicas
-Dr ¡qierbas de 15-40 cm de alt. ... seno Fspigas de ES Po so eS
-| j roca o mm pe Jong» elípticas u obovadas, a
-. A E » . SpIga,
-
-A de hasta 16 cm de long. Plantas de O e e vee
-
-o 3. P. notatum
-Espiguillas lanceoladas, de
-
-y e€sponjosas; tallos tendidos
-escencias formadas por más de 20-
-terminado en una punta delgada. Es-
-
-  
-  
-
- 
-
- 
-
- 
-
-¿Ct Plantas con rizomas 1
-yn Ñ a
-25 mr de rgos y profundos.
-2. Gluma finamente pubescente: 1 1
-E ; lerama estéril glabra, 1
-: ¡ ¡analmente pedunculadas, de 2-6 cm de lorig. MI de. 25%
-E e long. Hierbas de menos de 25 cm de alt... 4. P distichum.
-
-G O :
-luma y lerama estéril glabras. Espigas con pedicelos casi iguales
-
-0 tros : : *
-Hierbas per ennes, de Menos de 25 cm de alt 5.1 vaginatum
-
-B' polosescencia formada por l-w espigas nunca geminadas
-. E Pastaña, lustrosa, pronunciadamente convexa.
-ES a eespitosas, de 30-90 cm de alt. Espigas 3-6, alternadas, de
-do 2% spiguillas en dos series, Ovado-elípticas, de 2,8-3 Tam
-: Mel e y lemma estéril glabras, membranáceas, castañas:
-o 6. P. plicatulum
-
- 
-
- 
-
- 
-
-GRAMINEAE 101
-
-G'. Plantas con largos rizomas horizontales, de 30-40 cm de alt. Espi-
-gas 3-6, de 2,5-6 cm de long. Espiguillas de color castaño claro, elíp-
-ticas, de unos 3 mm de long. ......ooooococoronocors> 7. P, nicorae
-
-FF', Lemma blanca o pajiza, suavemente convexa O navicular.
-
-H. Inflorescencia formada por 3-10 espigas,
-
-J. Espigas de 1,5-3 cm de long. Plantas cespitosas, con estolones.
-Cañas floríferas de cerca de 50 cm de alt., con 6-8 espigas. Espigui-
-llas glabras, ovado-elípticas, de 2-2,5 mm de long. 8. P. proliferum
-
-J'. Espigas de 3-9 cm de long. Plantas sin estolones.
-
-K. Espiguillas de 1,5 mm de long., verdosas, ovadas. Hierba
-erecta, perenne, de 50-100 cm de alt, Espigas 4-6, delgadas,
-de 4-5 cm de lodg8. .....oooomocoo.oooo.. 9. P. malacophyllum
-
-K'. Espiguillas de 3-3,5 mm de long.
-
-L. Espiguillas de color castaño claro, obovadas, corta y floja-
-mente pubescentes. Hierba cespitosa, de 50 cm y más de
-alt. Espigas 3-7, de 3-5 cm de long. .... 10. P. alcalinum
-
-1 L'. Espiguillas verdosas, en pares, ovadas, agudas, de 3-3,5
-> mm de long. por 2-2,5 mm de anch. Gluma y lemma esté-
-ril pubescentes, pestañosas en el borde. Antecio lenticular,
-blanquecino. Hierba perenne, de 50 cm de alt. Espigas
-3-6, de 5-9 ex de long., inclinadas ..... 11. P. dilatatum
-7  H'. Inflorescencia formada por 12-«w espigas.
-M. Espiguillas verdosas, obovadas, agudas, de 2,3-2,6 mm de long.
-
-Hierba perenne de 1,5-2 m de alt. Espigas 10-25.. 12. P. urvilles
-
-M'. Espiguillas ferrugíneas o rojizas.
-
-N. Vainas foliares notablemente carenadas. Espiguillas glabras,
-ovadas, de 2,5-2,8 mm de long., por 1,5 mm de anch, Es-
-pigas numerosas. Hierba cespitosa, de 1 m y más de alt.
-
-13. P. intermedium
-
-N'. Vainas foliares cilíndricas o apenas carenadas. Espiguillas
-pubeszentes, al menos en el borde de las glumas.
-
-O. Espiguillas de 2-2,5 mm de long., ovado-lanceoladas,
-en 4 hileras; gluma pubescente; lemma estéril plana,
-casi glabra. Planta cespitosa de 1-1,8 m de alt, Hojas
-glabras, largas. Espigas ferruginosas, 15-25, de cerca
-de 7 cm de long. ............. 14. P. quadrifarium
-
-O'. Espiguillas de 3-4 mm de long.
-
-P. Inflorescencia formada por 12-30 espigas. Espigui-
-llas de 3,3-3,7 mm de long., ovadas, agudas; gluma
-lanceolada, apiculada, 4-5-nervada, con pubescen-
-cia rala en el margen; lemma estéril lanceolada,
-glabra. Hierba perenne, densamente cespitosa, de
-1,5-2 m de alt. Hojas muy largas, de 1 cm de anch,
-
-15. P. exaltatum
-
-P?. Inflorescencia con 40-80 espigas, piramidal, de cerca
-
-> de 50 cm de long. Espiguillas en 4 o más series,
-
-: lanceoladas, ferrugíneas, de 3,5-4 mm de long., por
-
-: 1,5 mm de anch. Gluma casi glabra. Lemma estéril
-plana. Antecio blanquecino. Plantas densamente ces-
-
-pitosas, de 2-3 m de alt, Hojas de 1-1,5 m de long.,
-
-por 12-14 mm de anch........... 16. P, haumant
-
-1. P. repens Bergius, Act. Helv. Phys. Math. 7: 129, tab. 7, 1762.
-América cálida. Muy común en los camalotales del Delta y de la ribera platense.
-Exsice. Cabrera 1707. :
-
-2. P. pumilum Nees, Agrosi. Brastl.: 52, 1829.
-América tropical y subtropical. Común en el césped de la ribera. Exsice. Cabrera
-
-7942.
-
-3. P. notatum Flueg. var. latiflorum Doell, en Mart., Fl. Brasil. 2 (2): 73, 1877,
-América tropical y subtropical. Común en campos altos. Exsicc. Cabrera 7158.
-102
-
-FLORA DE BUENOS: AIRES
-
-   
-
-38. P. notatum
-
-, var. saurae Parodi, Rev, Argent, Agron, 15: 55, 1948. Espi-
-guillas menores, de sólo 2,8-3 mm de long.
-
-Nordeste de la Argentina. Hall
-
-ado en el Dock Sur. Exsice. Parodi 48.
-4. P. distichum L., Amoen. Acad. 5: 391, 1789.
-
-América tropical y subtropical Adventicia en otras regiones del globo. Común
-en praderas húmedas. N. v.: gramilla dulce. Exsice. Cabrera 7501.
-5. P. vaginatum Sw.
-
-, Nov. Gen. et Sp.: 21, 1788.
-América cálida y templada, Muy común en suelos húmedos, Exsice. Cabrera
-7603.
-
-"6. P. plicatulum Michx., Fl. Bor. Amer. 1: 4
-
-5, 1803.
-América cálida. En la estepa climax. Exsice.
-
-Cabrera 7408,
-7. P. nicorae Parodi, Not. Mus. La Plata, 8: 82, 1943. P. plicatulum var. arende
-rium Arech., Gram. Uruguay.: 65, 1894,
-xo Uruguay y NE. de la Argentina. En suelos arenosos del Dock Sur,
-8. P. proliferum Arech., Gram, Uruguay.: 63, 1894.
-Uruguay y NE. de la Argentina. Seh
-
-alla en el Delta y en la ribera del Plata. Exsice,
-l Jozami 62,
-9. P. malacophyllum Trin. var. linearifolium Hack., en Fedde, Repert, 6: 341,
-1909,
-
-Paraguay y NE. de la Argentina, Hallado en Palermo por L. R. Parodi,
-
-10. P. alcalinum M
-
-ez, en Fedde, Repert. 15: 75, 1917.
-América cálida. Acci
-
-dental en Palermo. Exsice. Parodi 7,
-
-11. P. dilatatum Poir., Encyel. Meth. 5: 35, 1804. (Fig. 26, F).
-Región platense. Común en campos fértiles. N. v.: pasto miel, Exsicc. Cabrera
-1679, 3420. .
-
-12. P. urvillei Steud., Syn. Gramin.: 24, 1855,
-
-América cálida. Muy frecuente en la ribera platense. Exsiec. Cabrera 1356, 4427,
-; 13. P. intermedium Munro, ex Morong et Britton, Ann. New York. Acad. Scien,
-: 7: 258, 1892.
-
-Nordeste de la Argentina. Accidental en Palermo (Parodi, en loc. cit.:
-
-14. P. quadrifarium Lam., Zllustr. Gen, 1: 176, 1791.
-Uruguay y NE. de la Argentina. En campos bajos. N. y.: paja colorada. Exsice.
-| Cabrera 9156.
-
-94).
-
-| 15. P. exaltatum Presl., Rel Haenk.
-| Región platense. En
-Cabrera 5635.
-
-1: 219, 1830. :
-
-suelos bajos inundables: Delta, ribera platense, etc. Exsice,
-
-16. P. haumanii Parodi, Comun. Mus. Nac. Bs, Altres, 2 (21): 217, 1925.
-Uruguay y NE. de la Argentina. Frecuente en el Delta y en la ribera del Plata,
-Exsice. Cabrera 2769, 2774.
-
-62. Pexyiserum L. Rich.
-
-Espiguillas solitarias o en grupos de 2
-de cerdas libres, a veces Plumosas, que se desprenden con la, espiguilla,
-Gluma inferior corta, a veces ausente. Gluma superior igual a la lemma
-estéril o algo más corta. Lemma fértil cartácea, lisa, con bordes delgados,
-incluyendo a la pálea. Hierbas anuales o perennes. Hojas planas. Panojas
-
--densas, espiciformes. Especie tipo: P. typhoideum L. Rich.
-Bibliogr.: Parodi, L. R., Anal. Mus. Nac. Bs. Altres, 32: 501-526, 1925,
-
--3, rodeadas por un involuero
-
- 
-
- 
-
- 
-
-at
-
-103
-GRAMINEAE
-
-j lensas-
-¿s de 20, de 35 mm de long. Panojas «
-j ales plumosas, más de 20, 5 n e ra
-A EE oe long. por 2-2,5 cm de anch. Espiguillas lanceo adas, de citan
-e aora de
-de volacrt j -12, de menos de 20 mm de long (
-a Cerdos a o na de ellas de doble longitud). Panjas Eresas, de
-o do 10ng,, inclinadas. Espiguillas lanceoladas, de 4- de cfolium
-
-. izo
-illosum R. Br. en Salt., Voy. Abyss. App.: 62, 1814. Hierba perenne, riz
-s . Br. ,
-e Baja Hojas lineales, plegadas, escabrosas. des. Exsico. Cabrera 597, 2187.
-cs Adventicia en América. En suelos modificados. Ex
-Africa.
-
-5 3 8 1: 02 1 P 1 5 d .
-t olium ren i Ve 8 erenne. erecta de > 3
-p . Sys . g. 8 25. r n de
-2. P. la if £-, > ( 7 7
-é a austral En matorrales de la ribera platense, Exsice. Cabr era 4420, 6355.
-Amérle, .
-
-63. SeTarRIA Beauv.
-
-á rdas involucrales que persisten
-Dd ss eS de caer aquéllas. Gluma inferior ancha, poner'
-o men de la mitad de la longitud de la espiguilla, nora »
-AA Derior 1 ual o algo más corta que la lemma estéril, p on
-o “eraraa 16 cl coriácea, lisa Oo rugosa transversalmente, mú ica
-o Ss muales o perennes; hojas planas; panojas densas, frecuen
-nta espieiformes. Especie tipo: £. viridis (L.) Beauv.
-
-Herrmann, W., Ueber das phylogenetische alter das mechanischen gewer
-Bibliogr.: Herrn Wo,
-besisleme bes Setaria, Halle, 1909,
-
-i j m tallos ascendentes
-i ás de cinco. Perenne, cespitosa, co los dentes
-A o Hojas escabrosas en el margen. Panojas o Laa
-los de unos 2,5 me de long, 5 5 a a
-] i arame -3). Anual, de
-A'. Cerdas involucralos * retrorsos que las hacen adherentes a la ropa Mie
-B: 000 cm de alt. Panoja densa, espiciforme, interrumpida e A
-i de lonB......ooooorrrrrrr rr .
-e ntrorsos, no adherentes. )
-a alos de O om de alt. Panojas a y nu
-o: do más o menos 4-6 cm de long., por LS oiga de 2: SES vara
-panoja velludo. Cerdas involucrales 1-3, aras. —Espiguillas REN
-de long..........:.++* RN CIN
-as lineales u oblong . a
-A as de 60-100 cm de alt, Hojas de hasta A E AS
-Da 12-15 mm de anch. Panojas espiciformes, cas , ad
-long. ar r or 15-20 mm de diám. Espiguillas ovol os, A
-SN e do 1559 mm de long. Gluma inferior alcanzando | Sci 2
-ss de la espiguilla; gluma superior llegando hasta */4 ñ a ma
-Lemma estéril con una flor abortiva............ de A
-D'. Plantas generalmente menores. Hojas de > mos os
-" 1 5-10 cm de long., . .
-chura- pisas as, de 1,8 mm de long., glabras. lesa
-E Icanzando hasta la mitad de la espiguilla; a >
-canzando hasta 3/4 de la longitud de, la espiga a e Le se
-i -150 cm de alt. Hojas de unos ,
-pitosa, se E Panojas densas, espiciformes, de so brida
-d on por unos 10 mm de diám. Eje escabroso. A
-E' Fspiguillas ovoideas, de 2-2,5 mm de Jong. a glu
-" aleanza casi hasta el ápice de la espiguilla. P ne, cespitosa,
-MN Eje de la inflorescencia glabro o o Pl
-" 30-50 cm de alt. Panoja densa, as
-gi de log. .......oooooooommrorrroos 6. S. caespt
- 
-
-. alt. Ha j as estrechas
-, 4 menudo i j j
-] o l o 11 volutas, Panojas flojas, angostas, Espiguillas lan-
-
- 
-
-FLORA DE BUENOS AIRES
-
-PE; . .
-z o e o orescencia pubescente, Perenne, cespitosa, d
-a parnojas Espiciformes, no muy densas algo
-
-s S rte inferi '
-guillas de unos 2 mm de long. 7 de Tell om de Se o
-os . Ñ. vaginata
-
-. . g ( . “y =
-o Enea hol eauv Ss. grost.: 51 y 8, 8 2. antcum genicu.
-
-América Y en .
-rica templado-cálida. Ubicua, Principalmente en rastrojos y
-
-CA oa
-abrera 1405. Sl jardines. Exgice,
-
-2. S. verticillata L)B
-L., Sp. Pl. ed. 2, 182 1762, 7 0 AMOS 51 y 178, 1819,
-
-Uropa; adventicia en América. Ubicua. Exsice Cabrera 610, 2047
-
-3. S. viridis (L. B
-Pe o Ts, o eauv., Ess, Agrost.- 51 y 178, 1812, Panicum viride L., Sp
-
-Europa: ici éri
-pa; adventicia en América. En ambientes diversos
-
-Panícum verticillatumm
-
-0 E
-4. S. argentina Herrmann, Selaría: 54 1909 e e OL
-
-Bolivia Para, O: ntina E
-, guay y norte de la Ar, enti e Y; Í T
-al norte de la Capital Fed L E A E 1 '. MESE nte a lo largo de las Ías é reas
-
-erigió oremann, Setaria: 56, 1909
-e Y A£. de la Argentina. Se halla al norte, de la Capital Federal, h
-eral, hasta
-
-. S, esp: . ,
-v ack. et Ar ch, G am. UYUAY, ]
-| Ú Ca itosa H ek e: 7 Ur .. 146, fig. 15, 1894. Fig 26 G
-rug 19,y y N J do la Ar gentina. Se halla en la estepa climax y en las [a de
-
-- S. vaginata Spreng., Syst, Veg. 4 (2): 33 1827
-
-7
-Sur del Brasil. Uru
-. guay y NE. d i á
-? e la Argentina. Común en la región. N, y.:
-
-de zorro, Exsice. Cabrera 246 oa
-
-61. STENOTAPERUM Trin,
-
-l sculina. Lemma
-5, con cañas florales cortas
-y axilares. Especie tipo:
-
-térti o :
-értil papirácea. Hierbas Perennes, estolonífera
-
-Ho jas cor tas y O t
-b usas. Ss 1 y 1 e
-j : E Pp. gas er minal s
-
-a
-
-iguillas con gluma inferior ausente. Se
-
-lacerado 0 ciliado, Inflores enc en panñojas n ostas Es ecie tipo
-a a cia e a g . p
-
-1. L. lanatum (q. B. K.) Nees, Ágrost. Brasil.:
-
-H. B. K., Nov, Gen. et Spec, 1: 91, tab. 29, 1816 Per a palm al
-
-énne, erecto, de 50-100 cm de
-
-América cáli
-a cálida, Norte de la Provincia de Buenos Aires
-
- 
-
- 
-
-GRAMINEAE 105
-
-66. lcgxaxtHUS Beauv.
-
-Espiguillas con la gluma inferior casi tan larga como la superior. Lemma
-de la flor hermafrodita con dos excavaciones laterales en su base. Plantas
-con hojas lanceoladas; espiguillas agrupadas en panojas. Especie tipo:
-
-I. panicuides Beauv.
-
-1. L. pallens (Sw.) Munro, ex Benth., FI. Hongk.: 414, 1861. Panicum pallens
-Sw., Prodr.: 23, 1788. Perenne, rastrera O ascendente. Hojas anchamente lanceo-
-ladas, glabras. Espiguillas lanceoladas, de 3,5-4 mm de long. (Fig. 26, 1).
-
-América tropical, Rara en la región: Isla Martín García.
+55. AXONOPUS Beauv.
+    Espiguillas unifloras, deprimidas, biconvexas, oblongas, subsésiles, dispuestas en dos filas a lo largo de uno de los lados de un raquis
+    triangular con el dorso de la lemma fértil hacia afuera. Glumas 2 (gluma superior y lemma estéril), iguales. Lemma fértil y pálea rígidas.
+    Hierbas perennes (raramente anuales), estoloníferas. Hojas planas. Espigas delgadas digitadas en el ápice del tallo o racimosas a lo largo de éste.
+    Especie tipo: A. compressus (Sw.) Beauv.
+
+56. CENCHRUS L.
+    Espiguillas rodeadas por un involuero espinoso formado por numerosas cerdas soldadas entre sí, que se desprende cayendo con la espiguilla.
+    Espinas provistas con frecuencia de barbas retrorsas. Glumas 2, muy desiguales. Lemma estéril muy semejante a la gluma superior, Hierbas
+    anuales o perennes. Hojas planas. Espiguillas racemosas.
+    Especie tipo: C. echinatus L.
+        A.  Cerdas involucrales delgadas, unidas únicamente en su base, cubiertas de pelitos retrorsos. Racimos densos, espiciformes, de 10-25 em de long..
+                                                                                        1. C. myosuroides
+        A'. Cerdas involucrales muy ensanchadas y unidas por encima de la base.
+        B.  Involucro formado por numerosas cerdas, las externas delgadas, las internas ensanchadas en la base, soldadas entre sí casi hasta su mitad, con pelos retrorsos. Racimos densos, espiciformes, de 3-10 em de long. Espiguillas agrupadas de a 4.
+                                                                                        2. C. echinatus
+        B'. Involucro formado únicamente por espinas muy anchas en la base, abiertas, sin pelos retrorsos. Racimos de 3-8 cm de long. Espiguillas 2 en cada involucro.
+                                                                                        3. C. pauciflorus
+
+57. DIGITARIA Heister
+    Espiguillas en grupos de 2-3, sésiles o cortamente pediceladas, dispuestas en dos hileras sobre uno de los lados de un raquis triangular,
+    lanceoladas o elípticas, casi plano-convexas. Gluma inferior muy pequeña; gluma superior igual a la lemma estéril o más corta. Lemma fértil
+    cartilagínea. Hierbas anuales o perennes. Espiguillas en espigas unilaterales o racimos espiciformes, amontonados en el ápice de la caña
+    florífera o racimosos a lo largo de un eje principal.
+    Especie tipo: D. sanguinalis (L.) Scop.
+        A.  Racimos distribuidos a lo largo de un eje principal, no amontonados en el ápice de la caña.
+            B.  Espiguillas con la segunda gluma mucho más corta que la tercera (lemma estéril). Panoja formada por 3-6 racimos espiciformes. Espiguillas lanceoladas, velludas, de 4-5 mm de long..
+                                                                                        1. D. sellowii
+            B'. Espiguillas con la segunda gluma casi igual a la tercera (lemma estéril), lanceoladas, velludas, de 5-6 mm de long. Panoja formada por 10 a muchos racímos espiciformes.
+                                                                                        2. D. insularis
+        A'. Racimos amontonados y más o menos fasciculados en el ápice de la caña florífera.
+            C.  Espiguillas con la segunda gluma mucho más corta que la lermma estéril, lanceoladas, de unos 3 mm de long. Racimos espiciformes en número variable, digitados en el ápice de la caña, de 5-15 cm de long..
+                                                                                        3. D. sanguinalis
+            C'. Espiguillas con la segunda gluma casi igual a la lemma, estéril.
+                D.  Espiguillas de 3,5 mm o más de largo. Gluma inferior ausente. Gluma superior y lemma estéril iguales, acuminadas, velludas. Racimos espiciformes 3-5, delgados, de 3-7 cm de long., amontonados en el ápice de la caña florífera.
+                                                                                        4. D. aequiglumis
+                D'. Espiguillas de menos de 3 mm. Gluma inferior ausente. Gluma superior y lemma estéril de la misma longitud, velludas. Espigas 8 a muchas, débiles, de 7-11 cm de long., alternas y amontonadas en el ápice de la caña florÍfera.
+                                                                                        5. D. lanuginosa
+
+58. ECHINOCHLOA Beauv.
+    Espiguillas deprimidas, plano-convexas, solitarias o en glomérulos irregulares sobre un lado de las ramificaciones de la panoja. Primera
+    gluma corta, puntiaguda. Segunda gluma y lemma estéril iguales, puntiagudas, mucronadas, o la gluma cortamente aristada y la lemma largamente
+    aristada. Á veces la lemma estéril encierra una pálea membranácea y una flor masculina. Lemma fértil plano-convexa, lisa y brillante,
+    puntiaguda en el ápice. Hierbas anuales o perennes; hojas planas. Espiguillas en panojas compactas.
+    Especie tipo: E. crusgallz (L.) Beauv.
+        A.  Plantas perennes, Hojas con lígula formada por una hilera de pelos,
+            B.  Hojas de 10-25 mm de anch. Panojas densas (pedicelos de las espiguillas de menos de 1 mm de long.), verdosas o purpúreas. Espiguillas ovoideas, de 4,5-7 mm de long. por 2-3 mm de anch. Gluma inferior acuminada; la superior subaristada; lemma de la flor estéril largamente aristada.
+                                                                                        1. E. polystachya
+            B'. Hojas de 6-10 mm de anch. Panojas laxas (pedicelos de las espiguillas de 2-6 mm de long.), nutantes, paucifloras. Espiguillas lanceoladas, verdosas, de 6-7 mm de long., por 1,7-2 mm de-anch, Gluma, inferior lanceolada, subulada en el ápice. Gluma superior y lemma estéril aristadas.
+                                                                                        2. E. helodes
+        A'. Plantas anuales, Hojas sin lígula (a lo más algo pubescentes en la región ligular)
+            C.  Espiguillas de 2-2,6 mm de long., ovoides, obtusas, rojizas o verdosas, múticas. Panoja erecta, lineal, con ramas apretadas contra el raquis. Espiguillas en 2-4 series, densas.
+                                                                                        3. E. colonum
+                C'. Espiguillas de 3 mm o más de largo, acuminadas, generalmente aristadas,
+                D.  Espiguillas ovoides, ensanchadas, de 2,8-3,7 mm de long. por 1,7-2 mm de anch., espinulosas. Lemma estéril con arista de 3-30 mm de long. Panojas piramidales, densas.
+                                                                                        4. E. crusgalli
+            D'. Espiguillas lanceoladas, de 2,8-3,7 mm de long. por 1-1,4 mm de ancho Lemma estéril con espínulas poso desarrolladas, terminada en una arista de 2-15 mm de long. Panojas oblongo-lanceoladas, nutantes.
+                                                                                        5. E. cruspavonis
+
+59. ERIOCHLOA H. B. K.
+    Espiguillas deprimidas, solitarias o geminadas, cortamente pediceladas, con una dilatación claviforme en su base, dispuestas en dos hileras
+    sobre uno de los lados de un raquis estrecho. Gluma inferior inconspicua. Gluma superior y lemma estéril casi iguales (esta última encierra
+    a veces una pálea y una flor masculina). Lemma, fértil rísida, mucronada o aristada. Hierbas anuales o perennes, con panojas formadas por
+    racimos simples colocados a lo largo de un eje principal.
+    Especie tipo: E. distachya H. B. K.
+
+60. PANICUM L.
+    Espiguillas más o menos deprimidas, dispuestas en panojas laxas densas. Glumas dos, muy desiguales, la inferior muy corta, la superior igual
+    a la lemma estéril. Esta última suele llevar una pálea membranácea y, a veces, una flor masculina. Lemma fértil muy dura, rígida, obtusa con
+    los bordes enrollados sobre la pálea. Hierbas anuales o perennes de aspectos muy diversos.
+    Especie vipo: P. miliaceum L.
+        A.  Espiguillas de 6-8 mm de long., ovoideo-globosas, cubiertas de largos pelos blancos. Gluma inferior alcanzando 3/4 de la long. de la espiguilla. Gluma superior y lemma estéril largamente velludas. Lemma fértil glabra. Panojas largas y densas, subnutantes.
+                                                                                        1. P. racemosum
+        A'. Espiguillas de 1-5 mm de long.
+            B.  Espiguillas de 4-5 mm de long.
+                C.  Plantas robustas, flotantes, con tallos gruesos ricos en aerénquima, radicantes en los nudos. Hojas planas, de 15-50 cm de long. por 7-20 mm de anch. Panojas grandes, abiertas, Espiguillas lanceoladas, acuminadas, de 4-5 mm de long..
+                                                                                        2. P. elephantipes
+                C'. Plantas terrestres, anuales, erectas o ascendentes, de 20-100 cm de alt. Hojas velludas o glabrescentes, planas. Panojas por lo común parcialmente incluídas en la vaina de la hoja superior, laxas, de 10-30 cm de long. Espiguillas de 4,5-5 mm de long., ovado-lanceoladas, glabras. Gluma inferior alcanzando hasta 3/4 de la espiguilla.
+                                                                                        3. P. miliaceum
+            B'. Espiguillas de 1-3,5 mm de long.
+                D.  Inflorescencia más o menos contraída, formada por espiguillas cortamente pediceladas, amontonadas formando racimos que se ordenan a lo largo de un eje principal.
+                    E.  Hojas de 15-25 mm de anch., glabras. Plantas perennes, rizomatosas, robustas, de 1-2 m de alt. Panojas erectas, amplias, formadas por numerosos racimos compuestos densos. Espiguillas elípticas, de 2,5 mm de long., glabras; gluma inferior corta, triangular.
+                                                                                        4. P. grumosum
+                    E'. Hojas de menos de 11 mm de anchura.
+                        F.  Espiguillas de 1-1,5 mm de long., ovoideas, semiagudas, glabras, Gluma inferior alcanzando 1/3 de la longitud de la espiguilla, perenne; tallos decumbentes en la base, radicantes, luego erectos, de 20-50 cm de alt. Hojas lineales, glabras. Panojas formada por varios racimos contraídos.
+                                                                                        5. P. laxum
+                        F'. Espiguillas de 1,5-3 mm de long.
+                            G.  Gluma inferior alcanzando hasta 1/2 de la long. de la espiguilla. Hojas lineal-lanceoladas, redondeadas en la base, de 4-8 cm de long., por 5-7 mm de anch., rígidas. Lígula formada por una serie de cilias. Panojas terminales laxas, parcialmente incluídas en la vaina de la hoja superior; las laterales lineal-oblongas, de 3-4 cm de long., contraídas, paucispicadas, Espiguillas ovoideas, obtusas, pubescentes, de 2,5-3 mm de long..
+                                                                                        6. P. fullum
+                            G'. Gluma inferior alcanzando, a lo más, hasta 1/3 de la longitud de la espiguilla.
+                                I.  Espiguillas de 1,8-2 mm de long., ovadas, agudas, glabras. Panojas contraídas, formadas por 10-25 racimos densos. Plantas perennes, de 30-60 cm de alt. Hojas lineales, panas.
+                                                                                        7. P. milioides
+                                I'. Espiguillas de 2,5-3 mm de long., lanceoladas, agudas, glabras, rojizas, con gluma inferior muy corta. Panojas muy densas, espiciformes, formadas por 4-10 racimos. Plantas rizomatosas, ascendentes, de 20-40 cm de alt. Hojas lineales.
+                                                                                        8. P. decipiens
+                D'. Inflorescencia muy laxa, difusa, formada por espiguillas largamente pediceladas.
+                    J.  En la base de la espiguilla existen generalmente algunas cerdas involuerales caducas. Plantas bambusoides, rizomatosas, de 1-3 m de alt. Hojas con vainas coriáceas, glabras o pestañosas; láminas lineales. Panojas amplias, de 25-30 cm de long.; ramificaciones verticiladas. Espiguillas anchamente ovoideas, de 2,5 mm de long. Gluma inferior tan larga como 1/2 de la espiguilla.
+                                                                                        9. P. tricholaenoides
+                    J'. Espiguillas sin cerdas en su base. Plantas no bambusoides.
+                        K.  Plantas anuales.
+                            L.  Plantas densamente hirsutas, erectas, de 20-80 cm de alt. hojas planas. Panojas amplias y laxas. Espiguillas ovoideo-lanceoladas, acuminadas en el ápice, de unos 2 mm de long. Gluma inferior aguda, alcanzando 1/3 de la long. de la espiguilla.
+                                                                                        10. P. capillare
+                            L'. Plantas laxamente pubescentes o glabras, ascendentes o erectas, de 50-100 cm de alt. Hojas planas. Panojas terminales y axilares, incluídas parcialmente en la vaina de la hoja superior o tardíamente exertas, multifloras, de 10-40 cm de long. o más. Espiguillas estrechamente ovadas, de 2-3,2 mm de long., agudas. Gluma inferior truncada o anchamente triangular, alcanzando sólo 1/5 a 1/4 de la longitud de la espiguilla.
+                                                                                        11. P. dichotomiflorum
+                        K'. Plantas perennes.
+                            M.  Hojas planas, anchas, de 5-15 mm de anch., con la base de la lámina redondeada o auriculada.
+                                N.  Cluma inferior obtusa, alcanzando sólo de 1/5 a 1/4 de la long. de la espiguilla.
+                                                                                        11. P. dichotomiflorum
+                                N'. Gluma inferior alcanzando de 1/2 a 3/4 de la long de la espiguilla.
+                                    O.  Ligula pilosa. Hojas de más de 6 cm de long., lanceoladas. Espiguillas obovadas, obtusas, laxamente pubescentes, de 2,5 mm de long. Panojas laxas, parcialmente incluídas en la vaina de la hoja superior o exertas tardíamente.
+                                                                                        12. P. sabulorum
+                                    O'. Lígula glabra o casi glabra. Hojas de 4-5 cm de long.
+                                        P.  Espiguillas obtusas, de unos 2 mm de long., largamente pediceladas, glabérrimas. Gluma inferior alcanzando 3/4 de la espiguilla. Lemma estéril con una flor masculina. Hojas lanceoladas, redondeadas o auriculadas en la base. Panojas difusas, muy laxas.
+                                                                                        13. P. helobium
+                                        P.  Espiguillas agudas, ovadas, glabras, de unos 2 mm de long. Gluma inferior casi tan larga como la superior. Panojas cortas, paucispicadas, terminales y axilares. Hojas lanceoladas, redondeadas y semiabrazadoras en la base, de 4-5 cm de long..
+                                                                                        14. P. unilineatum
+                            M'. Hojas por lo común más o menos convolutas, de 1-5 mm de anch., no redondeadas en la base de la lámina.
+                                R.  Plantas con rizomas horizontales u oblicuos cundidores. Tallos de unos 30 cm de alt. Panojas pequeñas, densas, algo purpúreas. Espiguillas de 2,2 mm de long., por 1 mm de anch. Primera gluma triangular, alcanzando 1/3 del largo de la espiguilla.
+                                                                                        15. P. gouini
+                                R'. Plantas cespitosas. Gluma inferior alcanzando de 1/3; a 1/2 del largo de la espiguilla.
+                                    S.  Hojas de 1-3 mm de anch., lineales, rígidas, pubescentes. Plantas de cerca de 50 cm de alt. Panojas deltoideas, amplias, muy laxas. Espiguillas ovoideas acuminadas, de 2-2,5 mm de long., glabras.
+                                                                                        16. P. bergii
+                                    S'. Hojas de cerca de 5 mm de anch. Plantas de 50-100 cm de alt., ligeramente hirsutas o glabrescentes. Panojas amplias, difusas, Espiguillas ovoideas, acuminadas, glabras, de 2,5 mm de long..
+                                                                                        17. P. pilcomayense
+
+61. PASPALUM L.
+    Espiguillas deprimidas, plano-convexas, generalmente obtusas, subsésiles, solitarias o en pares, dispuestas en dos o más filas (raramente
+    una) sobre uno de los lados de un raquis angosto o dilatado, con el dorso de la lemma fértil hacia este raquis. Primera gluma generalmente
+    ausente. Segunda gluma y lemma estéril generalmente casi iguales. Lemma fértil por lo común obtusa, dura, con los bordes enrollados. Hierbas
+    generalmente perennes, con frecuencia rizomatosas, con hojas planas y espiguillas dispuestas en racimos espiciformes unilaterales, solitarios,
+    geminados o dispuestos en número diverso a lo largo de un eje principal.
+    Especie tipo: P. dissectum L.
+        A.  Plantas perennes, flotantes, con vainas dilatadas y esponjosas; tallos tendidos sobre el agua, radicantes en los nudos. inflorescencias formadas por más de 20 espigas, con raquis membranáceo ancho terminado en una punta delgada. Espiguillas ovado-lanceoladas, de unos 2 mm de long..
+                                                                                        1. P. repens
+        A'. Plantas terrestres, con vainas no dilatadas. Raquis generalmente triquetro, igual o más angosto que las espiguillas.
+            B.  Inflorescencia formada por dos espigas geminadas en forma de V en la extremidad de las cañas floríferas, raramente con una tercera espiga inserta cerca de las otras.
+                C.  Plantas con rizomas cortos y fuertes, que dan lugar a matas compactas.
+                    D.  Espiguillas de 1,8-2,3 mm de long. por 1,1-1,3 mm de anch., elípticas u obovadas, dispuestas en una sola serie. Espigas de 4-7 cm de long. hierbas de 15-10 cm de alt..
+                                                                                        2. P. pumilum
+                    D'. Espiguillas de 2,8-4 mm de long., elípticas u obovadas, verde-violáceas, dispuestas en dos hileras. Espigas generalmente 2 (a veces 3-4), de hasta 16 cm de long. Plantas de 30-100 cm de alt..
+                                                                                        3. P. notatum
+                C'. Plantas con rizomas largos y profundos. Espiguillas lanceoladas, de 2,5-3,5 mm de long.
+                    E.  Gluma finamente pubescente; lemma estéril glabra. Espigas desigualmente pedunculadas, de 2-6 cm de long. Espiguillas de 3-3,5 mm de long. Hierbas de menos de 25 cm de alt..
+                                                                                        4. P. distichum
+                    E'. Gluma y lemma estéril glabras. Espigas con pedicelos casi iguales. Hierbas perennes, de menos de 25 cm de alt..
+                                                                                        5. P. vaginatum
+            B'. Inflorescencia formada por l-∞ espigas nunca geminadas.
+                F.  Lemma castaña, lustrosa, pronunciadamente convexa.
+                    G.  Plantas cespitosas, de 30-90 cm de alt. Espigas 3-6, alternadas, de 3-7 cm de long. Espiguillas en dos series, ovado-elípticas, de 2,8-3 mm de long. Gluma y lemma estéril glabras, membranáceas, castañas u oliváceas.
+                                                                                        6. P. plicatulum
+                    G'. Plantas con largos rizomas horizontales, de 30-40 cm de alt. Espigas 3-6, de 2,5-6 cm de long. Espiguillas de color castaño claro, elípticas, de unos 3 mm de long..
+                                                                                        7. P. nicorae
+                F'. Lemma blanca o pajiza, suavemente convexa o navicular.
+                    H.  Inflorescencia formada por 3-10 espigas.
+                        J.  Espigas de 1,5-3 cm de long. Plantas cespitosas, con estolones. Cañas floríferas de cerca de 50 cm de alt., con 6-8 espigas. Espiguillas glabras, ovado-elipticas, de 2-2,5 mm de long..
+                                                                                        8. P. proliferum
+                        J'. Espigas de 3-9 cm de long. Plantas sin estolones.
+                            K.  Espiguillas de 1,5 mm de long., verdosas, ovadas. Hierba erecta, perenne, de 50-100 cm de alt. Espigas 4-6, delgadas, de 4-5 cm de long..
+                                                                                        9. P. malacophyllum
+                            K'. Espiguillas de 3-3,5 mm de long.
+                                L.  Espiguillas de color castaño claro, obovadas, corta y flojamente pubescentes. Hierba cespitosa, de 50 cm y más de alt. Espigas 3-7, de 3-5 cm de long..
+                                                                                        10. P. alcalinum
+                                L'. Espiguillas verdosas, en pares, ovadas, agudas, de 3-3,5 mm de long. por 2-2,5 mm de anch. Gluma y lemma estéril pubescentes, pestañosas en el borde. Antecio lenticular, blanquecino. Hierba perenne, de 50 cm de alt. Espigas 3-6, de 5-9 cm de long., inclinadas.
+                                                                                        11. P. dilatatum
+                    H'. Inflorescencia formada por 12-∞ espigas.
+                        M.  Espiguillas verdosas, obovadas, agudas, de 2,3-2,6 mm de long. Hierba perenne de 1,5-2 m de alt. Espigas 10-25.
+                                                                                        12. P. urvillei
+                        M'. Espiguillas ferrugíneas o rojizas.
+                            N.  Vainas foliares notablemente carenadas. Espiguillas glabras, ovadas, de 2,5-2,8 mm de long., por 1,5 mm de anch. Espigas numerosas. Hierba cespitosa, de 1 m y más de alt..
+                                                                                        13. P. intermedium
+                            N'. Vainas foliares cilíndricas o apenas carenadas. Espiguillas pubestentes. al menos en el borde de las glumas.
+                                O.  Espiguillas de 2-2,5 mm de long., ovado-lanceoladas, en 4 hileras; gluma pubescente; lemma estéril plana, casi glabra. Planta cespitosa de 1-1,8 m de alt. Hojas glabras, largas. Espigas ferruginosas, 15-25, de cerca de 7 cm de long..
+                                                                                        14. P. quadrifarium
+                                O.  Espiguillas de 3-4 mm de long.
+                                    P.  Inflorescencia formada por 12-30 espigas. Espiguillas de 3,3-3,7 mm de long., ovadas, agudas; gluma lanceolada, apiculada, 4-5-nervada, con pubescencia rala en el margen; lemma estéril lanceolada, glabra. Hierba perenne, densamente cespitosa, de 1,5-2 m de alt. Hojas muy largas, de 1 cm de anch..
+                                                                                        15. P. exaltatum
+                                    P'. Inflorescencia con 40-80 espigas, piramidal, de cerca de 50 cm de long. Espiguillas en 4 o más series, lanceoladas, ferrugíneas, de 3,5-4 mm de long., por 1,5 mm de anch. Gluma casi glabra. Lemma estéril plana. Antecio blanquecino. Plantas densamente cespitosas, de 2-3 m de alt. Hojas de 1-1,5 m de long., por 12-14 mm de anch..
+                                                                                        16. P. haumanii
+
+62. PENNISETUM L. Rich.
+    Espiguillas solitarias o en grupos de 2-3, rodeadas por un involuero de cerdas libres, a veces plumosas, que se desprenden con la espiguilla.
+    Gluma inferior corta, a veces ausente. Gluma superior igual a la lemma estéril o algo más corta. Lemma fértil cartácea, lisa, con bordes delgados,
+    incluyendo a la pálea. Hierbas anuales o perennes. Hojas planas. Panojas densas, espiciformes.
+    Especie tipo: P, typhodeum L. Rich.
+        A. Cerdas involucrales plumosas, más de 20, de 35 mm de long. Panojas densas de 4-12 cm de long., por 2-2,5 cm de anch. Espiguillas lanceoladas, de 9-12 mm de long..
+                                                                                        1. P. villosum
+        A’. Cerdas involucrales simples, 8-12, de menos de 20 mm de long. (la mayoría de la long. de las espiguillas, una de ellas de doble longitud). Panojas gruesas, de 3-5 cm de long., inclinadas. Espiguillas lanceoladas, de 4-5 mm de long..
+                                                                                        2. P. latifolium
+
+63. SETARIA Beauv.
+    Espiguillas rodeadas por una 0 más cerdas involucrales que persisten sobre el raquis después de caer aquéllas. Gluma inferior ancha, generalmente
+    de menos de la mitad de la longitud de la espiguilla, 3-5-nervada. Gluma superior igual o algo más corta que la lemma estéril, plurinervada.
+    Lemma fértil coriácea, lisa o rugosa transversalmente, mútica. Hierbas anuales o perennes; hojas planas: panojas densas, frecuentemente espiciformes.
+    Especie tipo: S. viridis (L.) Beauv.
+        A.  Cerdas involucrales más de cinco. Perenne, cespitosa, con tallos ascendentes de 30-40 cm de alt. Hojas escabrosas en el margen. Panojas espiciformes. Espiguillas de unos 2,5 mm de long..
+                                                                                        1. S. geniculata
+        A'. Cerdas involucrales 1 (raramente 2-3).
+            B.  Cerdas con pelos retrorsos que las hacen adherentes a la ropa. Anual, de 40-100 cm de alt. Panoja densa, espiciforme, interrumpida en la base. Espiguillas de 2 mm de long..
+                                                                                        2. S. verticillata
+            B'. Cerdas involucrales con pelos antrorsos, no adherentes.
+                C.  Plantas anuales, de 20-40 cm de alt. Panojas espiciformes cortas y gruesas (de más o menos 4-6 cm de long., por 1-1,5 cm de diám.). Eje de la panoja velludo. Cerdas involucrales 1-3, largas. Espiguillas de 2-2,5 mm de long..
+                                                                                        3. S. viridis
+                C'. Plantas perennes. Panojas lineales u oblongas.
+                    D.  Plantas robustas, de 60-100 cm de alt. Hojas de hasta 16 cm de long., por 12-15 mm de anch. Panojas espiciformes, densas, de 10-18 cm de long. por 15-20 mm de diám. Espiguillas ovoides, verdosas: glabras, de 1,5-2 mm de long. Gluma inferior alcanzando de 1/5 a 1/5 de la espiguilla; gluma superior llegando hasta 3/4 de la espiguilla. Lemma estéril con una flor abortiva.
+                                                                                        4. S. argentina
+                    D'. Plantas generalmente menores. Hojas de menos de 10 mm de anchura. Espigas de 5-10 em de long., raramente mayores.
+                        E.  Espiguillas globosas, de 1,8 mm de long., glabras. Gluma inferior alcanzando hasta la mitad de la espiguilla; gluma superior alcanzando hasta 3/4 de la longitud de la espiguilla. Perenne, cespitosa, de 50-150 cm de alt. Hojas de unos 30 cm de long. por 7 mm de anch. Panojas densas, espiciformes, de 8-10 (-18) cm de long., por unos 10 mm de diám. Eje escabroso.
+                                                                                        5. S. fiebrigii
+                        E'. Espiguillas ovoideas, de 2-2,5 mm de long. La gluma superior alcanza casi hasta el ápice de la espiguilla.
+                            F.  Eje de la inflorescencia glabro o áspero. Perenne, cespitosa, de 30-50 cm de alt. Panoja densa, espiciforme. Espiguillas de 2 mm de long..
+                                                                                        6. S. caespitosa
+                            F.  Eje de la inflorescencia, pubescente, Perenne, cespitosa, de 50-70 cm de alt. Panojas espiciformes, no muy densas, algo interrumpidas en la parte inferior, de 7-11 cm de long. Espiguillas de unos 2 mm de long..
+                                                                                        7. S. vaginata
+
+64. STENOTAPHRUM Trin.
+    Espiguillas incrustadas sobre uno de los lados de un raquis grueso y plano que se desarticula tardiamente, quedando las espiguillas unidas
+    a los artículos. Gluma inferior pequeña. Gluma superior y lemma estéril casi iguales, esta última con una pálea o con una flor masculina.
+    Lemma fértil papirácea. Hierbas perennes, cstoloníferas, con cañas florales cortas. Hojas cortas y obtusas. Espigas terminales y axilares.
+    Especie tipo: S. glabrum Trin.
+
+65. LEPTOCORYPHIUM Nees.
+    Espiguillas con gluma inferior ausente. Segunda gluma y lemma estéril velludas. Lemma fértil y pálea pardas, con ápice blanquecino, a veces
+    lacerado o ciliado. Inflorescencia en panojas angostas.
+    Especie tipo: L. lanatum Nees.
+
+66. ICHNANTHUS Beauv.
+    Espiguillas con la gluma inferior casi tan larga como la superior. Lemma de la flor hermafrodita con dos excavaciones laterales en su base.
+    Plantas con hojas lanceoladas; espiguillas agrupadas en panojas.
+    Especie tipo: I. panicodes Beauv.
 
 67. HYMENACHNE Beauv.
+    Espiguillas con dos glumas y una lemma estéril glumiforme. Lemma fértil y pálea poco endurecidas, no abrazando la lemma a la pálea.
+    Inflorescencia en panoja espiciforme.
+    Especie tipo: H. myurus Beauv.
 
-Espiguillas con dos glumas y una lemma estéril glumiforme. Lemma
-fértil y pálea poco endurecidas, no abrazando la lemma a la pálea. Inflo-
-rescencia en panoja espiciforme. Especie tipo: H. myurus Beauv.
+68. PSEUDECHINOLAENA Stapf.
+    Espiguillas con la primera y segunda glumas casi de la misma longitud, esta última ventricosa y cubierta de pelos ganchudos a su madurez.
+    Espiguillas en racimos flojos.
+    Especie tipo: P. polystachya (H. B. K.) Stapf.
 
-1. £L. amplexicaulis (Rudge) Nees, Agrost. Brasil.: 276, 1829. Panicum amplezi-
-
-caule Rudge, Pl. Guian. 1: 21, 1805. Hierba perenne, glabra, acuática, con tallos ra-
-mosos, crasos; hojas anchamente lineales, acorazonadas y semiabrazadoras en la
-
-base. Panojas espiciformes de 20-50 cm de long. . .
-América tropical Hallada en Retiro por L. R. Parodi (loc. cit.: 93).
-
-68. PseEUDECHINOLAENA StapÍ.
-
-Espiguillas con la primera y segunda glumas casi de la misma lon-
-gitud, esta última ventricosa y cubierta de pelos ganchudos a su madurez.
-Espiguillas en racimos flojos. Especie tipo: P. polystachya (H. B. K.) Stapf.
-
-1. P. polystachya (H. B. K.) Stapf, en Prain, FL Trop. Africa, 9: 495, 1919.
-Echinolaena polystachya H. B. K., Nov. Gen. et Sp. 1: 119, 1816. Hierba perenne,
-rastrera, con tallos radicantes. Hojas cortas, anchamente lanceoladas, de 3-6 cm
-
-de long., por 1-1,5 cm de anch. Panojas laxas. Espiguillas de 3-4 mm de long.
-América tropical. Hallada en los bosques de la Isla Martín García. Exsicc. Pas-
-
-tore 331.
 69. BRACHIARIA Griseb.
+    Espiguillas con la gluma inferior orientada hacia el raquis, corta o larga. Gluma superior y lermma estéril casi iguales, con 5-7 nervaduras
+    (la lemma estéril encierra una pálea hialina, y, a veces, una flor masculina). Lemma fértil dura, papilosa, Hierbas anuales o perennes.
+    Hojas lineales. Espiguillas subsésiles, dispuestas en dos hileras sobre uno de los lados de un raquis triquetro, formando espigas unilaterales
+    que se ordenan a lo largo de la caña florífera.
+    Especie tipo: B. erucaeformis (J. E. Smith) Griseb.
 
-Espiguillas con la gluma inferior orientada hacia el raquis, corta o
-larga. Gluma superior y lermma estéril casi iguales, con 5-7 nervaduras
-(la lemma estéril encierra una pálea hialina, y, a veces, una flor mascu-
-lina). Lemma fértil dura, papilosa, Hierbas anuales o perennes. Hojas
-lineales. Espiguillas subsésiles, dispuestas en dos hileras sobre uno de los
-lados de un raquis triquetro, formando espigas unilaterales que se orde-
-nan a lo largo de la caña florífera. Especie tipo: B. erucaeformis (J. E.
+70. PASPALIDIUM Stapf.
+    Espiguillas con dos glumas, la inferior orientada hacia afuera y la superior hacia el raquis, ambas múticas. Lemma estéril mútica.
+    Espiguillas dispuestas en dos hileras sobre el raquis, formando racimos espiciformes que se ordenan a lo largo de la caña florífera.
+    Especie tipo: P. geminatumn (Forsk) Stapf.
 
-Smith) Griseb.
+71. OPLISMENOPSIS Parodi
+    Espiguillas bifloras; gluma inferior corta, aristada, con el dorso dirigido hacia el raquis de la inflorescencia; gluma superior 5-7-nervada,
+    aristada; lemma de la flor inferior similar a la segunda gluma; flor masculina. Flor superior hermafrodita, con lemma papirácea. Inflorescencia
+    formada por una panoja de racimos espiciformes unilaterales. Hojas lanceoladas, planas.
+    Especie tipo: O. najada (Hack. et Arech.) Parodi.
 
-1. B. extensa Chase, Contrid. U. S. Nat. Herb, 26: 240, 1929, Hierba anual;
-tallos decumbentes, radicantes en los nudos. Hojas anchas. Panojas con 3-6 espigas
-distantes entre sí, de 3-8 cm de long. Raquis alado. Espiguillas ovadas, de 4-4,5 nm
-de long., con la gluma inferior apenas alcanzando Y; de la espiguilla.
+72. OPLISMENUS Beauv.
+    Espiguillas gruesas o algo comprimidas lateralmente, subsésiles, ordenadas en dos hileras sobre un solo lado de un raquis angosto. Glumas casi
+    iguales, aristadas. Lemma estéril más larga que las glumas, mueronada o cortamente aristada, incluyendo una pálea hialina. Lemma fértil elíptica,
+    aguda. Hierbas anuales O perennes, generalmente decumbentes; hojas planas, lanceoladas; cañas foríferas erectas, llevando varios racimos
+    espiciformes cortos esparcidos.
+    Especie tipo: O. africanus Beauy.
 
-Sur de los Estados Unidos. Hallada en Palermo por L. R. Parodi.
+Tribu 10. ANDROPOGONEAE
 
-70. PASPALIDIUM StapÍ.
-
-Espiguillas con dos glumas, la inferior orientada hacia afuera y la
-superior hacia el raquis, ambas múticas. Lemma estéril mútica. Espi-
- 
-
-106 FLORA DE BUENOS AIRES
-
-guillas dispuestas en dos hileras sobre el raquis, formando racimos espi-
-
-ciformes que se ordenan a lo largo de la caña tlorífera, Especie tipo:
-P. geminatumn (Forsk) Stapf.
-
-1. P. paludivagum (Hitchc. et Chase) Parodi, Gram. Bonar.' ed. 3: 85, 1939.
-Panicum paludivagum Hitche. et Chase, en Conirib. U. S. Nat. Herb. 15: 32, 1919.
-Hierba perenne, palustre, de hasta 2 m de alt. Espiguillas en racimos espiciformes
-
-estéril de 2,8-3 mm de long., aguda,
-
-Sur de los Estados Unidos. Méjico y Guatemala, Hallada en los alrededores de
-Buenos Aires: Campana, San Isidro, ete, ]
-
-71. OpPuisMENOPSIS Parodi
-
-Espiguillas bifloras; gluma inferior corta, aristada, con el dorso diri-
-gido hacia el raquis de la inflorescencia; gluma superior 5-7-nervada,
-aristada; lemma de la flor inferior similar a la segunda gluma; flor mascu-
-lina. Flor superior hermafrodita, con lemma papirácea. Inflorescencia for-
-mada por una panoja de racimos espiciformes unilaterales. -Hojas lan-
-ceoladas, planas. Especie tipo: O. najada (Hack. et Arech.) Parodi.
-
-1. O. najada (Hack. et Arech.) Parodi, Not. Mus, La Plata, 2: 4, 1987. Páanicum
-najadum Hack. et Arech., Gram. Uruguay.: 123, 1894. Planta perenne, acuática,
-rizomatosa, con tallos nadantes ramificados y cañas floríferas ercctas, Panojas con
-varios racimos espiciformes. Espiguillas lanceoladas, violáceas, de 7-8 mm de long.
-
-Uruguay y NE. de la Argentina. En los bañados del Delta y de la ribera del Plata.
-Exsicc. Venturi V-1909. (Fig. 26, K).
-
-72. OPLIsMENUS Beauv.
-
-Espiguillas gruesas o algo comprimidas lateralmente, subsésiles, orde-
-nadas en dos hileras sobre un solo lado de un raquis angosto. Glumas
-casi iguales, aristadas. Lemma estéril más larga que las glumas, muero-
-nada o cortamente aristada, incluyendo una pálea hialina. Lemma fértil
-elíptica, aguda. Hierbas anuales O perennes, generalmente decumbentes;
-hojas planas, lanceoladas; cañas foríferas erectas, llevando varios raá-
-cimos espiciformes cortos espareidos. Especie tipo: O. africanus Beauy.
-
-1. O. setarius (Lam.) Roem. et Sehult., Syst. Veg. 2: 481, 1817. Panicum seta-
-rium Lam., Illustr. Gen. 1: 170, 1791. Hierba perenne, débil, tendida o ascendente,
-radicante en los nudos, de 10-20 cm de alt. Hojas anchamente lanceoladas, cortas.
-. Panojas formadas por 3-6 racimos cortos y densos, casi globosos, Espiguillas gruesas,
-
-de 3 min de long. Gluma inferior largamente aristada, la superior con arista corta,
-
-América cálida, Bosques higrófilos del Delta y de la Isla Martín García. Exsiecc.
-Cabrera 2527; Pastore 268. (Fig. 26, L).
-
-Tribu 10. ANDROPOGONBAR
-
-73. Bormriocmzoa O. Kuntze
-
-Espiguillas dispuestas por pares en los nudos de un raquis articulado:
-una sésil, hermafrodita, la otra pedicelada, masculina, neutra o reducida
-al pedicelo; raquis y pedicelo de la espiguilla estéril con frecuencia larga-
-mente velludos. Espiguilla sésil comprimida dorsalmente; callus corto,
-velludo; gluma inferior membranácea o papirácea; gluma superior care-
-nada, 3-nervada. Lemma estéril más corta que las glumas, vacía, hialina;
-
- 
-  
-
- 
- 
- 
- 
-
-107
-GRAMINEAE
-
-iali emi a arista'
-£rt:] lineal, estrecha, hialina, terminada en una larg sta
-e o reducida o nula. Espiguilla pedicelada mútica, e na
-PAL
-lina o sin flor. Racimos amontonados en la parte super
-j .
-
-] le tipo:
-s, formando panojas plateadas densas. Espec p
-
-lem ,
-apical; pá
-
-r mascu o
-do las cañias florífera
-B. anamitica O. Kuntze.
-
-j j - de alt. Tallos glabros.
-A Espiguillas múticas. Hierba perenne, cespitosa, de 1-2 m de a O o
-
-Racimos Muy DUMEToSOS ...ooomrrrcccrnrtss
-! iguillas aristadas.
-
-a a glabras en los nudos. lantas cespitos
-dd casi E Espiguillas fértiles de 3 mm de long.; lenmina
-Lore COLO aristada Eje de la inflorescencia, pedicelos de las mares está os
-
-uma. inferior cubiertos de largos pelos plateados.... 2. B. lag
-B' Canas econ una coronita de pelos en los Dd adas
-“€. Panojas de menos de 10 cm de long., plat .
-
-Plantas cespitosas, cortamente rizomatosas, de
-Racimos numerosos, formando
-
-Tallos de menos de
-
-Dr i 1 i iÉ en el dorso. Perenne, '
-3 i xcavaciones puntiformes C
-p. do mm de alt. Racimos muy numerosos, od
-noia oblonga plateada. Espiguillas fértiles de unos a ma - el pe
-lanceoladas; lemma largamente aristada. Glumas y po cod os con pa
-ia plateada muy larga . AO a . B. sa nes
-D' a inforior con una excavación puntiforme en ol o os
-: a! omo en D ............ enana BP. J
-Cc! Panojas de 10-20 cm de long., verdosas. Tallos de 1,5-2 m de alt, Gluma
-
-j if caracteres
-inferior con una excavación puntiforme en el dorso. Otros a
-como ea D ,..ooocconconcccnrrr rr
-
-1. B. hessleri (Hack.) nov. comb. Andropogon hassleri Hack., Bull. Herbz Boiss,
-2, 4: 266, 1904, o
-mena. Hallada en Palermo por L. R. Parodi (loc. cit.: 93). +,
-2. B. lagurioides (DC.) Herter, Rev. Sudamer. e o) 135, 1940. Andropogon
-«De Yat. + Monsp.: 78, 1813. (Fig. , A-O). - 06.
-ca da. May dora en la estepa climax. Exsicc. Cabrera 2105, 7396
-. ' | ,
-3. B. saccharoides (Sw.) Rydb., Brittonia ,1: 81, 1931. Andropogon saccharotdes
-+, Prodr.: 26, 1788. a
-E adosálida, En la estepa climax. Exsicc. Cabrera 2660.
-4. B. perforata (Trin.) Herter, Rev. Sudamer. Bot. 6: 135, 1940. Andropogon «per»
-foratus Trin. ex Foum., Mer. Pl. 2: 59, 1886. Ldro y Carmvana.
-América cálida. Se halla en las barrancas de San Isidro y Pp l
-5. B. alta (Hitehc.). nov. comb. Andropogon altus Hitche., Contrib, U. 8. Nat, Herb,
-
-a lida. Citada para Palermo por Parodi (loe. ctl.: 95).
+73. BOTMRIOCHLOA O. Kuntze
+    Espiguillas dispuestas por pares en los nudos de un raquis articulado: una sésil, hermafrodita, la otra pedicelada, masculina, neutra o reducida
+    al pedicelo; raquis y pedicelo de la espiguilla estéril con frecuencia largamente velludos. Espiguilla sésil comprimida dorsalmente; callus corto,
+    velludo; gluma inferior membranácea o papirácea; gluma superior carenada, 3-nervada. Lemma estéril más corta que las glumas, vacía, hialina; lemma
+    fártil lineal, estrecha, hialina, terminada en una larga arista apical; pálea reducida o nula. Espiguilla pedicelada mútica, con una flor masculina
+    o sin flor. Racimos amontonados en la parte superior de las cañas floríferas, formando panojas plateadas densas.
+    Especie tipo: B. anamitica O. Kuntze.
+        A.  Espiguillas múticas. Hierba perenne, cespitosa, de 1-2 m de alt. Tallos glabros. Racimos muy Mnumerosos.
+                                                                                        1. B. hassleri
+        A'. Espiguillas aristadas.
+            B.  Cañas glabras en los nudos. Plantas cespitosas, cortamente rizomatosas, de cerca de 50 cm de alt. Hojas planas, lineales. Racimos numerosos, formando una panoja fusiforme plateada. Espiguillas fértiles de 3 mm de long.; lemma largamente aristada. Eje de la inflorescencia, pedicelos de las flores estériles y gluma inferior cubiertos de largos pelos plateados.
+                                                                                        2. B. lagurioides
+            B'. Cañas con una coronita de pelos en los nudos
+                C.  Panojas de menos de 10 cm de long., plateadas. Tallos de menos de 1 m.
+                    D.  Gluma inferior sin excavaciones puntiformes en el dorso. Perenne, de cerca de 1 m de alt. Racimos muy numerosos, formando una panoja oblonga plateada. Espiguillas fértiles de unos 4 mm de long., lanceoladas; lemma largamente aristada. Glumas y pedicelos con pubescencia plateada muy larga.
+                                                                                        3. B. saccharoides
+                    D'. Gluma inferior con una excavación puntiforme en el dorso. Otros caracteres como en D.
+                                                                                        4. B. perforata
+                C'. Panojas de 10-20 cm de long., verdosas. Tallos de 1,5-2 m de alt. Gluma inferior con una excavación puntitorme en el dorso. Otros caracteres como en D.
+                                                                                        5. B. alta
 
 74. ANDROPOGON L.
+    Espiguillas dispuestas por pares en los nudos de un raquis articulado: una sésil, hermafrodita, la otra pedicelada, masculina o estéril.
+    Raquis y pedicelo de la espiguilla estéril con frecuencia velludos. Espiguilla sésil con glumas papiráceas. Lemma estéril corta, hialina.
+    Lemma fértil ceneralmente bífida en el ápice, con una larga arista que nace entre los dos segmentos. Espiguilla pedicelada mútica o aristada.
+    Racimos solitarios en la axila de hojas reducidas, o bien en número de dos o más, fasciculados en el extremo de los pedúnculos.
+    Especie tipo: A. distachyus L.
+        A. Espiguillas de 4-5 mm de long. Hierbas perennes, cespitosas, con tallos rojizos de 50-100 cm de alt. Hojas con nervaduras muy marcadas. Inflorescencia formada por numerosos racimos solitarios de hasta 2,5 cm de long., que nacen en la axila de hojas reducidas, formando en conjunto una densa seudopanoja.
+                                                                                        1. A. pantculatus
+        A'. Espiguillas de 6-9 mm de long. Hierbas perennes, cespitosas, rojizas, de 30-40 cm de alt. Hojas planas. Racimos numerosos, de 4-7 cm de long., solitarios en las axilas de las hojas formando una seudopanoja angosta.
+                                                                                        2. A. consanguineus
 
-Espiguillas dispuestas por pares en los nudos A us
-1 ] a, MAascu .
-ésil, hermafrodita, la otra pedice ada, aqu
-y pedicclo de la espiguilla estéril con frecuencia, vetados. a
-si irá Lemma estéril corta, hialina. Le
-sésil con glumas papiráceas. : ) 0
-1f1 á pl ) a arista que nace e
-almente bífida en el ápice, con una larg ' ce o.
-dos segmentos, Espiguilla pedicelada mútica o aristada. Sino sos
-tarios en la axila de hojas reducidas, o bien en número de 3 O
-fasciculados en el extremo de los pedúnculos. Especie tipo: A.
+75. HEMARTHRIA R. Br. 
+    Espiguillas dispuestas por pares en los nudos de un raquis tenaz, una sésil, fértil, la otra estéril, peciolada, casi igual a la sésil,
+    con el pedicelo adherido al raquis. Glumas múticas, coriáceas, carenadas, con quilla alada. Lemma estéril, lemma fértil y pálea, delgadas,
+    hialinas. Hierbas perennes, con racimos espiciformes cilíndricos o aplanados.
+    Especie tipo: H. compressa R. Br.
 
-chyus L.
- 
+76. ROTTBOELLIA L. f.
+    Espiguillas dispuestas por pares en los nudos de un raquis engrosado, que se desarticula fácilmente, una sentada, hermafrodita, la otra pedicelada,
+    estéril, muy reducida; pedicelo de la espiguilla estéril adosado al raquis. Espiguilla fértil muy apretada contra la parte cóncava del raquis;
+    primera gluma coriácea, mútica; segunda gluma menos dura, también mútica. Leimma estéril, lemma fértil y pálea hialinas. Hierbas anuales o perennes;
+    hojas anchas; espiguillas en racimos espiciformes cilíndricos.
+    Especie tipo: R. exaltata L. f.
 
- 
-
- 
-
-108 FLORA DE BUENOS AIRES GRAMINEAE 109
-
-A. Espiguillas de 4-5 mm de long. Hierbas perennes, cespitosas, con tallos rojizos
-" de 50-100 cm de alt. Hojas con nervaduras muy marcadas. Inflorescencia for-
-mada por numerosos racimos solitarios de hasta 2,5 cm de long., que nacen en
-
-la axila de hojas reducidas, formando en conjunto una densa seudopanoja.
-1. A. pantcuiatus
-A'. Espiguillas de 6-9 mm de long. Hierbas perennes, cespitosas, rojizas, de 30-40 cm
-de alt. Hojas planas. Racimos numerosos, de 4-7 cm de long., solitarios en las
-axilas de las hojas formando una seudopanoja angosta ...... 2. A. consanguineus
-
-1. A. paniculatus Kunth, Enum. Pl, 1: 494, 1833.
-América cálida. En la estepa climax, principalmente al norte de la Capital Fe-
-deral. Exsicc. Cabrera 7168.
-
-2. A, consanguineus Kunth, Enum, Pl, 1: 494, 1833. Sehizachyrium intermedium
-
-Nees, Agrost. Bras.: 334, 1829, y
-Sur del Brasil, Uruguay y NE. de la Argentina, Común en la estepa climax. N, v.:
-
-té pampa. Exsicc. Cabrera 2653, 9881.
-
-75. HEÉMARTHRIA R. Br.
-
-Espiguillas dispuestas por pares en los nudos de un raquis tenaz, una
-sésil, fértil, la otra estéril, peciolada, casi igual a la sésil, con el pedicelo
-adherido al raquis. Glumas múticas, coriáceas, carenadas, con quilla
-alada. Lemma estéril, lemma fértil y pálea, delgadas, hialinas. Hierbas
-perennes, con racimos espiciformes cilíndricos o aplanados. Especie tipo: id
-H. compressa R, Br.
-
- 
-
- 
-
- 
-
- 
-
-1. H. altissima (Poir.) Stapf et Hubbard, Kew Bull, 1934: 109, 1634. Rottboelía
-altissima Poir., Voy. Barb. 2: 105, 1789. Cañas ramosas, de 40-60 cm de alt., ascen-
-dentes, glabras. Hojas lineales. Espigas terminales en el extremo de las ramas, sub-
-cilíndricas, comprimidas, a veces semifasciculadas. Raquis articulado, con excava-
-ciones en las que se ajustan dos espiguillas. (Fig. 30, D).
-
-Regiones cálidas del globo. Común en los bosques del Delta y de la ribera del Plata,
-Essiec. Cabrera 4426, 6340.
-
- 
-
- 
-
- 
-
-76. RoTTBOBLEIA L. Í.
-
-Espiguillas dispuestas por pares en los nudos de un raquis engrosado,
-que se desarticula fácilmente, una sentada, hermafrodita, la otra pedi-
-celada, estéril, muy reducida; pedicelo de la espiguilla estéril adosado
-al raquis. Espiguilla fértil muy apretada contra la parte cóncava del
-raquis; primera gluma coriácea, mútica; segunda gluma menos dura,
-también mútica. Leimma estéril, lemma fértil y pálea hialinas. Hierbas
-anwales o perennes; hojas anchas; espiguillas en racimos espiciformes
-cilíndricos. Especié tipo: R. exaltata L. f.
-
- 
-
-! 1, R, selloana Hack. en Mart., Fl, Brasil, 2 (3): 312, 1883. Perenne, rizomatosa,
-
-' glabra. Tallos erectos, de 30-50 cm de alt. Hojas lineales. Espigas cilíndricas, rectas
-
-: ] o algo arqueadas, articuladas, de 6-15 cm de long., pocas. (Fig. 30, C).
-
-, Uruguay y NE. de la Argentina, En campos húmedos próximos a Abasto. Exsice.
-Cabrera 7407.
-
- 
-
- 
-
-77. SoraGmum Moench,
-
-Fra. 99. —A. Espiguillas dispuestas en pares, una sésil y otra pedicelada, estéril
-pero bien desarrollada, generalmente masculina (espiguilla terminal sésil,
-con dos espiguillas pediceladas). Lemmas generalmente aristadas. Hier-
-bas anuales o perennes, generalmente robustas; hojas planas. Panojas
-
-terminales, más o menos laxas. Especie tipo: $, saccharatum (L.) Moench.
-
-C, Bothricchloa laguricides (DC.) Harter: A
-
-rue des (D( » Planta (X 0,5); B, detalle de la Mgula;
-¿ a espiguilla, D-E, Zizaniopsis b tensí, jti DeZ.: pas
-reducida); E, espiguilla masculina; F. _s er rsis (Balansa et Poitr.) Speg.: D, planta (muy
-con tallos bajos, ascendentes ; hojas a
-lineal-lanceoladas. Racimos espicifor.
-pedunculado. Espiguillas de 6-7 mm
-
- 
-
-110
-
-FLORA DE BUENOS AIRES
-
-e
-
-1. S. halepense (L.) Pers.,. Syn. Pl. 1: 101, 1805. Holcus halepensis L., Sp, PL,
-2: 1047, 1753, Hierba perenne, rizomatosa, de 1-1,5 m de alt, Panojas abiertas. Lemma
-con larga arista retorcida, (Fig. 30, F).
-
-Africa. Adventicia en América. Maleza invasora. N. v.
-
-: sorgo de Halepo. Exsicc,
-Cabrera 6308,
+77. SORGHUM Moench.
+    Espiguillas dispuestas en pares, una sésil y otra pedicelada, estéril pero bien desarrollada, generalmente masculina (espiguilla terminal sésil,
+    con dos espiguillas pediceladas). Lemmas generalmente aristadas. Hierbas anuales o perennes, generalmente robustas; hojas planas. Panojas terminales,
+    más o menos laxas.
+    Especie tipo: S. saccharatum (L.) Moench.
 
 78. IMPERATA Cyrillo
+    Espiguillas iguales entre sí, múticas, dispuestas por pares sobre un raquis continuo alargado, desigualmente pediceladas, envueltas por largos pelos
+    plateados, Glumas casi iguales, membranáceas. Lemma estéril, lemma fértil y pálea delgadas, hialinas. Hierbas perennes, rizomatosas; tallos erectos.
+    Panojas estrechas, plateadas.
+    Especie tipo: I. cylindrica (L.) Beauv.
 
-Espiguillas iguales entre sí, múticas, dispuestas por pares sobre un ra-
-quis continuo alargado, desigualmente pediceladas, envueltas por largos
-pelos plateados, Glumas casi iguales, membranáceas. Lemma estéril, lem-
-ma fértil y pálea delgadas, hialinas. Hierbas perennes, rizomatosas; tallos
-erectos. Panojas estrechas, plateadas. Especie tipo: Í. eylindrica (L.) Beauv.
+79. ISCHAEMUM L.
+    Espiguillas dispuestas por bares en racimos espiciformes solitarios, geminados o fasciculados. Una de Jas espiguillas es casi sésil, con el pedícelo
+    oculto por la parte inferior de la gluma, que es decurrente formando un callus; Ja otra es largamente pedicelada; ambas son bifloras, con la flor
+    inferior masculina y la superior hermafrodita. Gluma inferior bidentada; la superior coriácea o papirácea, con 3-5 nervaduras, aguda. Lemma de la
+    flor masculina membranácea; la de ta flor hermafrodita mucronada o aristada. Hierbas con hojas planas; espiguillas en racimos espiciformes.
+    Especie tipo: I. muticum L.
 
-  
+80. SHORGASTRUM Nash.
+    Espiguillas gruesas, sésiles, hermafroditas, acompañadas por el pedicelo velludo de una segunda espiguilla que falta. Glumas coriáceas, pardas o
+    amarillentas, la inferior velluda. Lemma delgada y hialina, generalmente terminada en una arista retorcida más o menos larga. Hierbas perennes, robustas,
+    con vainas auriculadas y láminas lineales. Panojas terminales, angostas.
+    Especie tipo: S. avenaceum (Michx.) Nash.
+        A.  Arista de 10-15 mm de long. Plantas cespitosas, de 1-1,5 m de alt. Hojas pla- nas, enroscables. Panojas densas, plateado-ocráceas. Espiguillas velludas.
+                                                                                        1. S. pellitum
+        A'. Arista de 5 mm de long. Plantas de 1,5-2 m de alt. Panojas laxas. Espiguillas velludas
+                                                                                        2. S. agrostoides
 
-F1G. 30.-— A, Imperata brasiliensis Trin, (x 5)
+81. TRACHYPOGON Nees
+    Espiguillas dispuestas por pares a lo largo de un raquis delgado y continuo, una de ellas sésil, masculina, sin arista; la otra pedicelada, hermafrodita,
+    largamente aristada. El pedicelo de la flor hermafrodita se desarticula oblicuamente formando un callus agudo, sericeo velludo. Gluma inferior rísido-membranácea,
+    redondeada en el dorso, con varias nervaduras; gluma superior rigida, obscuramente nervada; lemma estrecha, terminada en una larga arista flexuosa, plamoso-velluda;
+    pálea atrofiada. Espiguilla masculina parecida a la hermafrodita, sésil, persistente, sin arista. Hierbas perennes, con racimos espiciformes terminales,
+    solitarios o fasciculados.
+    Especie tipo: I. montufari (H.B.K.) Nees.
 
-. B, Trachypogon canescens Nees,. (X 2,5);
-C, Rottboellia selloana Hack. (trozo de la espi
+18. CYPERACEAE 
+    Flores unisexuales o hermafroditas, monoicas o dioicas, dispuestas en la axila de una bráctea (gluma) formando espiguillas. Perianto, formado por cerdas o escamas,
+    o ausente. Androceo formado por 3 es tambres o menos (rara vez más). Gineceo formado generalmente Por 3 carpelos que constituyen un ovario unilocular, uniovulado.
+    Estilo dividido en 2-3 ramas estigmáticas. Fruto nuececilla o aquenio, triangular o lenticular. Hierbas anuales o perennes, frecuentemente rizomatosas. Tallos
+    normalmente macizos, con frecuencia triquetros. Hojas graminiformes, lineales, con vainas cerradas. Espiguillas solitarias o agrupadas en fascículos, antelas,
+    espigas, etc. Familia con cerca de 3000 especies repartidas en todo el globo. La mayor parte de ellas son de suelos húmedos e inundados y carecen de aplicación.
+    Cyperus esculentus posee tubérculos azucarados, las chufas, El junco, Scirpus californicus, se utiliza para fabricar esteras, cortinas, etc. Otras especies son ornamentales
 
-ga, X 2,5); D, Hemarthria altissima (Poir).
-Stapf et Hubbard (trozo de la espiga, X 2.5); E, Sorghastrum pellitum (Hack.) Parodi
-(X 5); F, Sorghum halepense (L.) Pers. (X 5),
-
-1. E. brasiliensis Trin., Mem. Acad,
-50-100 cm de alt. Hojas inferiores amo
-dos aurículas en la base de la 1
-das, densas, plateadas, de 10-1
-ra 30, A).
-
-América tropical. N
-dunas húmedas de Pi
-
-St, Petersb. ser. 6, 2: 331, 1832. Tallos de
-ntonadas, planas o convolutas, glabras, con
-ámina. Hojas superiores reducidas. Panojas lanceola-
-2 cm de long. Espiguillas de 4-5 mm de long. (Figu-
-
-o se halla cerca de la Capital Federal, pero es común en las
-pinas y San Clemente del Tuyú. Exsiec. Cabrera 4946. -
-
-79. Iscuarmum L.
-
-Espiguillas dispuestas por pares en racimos espiciformes soli
-geminados o fasciculados. Una de las espiguill
-dícelo oculto por la parte inferior de la gluma, q
-un callus; la otra es largamente -pedicelada; a
-flor inferior masculina y la superior hermafrodita. Gluma inferior biden-
-tada; la superior coriácea o papirácea, con 3-5 nervaduras, aguda. Lemma
-de la flor masculina membranácea; la de la flor hermafrodita mucronada
-o aristada. Hierbas con hojas planas; espiguillas en racimos es
-Especie tipo: Í. muticum L.
-
-1, L urvilleanum Kunth, Rev, Gramín. 1: 167, 1829. Hierba perenne, rizomatosa,
-
-montonadas en la parte inferior del tallo, planas,
-mes geminados, uno sésil vw otro cortamente
-de long., cortamente aristadas.
-
-tarjos,
-as es casi sésil, con el pe-
-ue es decurrenteformando
-mbas son bifloras, con la
-
-piciformes.
-
-,
-
-GRAMINEAE - CYPERACEAE 111
-
-del Brasil, Uruguay y NE. de la Argentina. Hallada en la Isla Martín García
-r de , A
-
-a ribera platense. .
-
-y 80. SHORGASTRUM Nash.
-
-Espiguillas gruesas, sésiles, hermafroditas, acompañadas por A peciccio
-lludo de una segunda espiguilla que falta. Glumas coriáceas, p das 0
-pl ¡llentas, la inferior velluda. Lemma delgada y hialina, generalme
-e terminada en una arista retorcida más o menos larga. Hierbas pe-
-Lennes robustas, con vainas auriculadas y láminas mn Panojas ter-
-minales, angostas. Especie tipo: S. avenaceum (Michx.) Nash.
-A. Arista de 10-15 mm de long. Plantas cespitosas, de 1-1,5 m de alt. Hojas pla-
-
-] : -ocráceas. Espiguillas velludas.
-nas, enroscables. Panojas densas, plateado-ocráceas. Esplg e ita
-
-, S - de alt. Panojas laxas. Espiguillas
-A% Arista de 5 mm de long. Plantas de 1,5-2 m de a b ! 'anoj a idos
-velludas, .... E
-j "0 Veter. Bs. Atres, 7: 154, 1930,
-llitum (Hackel) Parodi, Rev. Fac. Agron. y
-
-Androoón “nutans var. pellitus Hackel, en DC., Monogr. Phaner. 6: 582, 1889.
-a. astral. Frecuente en la estepa elimax del norte y este de la Provincia
-de Buenos Aires.
-
-2. S. agrostoides (Speg.) Hiteh., Contr. U. S. Nat, Herb. 17 a: 211, 1913. 4n-
-dropogon agrostoides Speg., Anal. Soc. Cient, Argent. 16: 186, 1883,
-
-América cálida. Accidental en Palermo.
-
-81. TracHYrocoNn Nees
-
-Espiguillas dispuestas por pares a lo largo de un raquis dogado y con
-tinuo, una de ellas sésil, masculina, sin arista; la otra pe ica Er _
-mafrodita, largamente aristada. El pedicelo de la flor as no e
-desarticula oblicuamente formando un callus agudo, seríceo vellu o. 1
-ma inferior rígido-membranácea, redondeada en el dorso, con nes ner
-vaduras; gluma superior rígida, obscuramente nervada; Jemma pl no o
-terminada en una larga arista flexuosa, plumoso-velluda; pálea a ro la AN
-Espiguilla masculina parecida a la hermafrodita, sésil, perelstonta, : '
-arista. Hierbas perennes, con racimos espiciformes terminales, solitario
-o fasciculados. Especie tipo: T. montujari (H. B. K.) Nees.
-
-1. T. canescens Nees, Agrost. Bras.: 343, 1829. Hierba perenne, cespitosa, de
-
-cerca de 1 m de alt. Hojas largas, velludas. Racimos solitarios, de 8-10 cm de long.
-
-Espiguillas fusiformes, velludas, de 6-7 mm de long. Arista de 4-6 cra de long., lar-
-
-da. (Fig. 30, B). o
-ar. a a, de Argentina. Se halla en el norte de la Provincia de
-Buenos Aires, en la estepa climax.
-
-18. CYPERACEAE (')
-
-Flores unisexuales o hermafroditas, monoicas o dioicas, dispuestas
-en la axila de una bráctea (gluma) formando espiguillas. Perianto, or-
-mado por cerdas o escamas, o ausente. Androceo forma: , por e
-tambres o menos (rara vez más). Gineceo formado Eonera mente Por
-3 carpelos que constituyeh un ovario unilocular, uniovulado. Es
-
-1 1 ii i inado por el especialista en la
-1 todo el material de esta familia ha sido determina: 1 :
-no Dr Manuel Barros, quien ha tenido también la gentileza de leer este capítulo.
-y 3000 especies repartidas por todo
-
- 
-
-FLORA DE BUENOS AIRES
-
-dividido en 2-3 ramas estigmáticas. Fruto nuececilla o aquenio, trian-
-gular o lenticular. Hierbas anuales o perennes, frecuentemente rizoma-
-tosas. Tallos normalmente macizos, con frecuencia triquetros. Hojas
-graminiformes, lineales, con vainas cerradas. Espiguillas solitarias o
-agrupadas en fascículos, antelas, espigas, etc. Familia con cerca de
-el globo. La mayor parte de ellas
-son de suelos húmedos e inundados y carecen de aplicación. Cyperus
-esculentus posee tubérculos azucarados, las chufas, El junco, Scirpus
-
-californicus, se utiliza para fabricar esteras, cortinas, etc. Otras espe-
-cies son ornamentales,
-
-Bibliogr.: Barros, M., en Physis, 9: 355-398, 1929. — Barros, M., en Descole,
-Gen. et Spec. Pl, Argent, 4, 1947.
 
 A. Flores fructíferas UmisexUales ooo ooo ooo,
 A'. Flores fructíferas hermafroditas.
