@@ -6,39 +6,369 @@ otras regiones, ni tampoco plantas cultivadas *
 
 I - División PTERIDOPHYTA
     Plantas vasculares con tallos, raíces y hojas. Reproducción por medio de esporos 
-    que originan protaos, en los cuales se desarrollan los gametas. La cigota comienza a 
+    que originan protalos, en los cuales se desarrollan los gametas. La cigota comienza a 
     dividirse imediatamente despues de formada, originando directamente una nueva
     planta. El esporofito (o planta productora de esporos) es de una larga duración; 
     el gametofito tófito (o protalo) es efimero. No hay flores ni semillas.
-
-    A   plantas acuáticas, flotantes o arraigadas (a veces plantas de terrenos pantanosos). Esporángios encerrados en conceptáculos globulares (esporocarpos) que nacen en la parte inferior de la planta, sea directamente sobre el rozima, o sobre los pecíolos foliares; o bien esporanglos alojados en la base de ciertas hojas en una cavidad especial
-
-        B   Esporangios en esporocarpos.
-            C   Pantas flotantes, libres
+        A.  Plantas acuáticas, flotantes o arraigadas (a veces plantas de terrenos pantanosos). Esporángios encerrados en conceptáculos globulares (esporocarpos) que nacen en la parte inferior de la planta, sea directamente sobre el rozima, o sobre los pecíolos foliares; o bien esporanglos alojados en la base de ciertas hojas en una cavidad especial
+            B.  Esporangios en esporocarpos.
+                C.  Pantas flotantes, libres
                                                                                         9. SALVINIACEAE
-            C'  Plantas arraigadas en el fondo de las charcas o en el suelo pantanoso, con hojas flotantes tetrafolioladas, o arrosetadas lineales. 
+                C'. Plantas arraigadas en el fondo de las charcas o en el suelo pantanoso, con hojas flotantes tetrafolioladas, o arrosetadas lineales. 
                                                                                         8. MARSILIACEAE
-
-        B'  Esporangios alojados en cavidades (foveas) en la base de hojas subuladas dispuestas en rosetas
+            B'. Esporangios alojados en cavidades (foveas) en la base de hojas subuladas dispuestas en rosetas
                                                                                         3. ISOETACEAE
-
-    A' Plantas terrestres (a veces de suelos pantanosos, pero no acuaticas) esporangios
-    agrupados en formas diversas, siempre en la parte superior de la planta.
-        D   Plantas afilas, con hojas reducidas a pequeñas escamas membranosas. ramificacion verticilada. Esporangios dispuestos en la parte interna de bracteas peltadas que, en conjunto, forman una especie de estróbilo te terminal.
+        A'. Plantas terrestres (a veces de suelos pantanosos, pero no acuaticas) esporangios agrupados en formas diversas, siempre en la parte superior de la planta.
+            D.  Plantas afilas, con hojas reducidas a pequeñas escamas membranosas. ramificacion verticilada. Esporangios dispuestos en la parte interna de bracteas peltadas que, en conjunto, forman una especie de estróbilo te terminal.
                                                                                         1. EQUISETACEAE
-        D'  Plantas con hojas. Ramificación sinpodial. Esporangios dispuestos en otras formas.
-            E   Plantas con ramificación dicotómica. Hojas muy pequeñas. Esporangios solitarios en las axilas de las hojas superiores
+            D'. Plantas con hojas. Ramificación sinpodial. Esporangios dispuestos en otras formas.
+                E.  Plantas con ramificación dicotómica. Hojas muy pequeñas. Esporangios solitarios en las axilas de las hojas superiores
                                                                                         2. SELAGINELLACEAE
-            E'  Plantas con ramificación no dicotómica. Hojas generalmente grandes. Esporangios agrupados en 1a cara inferior de las hojas, o sobre hojas reducidas a la nervadura formando espigas o panojas
-                F   Eporangios dispuestos sobre la cara inferior de las hojas, con un anillo de dehiscencia vertical formado por células mecánicas.
+                E'. Plantas con ramificación no dicotómica. Hojas generalmente grandes. Esporangios agrupados en 1a cara inferior de las hojas, o sobre hojas reducidas a la nervadura formando espigas o panojas
+                    F.  Eporangios dispuestos sobre la cara inferior de las hojas, con un anillo de dehiscencia vertical formado por células mecánicas.
                                                                                         7. POLYPODIACEAE
-                F'  Esporangios dispuestos sobre hojas reducidas a la nervadura formando espigas o pañojas, o sobre pínulas reducidas a la nervadura.
-                    G  Esporangios con un anillo de dehiscencia apical.     6. SCHIZAEACEAE
-                    G'  Esporangios sin anillo de dehiscencia o con anillo transversal incompleto
-                        H   Plantas pigmeas. Esporangios dispuestos en espigas densas dehiscentes por una ranura transversal.
+                    F'. Esporangios dispuestos sobre hojas reducidas a la nervadura formando espigas o pañojas, o sobre pínulas reducidas a la nervadura.
+                        G.  Esporangios con un anillo de dehiscencia apical.
+                                                                                        6. SCHIZAEACEAE
+                        G'. Esporangios sin anillo de dehiscencia o con anillo transversal incompleto
+                            H.  Plantas pigmeas. Esporangios dispuestos en espigas densas dehiscentes por una ranura transversal.
                                                                                         4. OPHIGLOSSACEAE
-                        H'  Plantas robustas. Esporangios dispuestos en las pínulas superiores de las hojas, que están reducidas al raquis
+                            H'. Plantas robustas. Esporangios dispuestos en las pínulas superiores de las hojas, que están reducidas al raquis
                                                                                         5. OSMUNDACEAE
+
+        1.  EQUISETACEAE
+            Esporangios uniloculares, amontonados bajo las escamas de una espiga estrobiliforme. 
+            Esporos todos de la misma forma y tamaño, provistos de dos apéndices en forma de cinta,
+            unidos en su parte media, que están enrollados alrededor del esporo cuando el ambiente
+            es húmedo y estirados cuando es seco (elaterios). Plantas perennes, con tallos fistulosos
+            provistos de una epidermis áspera impregnada en sílice.
+            Ramas verticiladas. Nudos provistos de diafragmas. Rizomas alargados hojas reducidas a
+            pequeñas vainas membranosas, formando verticilos en los nudos. Protalos verdes, dioicos
+            extendidos sobre la superficie del suelo.
+            Un solo género con unas 30 especies.
+
+        2.  SELAGINELLACEAE
+            Esporangios uniloculares, solitarios en las axilas de las hojas superiores que se ordenan
+            en forma de espiga más o menos cuadangular. Unos contienen 4 macrosporos (macrosporangios)
+            y otros numerosos microsporos (microsporangios). Los macrosporos forman protalos femeninos
+            que llevan arquegonios. Los microsporos forman protalosmasculinos con anteridios.
+            Unos y otros son endosporados, es decir,se desarrollan dentro del esporo. Hierbas anuales 
+            o perennes, musciformes, con tallos ramificados dicotómicamente, generalmente rastreros.
+            Hojas escamiformes, dispuestas en varias series o en 4 series y entonces de dos tipos.
+            Un solo género con unas 350 especies.
+
+        3.  ISOETACEAE
+            Esporangios alojados debajo de la lígula en la base de algunas hojas (esporófilos), en una
+            cavidad denominada fovea, con frecuencia cubiertos por una tenue membrana o velo.Macrosporos
+            y microsporos numerosos, los primeros bastante más grandes. Los protalos masculinos  abandonan
+            el microsporo y están formados por una o dos células que constituyen el anteridio, donde se forman
+            cuatro anterozoides ciliados. EL protalo femenino se desarrola en el macrosporo y suele llevar un
+            solo arquegonio. Fecundada la oosfera, el embrión queda libre por putrefaccion de la pared del
+            esporangio. Plantas de aspecto junciforme hererosporadas, acuáticas o palustres, con rizoma perenne
+            y tallo corto. Hojas subuladas, dspuestas en roseta. Un solo género con unas 60 especies
+
+        4.  OPHIOGLOSSACEAE
+            Protalo monoico, de forma variada, hipogeo, sin clorofila, simbiótico con micelio de hongos
+            Rizoma perenne, cmitiendo en cada período vegetativo una mas frondas erguidas que pronto se
+            dividen en la lámina esteril y segmento fertil. La lámina es simple palmada p pinatífida.
+            La parte fértil puede ser también entera o dividida, con los esporangios insertos en los bordes,
+            libres o soldados entre sí. Dehiscencia de los esporangios por hendiduras transversales o 
+            longitudinales; membrana formada por varias capas de células. Esporos isomorfos. Tres géneros
+            distribuídos por todo el globo.
+
+                1.  OPHROCLOSSUM L.
+                    Una o varias frondas erguidas en cada período vegetativo; lámina entera o lobada; nervadura
+                    reticulada. Segmento fértil por lo común largamente pedunculado, terminado en una especie de
+                    espiga formada por dos filas de esporangios conerescentes que, al. madurar, presentan hendiduras
+                    transversales de dehiscencia. Esporos esfero-tetraédricos, ama- rillentos, con exosporio reticulado.
+                    Plantas herbáceas, de tamaño variado, con rizoma generalmente erecto. Raíces fasciculadas.
+                    Especie tipo: Ovulgatum L.
+
+        5.  OSMUNDACEAE
+            Esporangios con anillo subapical transverso incompleto, libres, membranáceos, dehiscentes
+            longitudinalmente. Indusio nulo. Esporos globosos, con 3 estrías. Plantas perennes, con rizoma
+            horizontal o ascendente. Frondas de prefoliación circinada; lámina bipinada, con las pinas inferiores
+            estériles, foliáceas, y las superiores reducidas a la nervadura y cargadas de esporangios, semejando
+            una panoja contraída. Tres géneros.
+
+        6.  SCHIZAEACEAE
+            Esporangios membranosos, sésiles o cortamente pedicelados, ovados 
+            u oblongos, provistos en el ápice de un anillo completo transverso, 
+            multiovulados, dehiscentes longitudinalmente, dispuestos unas veces 
+            sobre las nervaduras de las frondas, o en las lacinias de las mismas, 
+            o sobre frondas reducidas a las nervaduras. Esporos tetraédricos u 
+            oblongos, tuberculado-ásperos o estriados. Hierbas rizomatosas con 
+            frondas de diversos tipos, flabeladas o pinaticompuestas. Nervaduras 
+            primarias indivisas, dicotómicas. Nervaduras secundarias dicotómicas 
+            o flabelado-dicotómicas, libres o anastomosadas. Cuatro géneros con 
+            más de 160 especies.
+
+                1.  ANEIMIA Sw.
+                    Frondas fértiles generalmente contraídas, paniculiformes, con esporangios 
+                    dispuestos en dos series bajo los nervios primarios y los raquis.
+                    Esporangios sésiles, ovales, con anillo completo multirradiado en el vértice, 
+                    con dehiscencia longitudinal extrorsa. Indusio nulo. Esporos tetraédricos, 
+                    estriados. Rizoma horizontal o ascendente. Raquis primarios y secundarios 
+                    canaliculados. Lacinias de las frondas fértiles ternadas; las
+                    de las frondas estériles pinatisectas o bipinatisectas, con segmentos subcoriáceos, 
+                    enteros o divididos
+                    Especie tipo: A. phyllitidis (L.) Sw.
+
+        7.  POLYPODIACEAE
+            Soros generalmente en la cara inferior de las hojas, formados por un manojo de esporangios y cubiertos o no por una membranita o indusio.
+            Paredes del esporangio membranosas, muy delgadas (formadas por una sola  capa de células); pedicelo largo o córto; anillo de dehiscencia vertical.
+            Protalo hermafrodita, foliáceo, desarrollándose sobre la superficie del suelo. Esporófito de aspectos muy diversos, generalmente con rizoma
+            horizontal subterráneo y hojas enteras o divididas, de prefoliación circinada. Nervaduras bifurcadas.
+            Más de 100 géneros con unas 4000 especies distribuidas por todo el globo.
+                A.  Soros descubiertos, sin indusio o con indusio rudimentario no apreciable.
+                    B.  Hojas distantes entre sí, articuladas sobre un tallo rastrero o sobre un rizoma, enteras o pinatisectas
+                                                                                        1. Polypodium
+                    B'. Hojas amontonadas hacia él extremo de un rizoma corto o largo, generalmente pinatisectas o pinaticompuestas
+                        C.  Soros alargados, extendiéndose a lo largo de las nervaduras. Hojas gráciles, muy divididas
+                                                                                        2. Anogramma.
+                        C'. Soros circulares. Hojas por lo común bipinatisectas
+                            D.  Pinas divididas en tres segmentos oblongo-lanceolados, enteros
+                                                                                        3. Trismeria
+                            D'. Pinas lanceoladas, crenadas, lobadas o pinatisectas, con numerosos segmentos
+                                                                                        4. Dryopteris
+                A'. Soros cubiertos por un indusio.
+                    E.  Indusio formado por el borde revoluto de la hoja.
+                        F.  Soros muy alargados, continuos a lo largo del borde de las divisiones de la hoja.
+                            G.  Soros colocados entre el borde revoluto de la hoja y un indusio inferior frondas tri- o tetrapinatisectas
+                                                                                        5. Pteridium
+                            G'. Soros colocados bajo el borde revoluto de la hoja, sin indusio inferior hojas generalmente pinadas o bipinadas, con pinas grandes
+                                                                                        6. Pteris
+                        F'. Soros reniformes o circulares en el extremo o en el borde de los lóbulos de las pinas
+                            H.  Pínulas cuneiformes o flabeladas, palmatilobadas 
+                                                                                        7. Adiantum.
+                            H'. Pínulas oblongas
+                                                                                        8. Adiamiopsis
+                    E'. Indusio membranoso, no formado por el borde revoluto de la hoja.
+                        J. Soros alargados, paralelos a la nervadura central
+                                                                                        9. Blechnum
+                        J'. Soros alargados o no, paralelos a las nervaduras secundarias o insertos sobre ellas.
+                            K.  Soros muy alargados
+                                                                                        10. Asplenium
+                            K'. Soros redondeados, semicirculares o arriñonados.
+                                L.  Las nervaduras no llegan hasta el borde de la hoja u algunas de ellas terminan en un soro
+                                                                                        11. Nephrolepis
+                                L'. Las nervaduras llegan hasta el borde de la hoja. Soros insertos lateralmente o sobre la nervadura
+                                    M.  Soros muy próximos al margen, insertos lateralmente con respecto a la nervadura
+                                                                                            12. Athyrium 
+                                    M'. Soros no próximos al margen, insertos sobre la nervadura
+                                        N.  Indusio peltado, inserto por su centro
+                                            O.  Nervaduras no anastomosadas. Frondas bi- o tri- pinatisectas
+                                                                                        13. Polystichum
+                                            O'. Nervaduras anastomosadas. Frondas simplemente pinadas
+                                                                                        14. Phanerophlebia
+                                        N'. Indusio reniforme o cordiforme, inserto por su borde o por una escotadura
+                                            P.  Indusio reniforme, inserto por la escotadura
+                                                                                        4. Dryopteris
+                                            P'. Indusio ovado, inserto por uno de sus bordes
+                                                                                        15. Cystopteris
+
+                1.  POLYPODIUM L.
+                    Soros circulares, sin indusio, dispuestos en una o mas series sobre la cara inferior
+                    de las hojas, Esporangios pedicelados. Plantas epífitas o terrestres, con tallos 
+                    rastreros o rizomas alargados, ramosos, sobre los que se articulan espaciadamente 
+                    hojas simples o pinatisectas.
+                    Especie tipo: P. vulgare L.
+                        A.  Hojas enteras, dimorfas, glabras; las estériles ovadas u ovado-lanceoladas, atunuadas en la base en corto pecíolo, con nervaduras anastomosadas entre cuyas mallas queda una sola nervadura libre; hojas fértiles lanceoladas, más estrechas, con una serie de soros a cada lado
+                                                                                        1. P. vaccinifolium
+                        A'. Hojas pinatisectas, con segmentos opuestos en 9-11 pares y con un segmento impar terminal, todos ellos oblongo-elípticos, de unos 8 mm de longuitud por 1,5 mm de ancho, glabros en la cara superior y cubiertos de escamas redondeadas en la cara inferior. Soros circulares
+                                                                                        2. P. polypodioides
+
+                2.  ANOGRAMMA Link
+                    Soros alargados, ocupando las nervaduras en casi toda su extensión,
+                    o dejando sólo libres los extremos. Rizoma corto y débil, provisto de
+                    pelos cerdosos. Hojas amontonadas, casi glabras, multicompuestas. 
+                    Especie tipo: A. leptophylla (L.) Link.
+
+                3.  TRISMERIA Fée
+                    Soros desprovistos de indusio, colocados a lo largo de las nervaduras,
+                    salvo su extremo terminal. Esporangios casi sésiles, grandes. Esporos
+                    globular-tetraédricos. Hierbas rizomatosas; hojas bipinadas, con cada.
+                    pina dividida en 3 segmentos enteros. Pinas fértiles muy contraídas.
+                    Venas libres, bifurcadas.
+                    Especie tipo: T. argentea Fée.
+
+                4.  DRYOPTERIS Adans
+                    Soros circulares, con o sin indusio, insertos sobre el dorso de las nervaduras 
+                    y no muy próximos al margen. Cuando existe indusio, éste es cordiforme o reniforme,
+                    inserto por un seno o escotadura. Hojas pinadas una o más veces, con pecíolo no 
+                    articulado al rizoma.
+                    Especie tipo: D. filix-mas (L.) Schott.
+                        A.  Pinas profundamente partidas, con segmentos oblongos, angostos. 
+                            B.  Hojas de 60-80 cm de longitud; parte inferior del pecíolo con un mechón de escamas rojizas; raquis con pelos escamosos lineales; pinas muy numerosas, de 10-18 cm de longitud por unos 2 cm de ancho, profundamente partidas. Ner vaduras de los segmentos libres entre sí y no bifurcadas
+                                                                                        1. D. submarginalis
+                            B'. Hojas de contorno lanceolado, de 30-50 cm de longitud; pecíolo con escamas rojizas esparcidas; raquis sin pelos escamosos; lámina con 20-25 pares de pinas lanceoladas, de 3-8 cm de longitud por 7-12 mm de ancho, profundamente pinatífidas; segmentos oblongos, de 5-7 mm de longitud por 2,8-3 mm de ancho, enteros, pubescentes. Indusio inconspicio
+                                                                                        2. D. argentina
+                        A'. Pinas crenadas o lobadas, con lóbulos redondeados anchos.
+                            C.  Hojas de 20-50 cm de longitud, glabras; pinas crenadas, de 3-8 cm de longitud por 1 cm de ancho; nervaduras ramificadas y anastomozadas
+                                                                                        3. D. riograndensis
+                            C'. Hojas lanceoladas de cerca de 1 m de longitud; pinas 20-30-yugas, lanceoladolineales, acuminadas, de 10-20 cm de longitud por 1-2 cm de ancho, uniformemente lobadas, con lóbulos redondeados, obtusos, de 3-8 mm de longitud por 4-6 mm de ancho, glabras o casi glabras
+                                                                                        4. D. gongylodes
+
+                5.  PTERIDIUM Gled.
+                    Soros marginales, generalmente continuos. Esporangios situados entre
+                    un indusio exterior (el borde modificado de la fronda), y un indusio
+                    interno. Esporos pardos, finamente espinulosos, tetraédrico-globosos.
+                    Hierbas perennes con rizoma, rastrero ramificado y cubierto de pelos.
+                    Frondas alternas, grandes, tri- o tetrapinatisectas; segmentos oblongo-
+                    lineales, revolutos en el margen.
+                    Especie tipo: P. aquilinum (L.) Kuhn.
+
+                6.  PTERIS L.
+                    Soros insertos en líneas marginales más o menos extensas, continuas,
+                    cubiertos por el borde revoluto de la hoja que sirve de indusio. Hojas
+                    divididas, frecuentemente con pinas enteras muy alargadas. 
+                    Especie tipo: P. longifolia L.
+                        A.  Hojas simplemente pinadas. Rizoma horizontal rastrero.
+                            B.  Pinas numerosas, enteras, lineales, atenuadas en la parte superior y truncadas en la base, con soros ozupando todo su borde. Raquis con pelos escamosos lineales
+                                                                                        1. P. longifolia
+                            B'. Pinas inferiores bífidas o trífidas, raquis glabro
+                                C.  Raquis foliar alado entre las pinas; éstas lineales, agudas, enteras o, las inferiores, trilobadas, decurrentes en la base. Soros continuos a lo largo del borde
+                                                                                        2. P. multifida
+                                C'. Raquis foliar no alado entre las pinas. Hojas de 15-30 cm de longitud, ternadas o pinadas con 2-5 pares de pinas sésiles, las inferiores bífidas o trífidas, las superiores enteras y algo decurrentes sobre el raquis. Pinas estériles más anchas, espinuloso-aserradas. Soros continuos
+                                                                                        3. P. cretica
+                        A'. Hojas 2-3-pinadas. Rizoma erecto, corto. Hojas de 60-100 cm de longitud; pinas superiores pinadas; las inferiores divididas dos o tres veces
+                                                                                        4. P. tremula
+
+                7.  ADIANTUM L.
+                    Soros localizados en el borde de los lóbulos de las pinas, que se repliega sobre ellos
+                    formando un indusio redondeado o reniforme. Helechos delicados, de hojas muy divididas,
+                    con pinas cuneiformes, palmatilobadas.
+                    Especie tipo: A. capillus-veneris Li.
+
+                8.  ADIANTOPSIS Fée.
+                    Soros orbiculares u oblongos, dispuestos en el extremo de las nervaduras en un receptáculo
+                    puntiforme y cubiertos por el borde revoluto del lóbulo, más o menos modificado. Frondas
+                    herbáceas 1-4-pinadas o palmadas, glabras o casi glabras. Nervaduras libres.
+                    Especie tipo: A. capensis (Thumb.) Fée.
+
+                9.  BLECANUM L.
+                    Soros lineales, paralelos a la nervadura central de la pina. Rizomas erectos. Frondas
+                    fasciculadas, a menudo dimorfas. Nervios de las láminas estériles libres; los de las
+                    láminas fértiles unidos en la parte inferior por una nervadura transversal que lleva los
+                    soros.
+                    Especie tipo: B. orientale L.
+
+                10. ASPLENIUM L.
+                    Soros alargados, lineales o lanceolados, ubicados sobre las nervaduras secundarias
+                    de cada pina, con indusio membranoso que se abre hacia la nervadura central. Hojas de
+                    tipos diversos, pinadas o bipinadas.
+                    Especie tipo: A. trichomanes L.
+                        A.  Hojas de contorno lanceolado, de 25-60 cm de longitud por 2,5-6,5 cm de ancho, pinadas; pinas 30-15-yugas, oblongo-falcadas, asimétricas, auriculadas en la base, aserrado-dentadas, de 1,5-35 cm de longitud por 0,5-1,5 cm de ancho Soros de hasta 4 mm de longitud
+                                                                                        1. A. argentinum
+                        A'. Hojas de 15-20 cm de longitud por 1,5-2 cm de ancho, pinadas; pinas 30-40-yugas, rómbico-trapezoidales, de 0,5-1 cm de long., por 0,5-0,7 cm de ancho, profundamente aserradas, soros pocos
+                                                                                        2. A. ulbrichtii
+
+                11. NEPHROLEPIS Schott.
+                    Soros redondeados o reniformes, situados en el extremo de las nerva
+                    duras y cubiertos por un indusio reniforme, Hierbas rizomatosas, a 
+                    veces con tubérculos. Hojas pinadas o bipinadas; pinas con nervaduras 
+                    secundarias bifurcadas.
+                    Especie tipo: N. exaltata (L.) Schott.
+
+                12. ATHYRIUM Roth.
+                    Soros no muy alargados, rectos o algo reniformes, situados cerca del
+                    margen de las pinas, al costado de las nervaduras secundarias. Indusio
+                    de la misma forma que el soro. Hojas pinadas o bipinadas
+                    Especie tipo: A. filiz-foeminea (L.) Roth.
+
+                13. POLYSTTICHUM Roth.
+                    Soros grandes, circulares, dispuestos en la cara inferior de las hojas.
+                    Indusio orbicular, peltado, a veces rudimentario e inconspicuo. Esporangios
+                    largamente pedicelados. Hojas bipinadas, coriáceas o semicoriáceas, con pinas
+                    asimétricas, dentadas. Venas libres o anastomosadas.
+                    Especie tipo: P. aculeatum (L.) Roth.
+
+                14. PHANEROPHLEBIA Presl.
+                    Soros dorsales (algunas veces terminales), dispuestos sobre las nervaduras.
+                    Indusio peltado, persistente o caduco (a veces inconspicuo).
+                    Anillo del esporangio formado por unas 16 células engrosadas. Esporos
+                    bilaterales, tuberculados. Helechos terrestres, con rizoma ascendente
+                    o erecto, escamoso. Hojas pinadas; pinas a menudo falcadas, acuminadas,
+                    aserrado-dentadas; nervaduras anastomosadas.
+                    Especie tipo: Ph. nobilis (S. et C.) Presl
+
+                15. CYSTOPTERIS Bernh.
+                    Soros globosos, situados en el dorso de las nervaduras. Indusio ínfero,
+                    suborbicular, coherente con la base del receptáculo en el lado inferior
+                    Esporangios globosos, cortamente pedicelados. Anillo formado por 14-16
+                    células engrosadas. Esporos reniformes. Helechos terrestres, rizomatosos.
+                    Hojas 2-3-pinadas, glabras, con pinulas incisas, Nervaduras libres.
+                    Especie tipo: C. fragilis (L.) Bernh.
+
+        8.  MARSILIACEAE
+            Esporangios de dos tipos: macrosporangios que dan macrosporos, en los cuales
+            se forman protalos femeninos; y microsporangios, que dan microsporos que forman
+            protalos masculinos. Tanto los macrosporangios, como los microsporangios,
+            se desarrollan en conceptáculos globulares denominados esporocarpos,
+            que nacen sobre el rizoma o sobre la parte inferior de la hoja.
+            Los protalos femeninos y masculinos se desarrollan dentro del esporo,
+            que se rompe para dejar salir a los anterozoides y permitir que lleguen
+            hasta los arquegonios. Hierbas perennes, de pantanos o charcas, con rizomas
+            horizontales muy delgados y hojas lineales o tetrafolioladas.
+            Dos géneros con unas 60 especies.
+                A.  Hojas lineales
+                                                                                        1. Pilularia
+                A'. Hojas con lámina 4-foliolada
+                                                                                        2. Marsilia
+
+                1.  PILULARIA L.
+                    Plantas diminutas, con rizoma horizontal y hojas cilíndrico-subuladas,
+                    de prefoliación circinada. Esporocarpos pedicelados, naciendo en los
+                    nudos.
+                    Especie tipo: P. globifera L.
+
+                2.  MARSILIA L.
+                    Plantas acuáticas, con rizoma horizontal delgado y hojas largamente
+                    pecioladas, terminadas en 4 folíolos flabelados, dispuestos en cruz. Esporocarpos
+                    cortamente pedunculados, naciendo sobre el rizoma o sobre la parte inferior del
+                    pecíolo foliar, con varias divisiones en su interior.
+                    Especie tipo: M. quadrifolia L.
+
+        9.  SALVINIACEAE
+            Esporangios dimorfos: macrosporangios con pocos: macrosporos, en
+            los que se desarrollan los prctalos femeninos; y microsporangios menores,
+            con microsporos que originan el protalo masculino. Plantas
+            flotantes, pequeñas, con un eje más o menos ramificado, sobre el cual
+            van las hojas. Esporocarpos con paredes delgadas, naciendo en número
+            de 2 6 más sobre el pedicelo común, uniloculares, con una columna
+            central sobre la que nacen los esporangios. En unos esporocarpos se
+            forman algunos macrosporangios, en otros numerosos microsporangios.
+            Dos géneros con unas 15 especies.
+                A.  Hojas de más de 5 mm de long., dispuestas en rosetas o en series
+                                                                                        1. Salvinia
+                A'. Hojas diminutas, de 1 mm o menos de long., densamente imbricadas sobre un tallo muy ramificado
+                                                                                        2. Azolla
+
+                1.  SALVINIA Adans.
+                    Plantas anuales o perennes; tallo horizontal, poco dividido, flotante,
+                    con 3 hojas en cada nudo, de las cuales dos son flotantes y la tercera
+                    es sumergida y dividida en numerosas lacinias filiformes que hacen el
+                    papel de raíces. Hojas flotantes más o menos plegadas sobre su nervadura,
+                    con papilas en la cara superior, elípticas o acorazonadas. Esporocarpos
+                    amontonados, unos con macrosporangios y otros con microsporanglos.
+                    Especie tipo: S. natans (L.) Hoffm.
+                        A.  Hojas flotantes profundamente hendidas en la base, algo plegadas, más o menos circulares, de 1,5-2 cm de long. por 2-3 cm de anch., con la cara o cubierta de papilas en cuyo extremo hay un manojo de pelos soldados entre sí en el ápice. Esporocarpos muy amontonados
+                                                                                        1. S. auriculata
+                        A'. Hojas flotantes con escotadura basal poco marcada o nula, redondeadas plegadas por la nervadura central, de 1-2 cm de long. por 1-2,4 cm de anch. cubiertas en la cara superior de papilas que llevan en su ápice un mechón de pelitos libres entre sí. Esporocarpos esparcidos
+                                                                                        2. S. rotundifolia
+
+            2.  AZOLLA Lam.
+                Plantas flotantes, libres, con estructura dorsiventral. Tallos ramificados
+                dicotómicamente, cubiertos de hojas diminutas densas, imbricadas.
+                Hojas bilobadas, con el lóbulo inferior mayor que el superior y
+                generalmente muy delgado y sin clorofila, adaptado como aparato de
+                flotación. Esporocarpos en las axilas de las hojas viejas: los mayores
+                conteniendo varios microsporos, los menores con un solo macrosporo.
+                Microsporos numerosos, agregados en masas cubiertas de gloquidios,
+                de las cuales salen los anterozoides. El protalo femenino se forma dentro
+                del macrosporo.
+                Especie tipo: A. filiculoides Lam.
+
 II  División SPERMATOPHYTA
     Plantas vasculares, con raíces, tallos y hojas bien diferenciados. Reproducción
     por medio de flores. Los esporos masculinos (granos de polen) forman un corto pro
@@ -52,10 +382,10 @@ II  División SPERMATOPHYTA
                                                                                         10. EPHEDRACEAE
         2   Subdivisión Angiospermae
             Ovulos encerrados en un ovario.
-        Clase 1.    Monocotiledoneae.
-            embrión con un solo cotiledón. Hojas generalmente paralelinervadas. Flores generalmente trimeras.
+        Clase 1 MONOCOTYLEDONEAE
+            Embrión con un solo cotiledón. Hojas generalmente paralelinervadas. Flores generalmente trimeras.
             A   Plantas arborescentes, con tronco terminado en una sola yema (estípite) y hojas pinaticompuestas o palmatisectas. Flores en panojas protegidas por una espata leñosa
-                                                                                        9. PALMAE
+                                                                                        19. PALMAE
             A'  Plantas herbáceas, con otros caracteres.
                 B   Plantas acuáticas, reducidas a un pequeño cuerpo taliforme, no diferenciado en tallo y Hojas, con o sin raíces. Flores diminutas, desnudas (lentejas de agua)
                                                                                         21. LEMNACEAE
@@ -63,9 +393,9 @@ II  División SPERMATOPHYTA
                     C   Flores desnudas (protegidas o no por brácteas verdes) o con perigonio verdoso poco llamativo. No hay corola.
                         D   Flores desnudas, protegidas por brácteas especializadas herbáceas, papiráceas o coriáceas, y agrupadas en espiguillas (pastos y ciperos).
                             E   Tallos generalmente huecos, con nudos y entrenudos muy marcados redondeados. Vainas de las hojas abiertas. Fruto cariopse.
-                                                                                        17. Gramineae
+                                                                                        17. GRAMINEAE
                             E'  Tallos generalmente macizos, con nudos sólo en la base, más o menos triangulares (raramente redondeados). Vainas de las hojas cerradas. Fruto aquenio
-                                                                                        18. Cyperaceae
+                                                                                        18. CYPERACEAE
                         D'  Flores desnudas o con perigonio verdoso poco llamativo.
                             F   Flores con perigonio verdoso formado por 6 piezas.
                                 G   Arbustos o hierbas trepadores.
@@ -128,7 +458,7 @@ II  División SPERMATOPHYTA
                                                                                         23. COMMELINACEAE
                                                 X'  Cáliz y corola iguales, formando un perigonio corolino
                                                                                         26. LILIACEAE
-        Clase 2. Dicotyledoneae.
+        Clase 2 DICOTYLEDONEAE
             embrión con dos cotiledones opuestos. Hojas claramente retinervadas. Flores generalmente formadas por ciclos de 4-5 Piezas.
             A   Flores desnudas, sin cáliz ni corola, protegidas a lo más por alguna bráctea.
                                                                                         GRUPO A
@@ -519,341 +849,7 @@ II  División SPERMATOPHYTA
                                                                                         124. CAPRIFOLIACEAE
                                                 l'  Hojas simples
                                                                                         123. RUBIACEAE
-1   —   DIVISION PTERIDOPHYTA
-    1.  EQUISETACEAE
-        Esporangios uniloculares, amontonados bajo las escamas de una espiga estrobiliforme. 
-        Esporos todos de la misma forma y tamaño, provistos de dos apéndices en forma de cinta,
-        unidos en su parte media, que están enrollados alrededor del esporo cuando el ambiente
-        es húmedo y estirados cuando es seco (elaterios). Plantas perennes, con tallos fistulosos
-        provistos de una epidermis áspera impregnada en sílice.
-        Ramas verticiladas. Nudos provistos de diafragmas. Rizomas alargados hojas reducidas a
-        pequeñas vainas membranosas, formando verticilos en los nudos. Protalos verdes, dioicos
-        extendidos sobre la superficie del suelo.
-        Un solo género con unas 30 especies.
 
-    2.  SELAGINELLACEAE
-        Esporangios uniloculares, solitarios en las axilas de las hojas superiores que se ordenan
-        en forma de espiga más o menos cuadangular. Unos contienen 4 macrosporos (macrosporangios)
-        y otros numerosos microsporos (microsporangios). Los macrosporos forman protalos femeninos
-        que llevan arquegonios. Los microsporos forman protalosmasculinos con anteridios.
-        Unos y otros son endosporados, es decir,se desarrollan dentro del esporo. Hierbas anuales 
-        o perennes, musciformes, con tallos ramificados dicotómicamente, generalmente rastreros.
-        Hojas escamiformes, dispuestas en varias series o en 4 series y entonces de dos tipos.
-        Un solo género con unas 350 especies.
-
-    3.  ISOETACEAE
-        Esporangios alojados debajo de la lígula en la base de algunas hojas (esporófilos), en una
-        cavidad denominada fovea, con frecuencia cubiertos por una tenue membrana o velo.Macrosporos
-        y microsporos numerosos, los primeros bastante más grandes. Los protalos masculinos  abandonan
-        el microsporo y están formados por una o dos células que constituyen el anteridio, donde se forman
-        cuatro anterozoides ciliados. EL protalo femenino se desarrola en el macrosporo y suele llevar un
-        solo arquegonio. Fecundada la oosfera, el embrión queda libre por putrefaccion de la pared del
-        esporangio. Plantas de aspecto junciforme hererosporadas, acuáticas o palustres, con rizoma perenne
-        y tallo corto. Hojas subuladas, dspuestas en roseta. Un solo género con unas 60 especies
-
-    4.  OPHIOGLOSSACEAE
-        Protalo monoico, de forma variada, hipogeo, sin clorofila, simbiótico con micelio de hongos
-        Rizoma perenne, cmitiendo en cada período vegetativo una mas frondas erguidas que pronto se
-        dividen en la lámina esteril y segmento fertil. La lámina es simple palmada p pinatífida.
-        La parte fértil puede ser también entera o dividida, con los esporangios insertos en los bordes,
-        libres o soldados entre sí. Dehiscencia de los esporangios por hendiduras transversales o 
-        longitudinales; membrana formada por varias capas de células. Esporos isomorfos. Tres géneros
-        distribuídos por todo el globo.
-
-            1.  OPHROCLOSSUM L.
-                Una o varias frondas erguidas en cada período vegetativo; lámina entera o lobada; nervadura
-                reticulada. Segmento fértil por lo común largamente pedunculado, terminado en una especie de
-                espiga formada por dos filas de esporangios conerescentes que, al. madurar, presentan hendiduras
-                transversales de dehiscencia. Esporos esfero-tetraédricos, ama- rillentos, con exosporio reticulado.
-                Plantas herbáceas, de tamaño variado, con rizoma generalmente erecto. Raíces fasciculadas.
-                Especie tipo: Ovulgatum L.
-
-    5.  OSMUNDACEAE
-        Esporangios con anillo subapical transverso incompleto, libres, membranáceos, dehiscentes
-        longitudinalmente. Indusio nulo. Esporos globosos, con 3 estrías. Plantas perennes, con rizoma
-        horizontal o ascendente. Frondas de prefoliación circinada; lámina bipinada, con las pinas inferiores
-        estériles, foliáceas, y las superiores reducidas a la nervadura y cargadas de esporangios, semejando
-        una panoja contraída. Tres géneros.
-
-    6.  SCHIZAEACEAE
-        Esporangios membranosos, sésiles o cortamente pedicelados, ovados 
-        u oblongos, provistos en el ápice de un anillo completo transverso, 
-        multiovulados, dehiscentes longitudinalmente, dispuestos unas veces 
-        sobre las nervaduras de las frondas, o en las lacinias de las mismas, 
-        o sobre frondas reducidas a las nervaduras. Esporos tetraédricos u 
-        oblongos, tuberculado-ásperos o estriados. Hierbas rizomatosas con 
-        frondas de diversos tipos, flabeladas o pinaticompuestas. Nervaduras 
-        primarias indivisas, dicotómicas. Nervaduras secundarias dicotómicas 
-        o flabelado-dicotómicas, libres o anastomosadas. Cuatro géneros con 
-        más de 160 especies.
-
-            1.  ANEIMIA Sw.
-                Frondas fértiles generalmente contraídas, paniculiformes, con esporangios 
-                dispuestos en dos series bajo los nervios primarios y los raquis.
-                Esporangios sésiles, ovales, con anillo completo multirradiado en el vértice, 
-                con dehiscencia longitudinal extrorsa. Indusio nulo. Esporos tetraédricos, 
-                estriados. Rizoma horizontal o ascendente. Raquis primarios y secundarios 
-                canaliculados. Lacinias de las frondas fértiles ternadas; las
-                de las frondas estériles pinatisectas o bipinatisectas, con segmentos subcoriáceos, 
-                enteros o divididos
-                Especie tipo: A. phyllitidis (L.) Sw.
-
-    7.  POLYPODIACEAE
-        Soros generalmente en la cara inferior de las hojas, formados por un manojo de esporangios y cubiertos o no por una membranita o indusio.
-        Paredes del esporangio membranosas, muy delgadas (formadas por una sola  capa de células); pedicelo largo o córto; anillo de dehiscencia vertical.
-        Protalo hermafrodita, foliáceo, desarrollándose sobre la superficie del suelo. Esporófito de aspectos muy diversos, generalmente con rizoma
-        horizontal subterráneo y hojas enteras o divididas, de prefoliación circinada. Nervaduras bifurcadas.
-        Más de 100 géneros con unas 4000 especies distribuidas por todo el globo.
-            A.  Soros descubiertos, sin indusio o con indusio rudimentario no apreciable.
-                B.  Hojas distantes entre sí, articuladas sobre un tallo rastrero o sobre un rizoma, enteras o pinatisectas
-                                                                                        1. Polypodium
-                B'. Hojas amontonadas hacia él extremo de un rizoma corto o largo, generalmente pinatisectas o pinaticompuestas
-                    C.  Soros alargados, extendiéndose a lo largo de las nervaduras. Hojas gráciles, muy divididas
-                                                                                        2. Anogramma.
-                    C'. Soros circulares. Hojas por lo común bipinatisectas
-                        D.  Pinas divididas en tres segmentos oblongo-lanceolados, enteros
-                                                                                        3. Trismeria
-                        D'. Pinas lanceoladas, crenadas, lobadas o pinatisectas, con numerosos segmentos
-                                                                                        4. Dryopteris
-            A'. Soros cubiertos por un indusio.
-                E.  Indusio formado por el borde revoluto de la hoja.
-                    F.  Soros muy alargados, continuos a lo largo del borde de las divisiones de la hoja.
-                        G.  Soros colocados entre el borde revoluto de la hoja y un indusio inferior frondas tri- o tetrapinatisectas
-                                                                                        5. Pteridium
-                        G'. Soros colocados bajo el borde revoluto de la hoja, sin indusio inferior hojas generalmente pinadas o bipinadas, con pinas grandes
-                                                                                        6. Pteris
-                    F'. Soros reniformes o circulares en el extremo o en el borde de los lóbulos de las pinas
-                        H.  Pínulas cuneiformes o flabeladas, palmatilobadas 
-                                                                                        7. Adiantum.
-                        H'. Pínulas oblongas
-                                                                                        8. Adiamiopsis
-                E'. Indusio membranoso, no formado por el borde revoluto de la hoja.
-                    J. Soros alargados, paralelos a la nervadura central
-                                                                                        9. Blechnum
-                    J'. Soros alargados o no, paralelos a las nervaduras secundarias o insertos sobre ellas.
-                        K.  Soros muy alargados
-                                                                                        10. Asplenium
-                        K'. Soros redondeados, semicirculares o arriñonados.
-                            L.  Las nervaduras no llegan hasta el borde de la hoja u algunas de ellas terminan en un soro
-                                                                                        11. Nephrolepis
-                            L'. Las nervaduras llegan hasta el borde de la hoja. Soros insertos lateralmente o sobre la nervadura
-                                M.  Soros muy próximos al margen, insertos lateralmente con respecto a la nervadura
-                                                                                            12. Athyrium 
-                                M'. Soros no próximos al margen, insertos sobre la nervadura
-                                    N.  Indusio peltado, inserto por su centro
-                                        O.  Nervaduras no anastomosadas. Frondas bi- o tri- pinatisectas
-                                                                                        13. Polystichum
-                                        O'. Nervaduras anastomosadas. Frondas simplemente pinadas
-                                                                                        14. Phanerophlebia
-                                    N'. Indusio reniforme o cordiforme, inserto por su borde o por una escotadura
-                                        P.  Indusio reniforme, inserto por la escotadura
-                                                                                        4. Dryopteris
-                                        P'. Indusio ovado, inserto por uno de sus bordes
-                                                                                        15. Cystopteris
-
-            1.  POLYPODIUM L.
-                Soros circulares, sin indusio, dispuestos en una o mas series sobre la cara inferior
-                de las hojas, Esporangios pedicelados. Plantas epífitas o terrestres, con tallos 
-                rastreros o rizomas alargados, ramosos, sobre los que se articulan espaciadamente 
-                hojas simples o pinatisectas.
-                Especie tipo: P. vulgare L.
-                    A.  Hojas enteras, dimorfas, glabras; las estériles ovadas u ovado-lanceoladas, atunuadas en la base en corto pecíolo, con nervaduras anastomosadas entre cuyas mallas queda una sola nervadura libre; hojas fértiles lanceoladas, más estrechas, con una serie de soros a cada lado
-                                                                                        1. P. vaccinifolium
-                    A'. Hojas pinatisectas, con segmentos opuestos en 9-11 pares y con un segmento impar terminal, todos ellos oblongo-elípticos, de unos 8 mm de longuitud por 1,5 mm de ancho, glabros en la cara superior y cubiertos de escamas redondeadas en la cara inferior. Soros circulares
-                                                                                        2. P. polypodioides
-
-            2.  ANOGRAMMA Link
-                Soros alargados, ocupando las nervaduras en casi toda su extensión,
-                o dejando sólo libres los extremos. Rizoma corto y débil, provisto de
-                pelos cerdosos. Hojas amontonadas, casi glabras, multicompuestas. 
-                Especie tipo: A. leptophylla (L.) Link.
-
-            3.  TRISMERIA Fée
-                Soros desprovistos de indusio, colocados a lo largo de las nervaduras,
-                salvo su extremo terminal. Esporangios casi sésiles, grandes. Esporos
-                globular-tetraédricos. Hierbas rizomatosas; hojas bipinadas, con cada.
-                pina dividida en 3 segmentos enteros. Pinas fértiles muy contraídas.
-                Venas libres, bifurcadas.
-                Especie tipo: T. argentea Fée.
-
-            4.  DRYOPTERIS Adans
-                Soros circulares, con o sin indusio, insertos sobre el dorso de las nervaduras 
-                y no muy próximos al margen. Cuando existe indusio, éste es cordiforme o reniforme,
-                inserto por un seno o escotadura. Hojas pinadas una o más veces, con pecíolo no 
-                articulado al rizoma.
-                Especie tipo: D. filix-mas (L.) Schott.
-                    A.  Pinas profundamente partidas, con segmentos oblongos, angostos. 
-                        B.  Hojas de 60-80 cm de longitud; parte inferior del pecíolo con un mechón de escamas rojizas; raquis con pelos escamosos lineales; pinas muy numerosas, de 10-18 cm de longitud por unos 2 cm de ancho, profundamente partidas. Ner vaduras de los segmentos libres entre sí y no bifurcadas
-                                                                                        1. D. submarginalis
-                        B'. Hojas de contorno lanceolado, de 30-50 cm de longitud; pecíolo con escamas rojizas esparcidas; raquis sin pelos escamosos; lámina con 20-25 pares de pinas lanceoladas, de 3-8 cm de longitud por 7-12 mm de ancho, profundamente pinatífidas; segmentos oblongos, de 5-7 mm de longitud por 2,8-3 mm de ancho, enteros, pubescentes. Indusio inconspicio
-                                                                                        2. D. argentina
-                    A'. Pinas crenadas o lobadas, con lóbulos redondeados anchos.
-                        C.  Hojas de 20-50 cm de longitud, glabras; pinas crenadas, de 3-8 cm de longitud por 1 cm de ancho; nervaduras ramificadas y anastomozadas
-                                                                                        3. D. riograndensis
-                        C'. Hojas lanceoladas de cerca de 1 m de longitud; pinas 20-30-yugas, lanceoladolineales, acuminadas, de 10-20 cm de longitud por 1-2 cm de ancho, uniformemente lobadas, con lóbulos redondeados, obtusos, de 3-8 mm de longitud por 4-6 mm de ancho, glabras o casi glabras
-                                                                                        4. D. gongylodes
-
-            5.  PTERIDIUM Gled.
-                Soros marginales, generalmente continuos. Esporangios situados entre
-                un indusio exterior (el borde modificado de la fronda), y un indusio
-                interno. Esporos pardos, finamente espinulosos, tetraédrico-globosos.
-                Hierbas perennes con rizoma, rastrero ramificado y cubierto de pelos.
-                Frondas alternas, grandes, tri- o tetrapinatisectas; segmentos oblongo-
-                lineales, revolutos en el margen.
-                Especie tipo: P. aquilinum (L.) Kuhn.
-
-            6.  PTERIS L.
-                Soros insertos en líneas marginales más o menos extensas, continuas,
-                cubiertos por el borde revoluto de la hoja que sirve de indusio. Hojas
-                divididas, frecuentemente con pinas enteras muy alargadas. 
-                Especie tipo: P. longifolia L.
-                    A.  Hojas simplemente pinadas. Rizoma horizontal rastrero.
-                        B.  Pinas numerosas, enteras, lineales, atenuadas en la parte superior y truncadas en la base, con soros ozupando todo su borde. Raquis con pelos escamosos lineales
-                                                                                        1. P. longifolia
-                        B'. Pinas inferiores bífidas o trífidas, raquis glabro
-                            C.  Raquis foliar alado entre las pinas; éstas lineales, agudas, enteras o, las inferiores, trilobadas, decurrentes en la base. Soros continuos a lo largo del borde
-                                                                                        2. P. multifida
-                            C'. Raquis foliar no alado entre las pinas. Hojas de 15-30 cm de longitud, ternadas o pinadas con 2-5 pares de pinas sésiles, las inferiores bífidas o trífidas, las superiores enteras y algo decurrentes sobre el raquis. Pinas estériles más anchas, espinuloso-aserradas. Soros continuos
-                                                                                        3. P. cretica
-                    A'. Hojas 2-3-pinadas. Rizoma erecto, corto. Hojas de 60-100 cm de longitud; pinas superiores pinadas; las inferiores divididas dos o tres veces
-                                                                                        4. P. tremula
-
-            7.  ADIANTUM L.
-                Soros localizados en el borde de los lóbulos de las pinas, que se repliega sobre ellos
-                formando un indusio redondeado o reniforme. Helechos delicados, de hojas muy divididas,
-                con pinas cuneiformes, palmatilobadas.
-                Especie tipo: A. capillus-veneris Li.
-
-            8.  ADIANTOPSIS Fée.
-                Soros orbiculares u oblongos, dispuestos en el extremo de las nervaduras en un receptáculo
-                puntiforme y cubiertos por el borde revoluto del lóbulo, más o menos modificado. Frondas
-                herbáceas 1-4-pinadas o palmadas, glabras o casi glabras. Nervaduras libres.
-                Especie tipo: A. capensis (Thumb.) Fée.
-
-            9.  BLECANUM L.
-                Soros lineales, paralelos a la nervadura central de la pina. Rizomas erectos. Frondas
-                fasciculadas, a menudo dimorfas. Nervios de las láminas estériles libres; los de las
-                láminas fértiles unidos en la parte inferior por una nervadura transversal que lleva los
-                soros.
-                Especie tipo: B. orientale L.
-
-            10. ASPLENIUM L.
-                Soros alargados, lineales o lanceolados, ubicados sobre las nervaduras secundarias
-                de cada pina, con indusio membranoso que se abre hacia la nervadura central. Hojas de
-                tipos diversos, pinadas o bipinadas.
-                Especie tipo: A. trichomanes L.
-                    A.  Hojas de contorno lanceolado, de 25-60 cm de longitud por 2,5-6,5 cm de ancho, pinadas; pinas 30-15-yugas, oblongo-falcadas, asimétricas, auriculadas en la base, aserrado-dentadas, de 1,5-35 cm de longitud por 0,5-1,5 cm de ancho Soros de hasta 4 mm de longitud
-                                                                                        1. A. argentinum:
-                    A'. Hojas de 15-20 cm de longitud por 1,5-2 cm de ancho, pinadas; pinas 30-40-yugas, rómbico-trapezoidales, de 0,5-1 cm de long., por 0,5-0,7 cm de ancho, profundamente aserradas, soros pocos
-                                                                                        2. A. ulbrichtii
-
-            11. NEPHROLEPIS Schott.
-                Soros redondeados o reniformes, situados en el extremo de las nerva
-                duras y cubiertos por un indusio reniforme, Hierbas rizomatosas, a 
-                veces con tubérculos. Hojas pinadas o bipinadas; pinas con nervaduras 
-                secundarias bifurcadas.
-                Especie tipo: N. exaltata (L.) Schott.
-
-            12. ATHYRIUM Roth.
-                Soros no muy alargados, rectos o algo reniformes, situados cerca del
-                margen de las pinas, al costado de las nervaduras secundarias. Indusio
-                de la misma forma que el soro. Hojas pinadas o bipinadas
-                Especie tipo: A. filiz-foeminea (L.) Roth.
-
-            13. POLYSTTICHUM Roth.
-                Soros grandes, circulares, dispuestos en la cara inferior de las hojas.
-                Indusio orbicular, peltado, a veces rudimentario e inconspicuo. Esporangios
-                largamente pedicelados. Hojas bipinadas, coriáceas o semicoriáceas, con pinas
-                asimétricas, dentadas. Venas libres o anastomosadas.
-                Especie tipo: P. aculeatum (L.) Roth.
-
-            14. PHANEROPHLEBIA Presl.
-                Soros dorsales (algunas veces terminales), dispuestos sobre las nervaduras.
-                Indusio peltado, persistente o caduco (a veces inconspicuo).
-                Anillo del esporangio formado por unas 16 células engrosadas. Esporos
-                bilaterales, tuberculados. Helechos terrestres, con rizoma ascendente
-                o erecto, escamoso. Hojas pinadas; pinas a menudo falcadas, acuminadas,
-                aserrado-dentadas; nervaduras anastomosadas.
-                Especie tipo: Ph. nobilis (S. et C.) Presl
-
-            15. CYSTOPTERIS Bernh.
-                Soros globosos, situados en el dorso de las nervaduras. Indusio ínfero,
-                suborbicular, coherente con la base del receptáculo en el lado inferior
-                Esporangios globosos, cortamente pedicelados. Anillo formado por 14-16
-                células engrosadas. Esporos reniformes. Helechos terrestres, rizomatosos.
-                Hojas 2-3-pinadas, glabras, con pinulas incisas, Nervaduras libres.
-                Especie tipo: C. fragilis (L.) Bernh.
-
-    8.  MARSILIACEAE
-        Esporangios de dos tipos: macrosporangios que dan macrosporos, en los cuales
-        se forman protalos femeninos; y microsporangios, que dan microsporos que forman
-        protalos masculinos. Tanto los macrosporangios, como los microsporangios,
-        se desarrollan en conceptáculos globulares denominados esporocarpos,
-        que nacen sobre el rizoma o sobre la parte inferior de la hoja.
-        Los protalos femeninos y masculinos se desarrollan dentro del esporo,
-        que se rompe para dejar salir a los anterozoides y permitir que lleguen
-        hasta los arquegonios. Hierbas perennes, de pantanos o charcas, con rizomas
-        horizontales muy delgados y hojas lineales o tetrafolioladas.
-        Dos géneros con unas 60 especies.
-            A.  Hojas lineales
-                                                                                        1. Pilularia
-            A'. Hojas con lámina 4-foliolada
-                                                                                        2. Marsilia
-
-            1.  PILULARIA L.
-                Plantas diminutas, con rizoma horizontal y hojas cilíndrico-subuladas,
-                de prefoliación circinada. Esporocarpos pedicelados, naciendo en los
-                nudos.
-                Especie tipo: P. globifera L.
-
-            2.  MARSILIA L.
-                Plantas acuáticas, con rizoma horizontal delgado y hojas largamente
-                pecioladas, terminadas en 4 folíolos flabelados, dispuestos en cruz. Esporocarpos
-                cortamente pedunculados, naciendo sobre el rizoma o sobre la parte inferior del
-                pecíolo foliar, con varias divisiones en su interior.
-                Especie tipo: M. quadrifolia L.
-
-    9.  SALVINIACEAE
-        Esporangios dimorfos: macrosporangios con pocos: macrosporos, en
-        los que se desarrollan los prctalos femeninos; y microsporangios menores,
-        con microsporos que originan el protalo masculino. Plantas
-        flotantes, pequeñas, con un eje más o menos ramificado, sobre el cual
-        van las hojas. Esporocarpos con paredes delgadas, naciendo en número
-        de 2 6 más sobre el pedicelo común, uniloculares, con una columna
-        central sobre la que nacen los esporangios. En unos esporocarpos se
-        forman algunos macrosporangios, en otros numerosos microsporangios.
-        Dos géneros con unas 15 especies.
-            A.  Hojas de más de 5 mm de long., dispuestas en rosetas o en series
-                                                                                        1. Salvinia
-            A'. Hojas diminutas, de 1 mm o menos de long., densamente imbricadas sobre un tallo muy ramificado
-                                                                                        2. Azolla
-
-            1.  SALVINIA Adans.
-                Plantas anuales o perennes; tallo horizontal, poco dividido, flotante,
-                con 3 hojas en cada nudo, de las cuales dos son flotantes y la tercera
-                es sumergida y dividida en numerosas lacinias filiformes que hacen el
-                papel de raíces. Hojas flotantes más o menos plegadas sobre su nervadura,
-                con papilas en la cara superior, elípticas o acorazonadas. Esporocarpos
-                amontonados, unos con macrosporangios y otros con microsporanglos.
-                Especie tipo: S. natans (L.) Hoffm.
-                    A.  Hojas flotantes profundamente hendidas en la base, algo plegadas, más o menos circulares, de 1,5-2 cm de long. por 2-3 cm de anch., con la cara o cubierta de papilas en cuyo extremo hay un manojo de pelos soldados entre sí en el ápice. Esporocarpos muy amontonados
-                                                                                        1. S. auriculata
-                    A'. Hojas flotantes con escotadura basal poco marcada o nula, redondeadas plegadas por la nervadura central, de 1-2 cm de long. por 1-2,4 cm de anch. cubiertas en la cara superior de papilas que llevan en su ápice un mechón de pelitos libres entre sí. Esporocarpos esparcidos
-                                                                                        2. S. rotundifolia
-
-        2.  AZOLLA Lam.
-            Plantas flotantes, libres, con estructura dorsiventral. Tallos ramificados
-            dicotómicamente, cubiertos de hojas diminutas densas, imbricadas.
-            Hojas bilobadas, con el lóbulo inferior mayor que el superior y
-            generalmente muy delgado y sin clorofila, adaptado como aparato de
-            flotación. Esporocarpos en las axilas de las hojas viejas: los mayores
-            conteniendo varios microsporos, los menores con un solo macrosporo.
-            Microsporos numerosos, agregados en masas cubiertas de gloquidios,
-            de las cuales salen los anterozoides. El protalo femenino se forma dentro
-            del macrosporo.
-            Especie tipo: A. filiculoides Lam.
-
-2   —   DIVISION SPERMATOPHYTA
     1.  Subdivisión Gymnospermae
         10. EPHEDRACEAE
             Flores monoicas o dioicas: las masculinas con perianto dímero y
