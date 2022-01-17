@@ -1,5 +1,4 @@
-imagenes/
-imagenes_cortadas/
+imagenes*/
 cambios_guardar/
 *.rar
 venv/
