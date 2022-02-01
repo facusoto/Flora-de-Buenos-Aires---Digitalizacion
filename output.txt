@@ -1025,7 +1025,7 @@ II  División SPERMATOPHYTA
                 en varios verticilos. Carpelos generalmente 6, uniloculares;
                 óvulos numerosos, anitropos. Frutos tantos como carpelos, libres o
                 coherentes, con pericarpio seco; semillas numerosas. Hierbas perennes,
-                acuaticas o palustres, generalmente con latex. Hojas por lo común con
+                acuaticas o palustres, generalmente con látex. Hojas por lo común con
                 lamina ancha. Cinco géneros con unas 8 especies.
 
                     1.  HYDROCLEIS L. C. Rich.
@@ -1411,22 +1411,22 @@ II  División SPERMATOPHYTA
                         A.  Una sola espiguilla en cada, articulación del raquis.
                             B.  Espiguillas unifloras, incrustadas en excavaciones de un raquis engrosado, formando una espiga cilíndrica que se desarticula a la madurez.
                                 C.  Espiguillas laterales con una sola gluma
-                                                                                        19. Lepturus
+                                                                                        19. LEPTURUS
                                 C'. Espiguillas laterales con 2 glumas
-                                                                                        21. Pholiurus
+                                                                                        21. PHOLIURUS
                             B'. Espiguillas 2-∞-floras, no Incrustadas en el raquis.
                                 D.  Espiguillas colocadas en el mismo plano que el raquis, las laterales con una sola gluma, la terminal con dos
-                                                                                        20. Lolium
+                                                                                        20. LOLIUM
                                 D'. Espiguillas transversales al raquis, todas con dos glumas.
                                     E.  Glumas lineales, uninervadas. Espiguillas 2-3-floras
-                                                                                        22. Secale
+                                                                                        22. SECALE
                                     E'. Glumas concavas o carenadas, con 3 o más nervaduras. Espiguillas con 3 o más flores.
                                         F.  Plantas perennes. Glumas plano-cóncavas
-                                                                                        17. Agropyron
+                                                                                        17. AGROPYRON
                                         F'. Plantas anuales, Glumas ventradas o carenadas
-                                                                                        23. Triticum
+                                                                                        23. TRITICUM
                         A'. Tres espiguillas unifloras en cada soporte del raquis; las marginales a veces reducidas
-                                                                                        18. Hordeum
+                                                                                        18. HORDEUM
 
                         17. AGROPYRON Gaertn.
                             Espiguillas plurifloras, sésiles, solitarias (raramente en pares), dispuestas transversalmente al eje del raquis.
@@ -1510,18 +1510,18 @@ II  División SPERMATOPHYTA
 
                     Tribu 4. AVENEAE
                         A.  Glumas caducas con las lemmas. Flor inferior hermafrodita, con lémma mútica. Flor superior masculina, con lemma aristada.
-                                                                                        28. Holcus
+                                                                                        28. HOLCUS
                         A'. Glumas persistentes.
                             B.  Lígula de las hojas formada por una línea transversal de pelos. Lemma profundamente bífida, con dos puntas agudas entre las cuales sale la arista.
-                                                                                        27. Danthonia
+                                                                                        27. DANTHONIA
                             B'. Lígula membranosa. Lemma entera o bidentada con arista dorsal o subapical.
                                 C.  Panojas contraídas, espiciformes. Arista subapical, recta.
-                                                                                        24. Koeleria
+                                                                                        24. KOELERIA
                                 C'. Panojas laxas. Arista dorsal retorcida.
                                     D.  Glumas menores que las lemmas. Plantas perennes.
-                                                                                        25. Amphibromus
+                                                                                        25. AMPHIBROMUS
                                     D'. Glumas mayores que las lemmas. Plantas anuales.
-                                                                                        26. Avena
+                                                                                        26. AVENA
 
                         24. KOELERIA Pers.
                             Espiguillas 2-6-floras, comprimidas. Raquilla articulada, por encima de las glumas y entre las flores.
@@ -1573,35 +1573,35 @@ II  División SPERMATOPHYTA
                     Tribu 5. AGROSTIDEAE
                         A.  Lemma aristada desde el ápice.
                             B.  Glumas más cortas que la lemma.
-                                                                                        33. Muhlenbergia
+                                                                                        33. MUHLENBERGIA
                             B'. Glumas más largas que la lemma.
                                 C.  Arista trífida.
-                                                                                        31. Aristida
+                                                                                        31. ARISTIDA
                                 C'. Arista simple.
                                     D.  Arista no retorcida en la base. Plantas introducidas.
-                                                                                        38. Oryzopsis
+                                                                                        38. ORYZOPSIS
                                     D'. Arista retorcida en la base. Plantas indígenas.
                                         E.  Pálea bicarenada. Callus agudo u obtuso.
-                                                                                        34. Piptochaetium
+                                                                                        34. PIPTOCHAETIUM
                                         E'. Pálea plana, con frecuencia inconspicua. Callus corto o largo y puntiagudo.
-                                                                                        37. Stipa
+                                                                                        37. STIPA
                         A'. Lemma con arista dorsal o subapical, o mitica.
                             F.  Raquilla prolongada más allá de la flor y provista de pelos lanosos largos. Lemma con arista dorsal.
-                                                                                        32. Calamagrostis
+                                                                                        32. CALAMAGROSTIS
                             F'. Raquilla raramente prolongada, glabra.
                                 G.  Glumas menores que las lemmas, que son múticas.
-                                                                                        36. Sporobolus
+                                                                                        36. SPOROBOLUS
                                 G'. Glumas mayores que las lemmas, que generalmente son aristadas.
                                     H.  Glumas caducas a la madurez de la espiguilla.
                                         J.  Glumas aristadas o acuminadas, caducas junto con una parte del pedicelo.
-                                                                                        35. Polypogon
+                                                                                        35. POLYPOGON
                                         J'. Glumas múticas, articuladas sobre el pedicelo.
-                                                                                        30 Alopecurus
+                                                                                        30 ALOPECURUS
                                     H'. Glumas persistentes sobre la panoja.
                                         K.  Glumas redondeadas en el ápice, donde llevan un largo mucrón.
-                                                                                        39. Phleum
+                                                                                        39. PHLEUM
                                         K'. Glumas atenuadas y agudas en el ápice.
-                                                                                        29. Agrostis
+                                                                                        29. AGROSTIS
 
                         29. AGROSTIS L.
                             Espiguillas unifloras; raquilla articulada por encima de las glumas, generalmente no prolongada.
@@ -1780,35 +1780,35 @@ II  División SPERMATOPHYTA
                     Tribu 6. CHLORIDEAE
                         A.  Espigas fasciculadas en el extremo de las cañas floríferas.
                             B.  Lemma terminada en 3 aristas largas.
-                                                                                        46. Trichloris
+                                                                                        46. TRICHLORIS
                             B'. Lemma mútica o con una sola arista.
                                 C.  Espiguillas con una sola flor hermafrodita (rara vez 2 en Chloris).
                                     D.  Lemmas maticas.
-                                                                                        42. Cynodon
+                                                                                        42. CYNODON
                                     D'. Lemmas aristadas.
-                                                                                        41. Chloris
+                                                                                        41. CHLORIS
                                 C'. Espiguillas con 3 o más flores.
                                     E.  Lemma aguda, mútica.
-                                                                                        44. Eleusine
+                                                                                        44. ELEUSINE
                                     E'. Lemma bilobada o bidentada, con un mucrón o arista entre los dos dientes.
-                                                                                        47. Leptochloa
+                                                                                        47. LEPTOCHLOA
                         A'. Espigas dispuestas a lo largo de un eje principal. (raramente solitarias).
                                 F.  Lemma triaristada.
-                                                                                        40. Bouteloua
+                                                                                        40. BOUTELOUA
                                 F'. Lemma mútica o con una sola arista.
                                     G.  Glumas caducas con la espiguilla.
-                                                                                        45. Spartina
+                                                                                        45. SPARTINA
                                     G'. Glumas persistentes sobre el raquis.
                                 H.  Espiguillas con dos o más flores hermafroditas. Lemma bilobada o bidentada, con un mucrón entre los dos dientes.
                                     J.  Espiguillas violáceas o rojizas, comprimidas lateralmente.
-                                                                                        47. Leptochloa
+                                                                                        47. LEPTOCHLOA
                                     J'. Espiguillas verdes, cilindricas.
-                                                                                        43. Diplachne
+                                                                                        43. DIPLACHNE
                                 H'. Espiguillas con una sola flor hermafrodita. Lemma, aguda.
                                     K.  Espigas divergentes, con raquis articulado.
-                                                                                        48. Schedonardus
+                                                                                        48. SCHEDONARDUS
                                     K'. Espigas aproximadas al eje principal, con raquis continuo.
-                                                                                        49. Willkommia
+                                                                                        49. WILLKOMMIA
 
                         40. BOUTELOUA Lag.
                             Espiguillas unifloras, con rudimentos de 1-2 flores más, sésiles en dos filas sobre uno de los lados del raquis.
@@ -1972,12 +1972,12 @@ II  División SPERMATOPHYTA
 
                     Tribu 8. ORYZEAE
                         A.  Flores hermafroditas. Espiguillas comprimidas lateralmente. Lemma mútica.
-                                                                                        52. Leersia
+                                                                                        52. LEERSIA
                         A'. Flores unisexuales, diclino-monoicas. Espiguillas cilíndricas.
                             B.  Lemma mútica, Flores masculinas y femeninas en inflorescencias separadas.
-                                                                                        53. Luziola
+                                                                                        53. LUZIOLA
                             B'. Lemma aristada. Flores masculinas y femeninas en la misma inflorescencia, las femeninas en la extremidad de las ramas
-                                                                                        54. Zizaniopsis
+                                                                                        54. ZIZANIOPSIS
 
                         52. LEERSIA Sw.
                             Espiguillas unifloras, muy comprimidas lateralmente, articuladas sobre el pedicelo. Glumas ausentes. Lemma cartácea, ancha,
@@ -2000,56 +2000,56 @@ II  División SPERMATOPHYTA
                     Tribu 9. PANICEAE
                         A.  Espiguillas con una o más cerdas en su base (cerdas involucrales), a veces muy gruesas y concrescentes.
                             B.  Cerdas involucrales 1-6, persistentes sobre el raquis después de la caída de las espiguillas.
-                                                                                        63. Setaria
+                                                                                        63. SETARIA
                             B'. Cerdas involucrales más de 6 caducas con la espiguilla.
                                 C.  Cerdas involuerales delgadas, a veces plumosas, no concrescentes. en la base.
-                                                                                        62. Pennisetum
+                                                                                        62. PENNISETUM
                                 C'. Cerdas involucrales rígidas y espinosas, concrescentes en la base.
-                                                                                        36. Cenchrus
+                                                                                        36. CENCHRUS
                         A'. Espiguillas sin cerdas involucrales
                             D.  Espiguillas incrustadas en las excavaciones de un raquis engrosado, sobre un solo lado del mismo. Espigas solitarias, terminales y axilares.
-                                                                                        64. Stenotaphrum
+                                                                                        64. STENOTAPHRUM
                             D'. Espiguillas dispuestas en panojas o cn espigas, con raquis delgado.
                                 E.  Espiguillas con una dilatación claviforme en su base.
-                                                                                        59. Eriochloa
+                                                                                        59. ERIOCHLOA
                                 E'. Espiguillas sin dilatación claviforme en la base.
                                     F.  Espiguillas dispuestas en panojas laxas o contraídas.
                                         G.  Espiguillas con dos glumas (en realidad gluma superior y una lemma estéril), densamente velludas.
-                                                                                        65. Leptocoryphium
+                                                                                        65. LEPTOCORYPHIUM
                                         G'. Espiguillas con tres glumas (ghma inferior, gluma superior y una lemma estéril)
                                             H.  Lemma de la flor hermafrodita con dos excavaciones en su base.
-                                                                                        66. Ichnanthus
+                                                                                        66. ICHNANTHUS
                                             H'. Lemma de la flor hermafrodita sin excavaciones en la base.
                                                 J.  Inflorescencia en panoja espiciforme.
-                                                                                        67. Hymenachne
+                                                                                        67. HYMENACHNE
                                                 J'. Inflorestencia en panoja laxa o densa, pero no espiciforme.
-                                                                                        60. Panicum
+                                                                                        60. PANICUM
                                     F'. Espiguillas dispuestas en espigas o racimos unilaterales regulares; éstos digitados en la extremidad de las cañas o apanojados a lo largo de las mismas.
                                         K.  Glumas con pelos ganchudos (gloquidios).
-                                                                                        68. Pseudechinolaena
+                                                                                        68. PSEUDECHINOLAENA
                                         K'. Glumas glabras o pubescentes, pero sin gloquidios.
                                             L.  Espiguillas con dos glumas.
                                                 M.  Dorso de la lemma fértil orientado hacia el raquis.
-                                                                                        61. Paspalum
+                                                                                        61. PASPALUM
                                                 M'. Dorso de la lemma fértil orientado hacia afuera.
-                                                                                        55. Axonopus
+                                                                                        55. AXONOPUS
                                             L'. Espiguillas con tres glumas (gluma inferior y superior y lemma estéril).
                                                 N.  Todas las glumas desprovistas de aristas.
                                                     O.  Gluma inferior orientada hacia el raquis.
-                                                                                        69. Brachiaria
+                                                                                        69. BRACHIARIA
                                                     O'. Gluma inferior orientada hacia afuera del raquis.
                                                         P.  Lemma de la flor superior coriácea, con margen estrecho enrollado que apenas enbre a la pálea.
-                                                                                        70. Paspalidium
+                                                                                        70. PASPALIDIUM
                                                         P'. Lemma delgada, cartilaginosa, con bordes planos y delgados que cubren mucho a la pálea.
-                                                                                        57. Digitaria
+                                                                                        57. DIGITARIA
                                                 N'. Todas o algunas de las glumas aristadas.
                                                     R.  Hojas lineales, largas y estrechas.
-                                                                                        58. Echinochloa
+                                                                                        58. ECHINOCHLOA
                                                     R'. Hojas lanceoladas, cortas y anchas.
                                                         S.  Gluma inferior orientada hacia el raquis.
-                                                                                        71. Oplismenopsis
+                                                                                        71. OPLISMENOPSIS
                                                         S'. Gluma inferior orientada hacia afuera.
-                                                                                        72. Oplismenus
+                                                                                        72. OPLISMENUS
 
                         55. AXONOPUS Beauv.
                             Espiguillas unifloras, deprimidas, biconvexas, oblongas, subsésiles, dispuestas en dos filas a lo largo de uno de los lados de un raquis
@@ -2318,29 +2318,29 @@ II  División SPERMATOPHYTA
                     Tribu 10. ANDROPOGONEAE
                         A. Espiguillas incrustadas en las excavaciones de un raquis engrosado.
                             B. Pedicelo de la flor estéril soldado con el raquis, que es tenaz. Ambas flores casi iguales.
-                                                                                        75. Hemarthria
+                                                                                        75. HEMARTHRIA
                             B'. Pedicelo de la flor estéril libre. El raquis se desarticula en fragmentos. Flor estéril rudimentaria.
-                                                                                        76. Rottboellia
+                                                                                        76. ROTTBOELLIA
                         A'. Espiguillas dispuestas en racimos o en panojas, con raquis delgado.
                             C. Lemma mútica o con una corta arista recta
                                 D. Espiguillas largamente velludas.
-                                                                                        78. Imperata
+                                                                                        78. IMPERATA
                                 D'. Espiguillas glabras.
-                                                                                        79. Ischaemum
+                                                                                        79. ISCHAEMUM
                             C. Lemma con una larga arista más o menos retorcida
                                 E. Espiguillas dispuestas en racimos cortos, que se agrupan en panojas laxas.
                                     F. Espiguillas fructíferas acompañadas por una espiguilla masculina o estéril.
-                                                                                        77. Sorghum
+                                                                                        77. SORGHUM
                                     F'. Espiguillas fructíferas acompañadas de un pedicelo desprovisto de flor.
                                                                                         80. Sorghastrum
                                 E'. Espiguillas agrupadas formando racimos espiciformes solitarios o agrupados en panojas.
                                     G. Aristas plumosas.
-                                                                                        81. Trachypogon
+                                                                                        81. TRACHYPOGON
                                     G'. Aristas no plumosas.
                                         H. La arista nace en el ápice de la lemma fértil.
-                                                                                        73. Bothriochloa
+                                                                                        73. BOTHRIOCHLOA
                                         H'. La arista nace entre dos dientes o segmentos en que termina la lemma fértil.
-                                                                                        74. Andropogon
+                                                                                        74. ANDROPOGON
 
                         73. BOTMRIOCHLOA O. Kuntze
                             Espiguillas dispuestas por pares en los nudos de un raquis articulado: una sésil, hermafrodita, la otra pedicelada, masculina, neutra o reducida
@@ -2432,27 +2432,27 @@ II  División SPERMATOPHYTA
                 espigas, etc. Familia con cerca de 3000 especies repartidas en todo el globo. La mayor parte de ellas son de suelos húmedos e inundados y carecen de aplicación.
                 Cyperus esculentus posee tubérculos azucarados, las chufas, El junco, Scirpus californicus, se utiliza para fabricar esteras, cortinas, etc. Otras especies son ornamentales
                 A.  Flores fructíferas unisexuales.
-                                                                                        1. Carex
+                                                                                        1. CAREX
                 A'. Flores fructíferas hermafroditas.
                     B.  Glumas dísticas.
                         C.  Plantas áfilas. Estambres acrescentes después de la antesis.
-                                                                                        2. Androtrichum
+                                                                                        2. ANDROTRICHUM
                         C'. Plantas generalmente con hojas. Estambres no acrescentes.
-                                                                                        3. Cyperus
+                                                                                        3. CYPERUS
                     B'. Glumas espiraladas.
                         D.  Estilo no engrosado en su base.
-                                                                                        4. Scirpus
+                                                                                        4. SCIRPUS
                         D'. Estilo engrosado en la base.
                             E.  La parte basal dilatada del estilo se desprende con éste a la madurez del fruto.
-                                                                                        5. Fimbristylis
+                                                                                        5. FIMBRISTYLIS
                             E'. La parte dilatada del estilo persiste sobre el fruto formando un estilopodio.
                                 F.  Plantas áfilas. Espiguilla única, terminal, sin brácteas.
-                                                                                        6. Heleocharis
+                                                                                        6. HELEOCHARIS
                                 F'. Plantas generalmente con hojas. Espiguillas por lo común numerosas, con brácteas,
                                     G.  Espiguillas paucifloras (generalmente 1-2-floras), con 3 o más glumas estériles en la base.
-                                                                                        7. Rhynchospora
+                                                                                        7. RHYNCHOSPORA
                                     G'. Espiguillas plurifloras, con 1-2 glumas basales ostériles o sin ellas.
-                                                                                        8. Bulbostylis
+                                                                                        8. BULBOSTYLIS
 
                 1.  CAREX L.
                     Flores unisexuales, monoicas o dioicas, Estambres 3. Glumas espiraladas. Flores femeninas encerradas en un profilo utriculiforme (utrículo), con estilo engrosado o
@@ -2680,14 +2680,14 @@ II  División SPERMATOPHYTA
                 más pequeñas conocidas, considerándose que derivan de las Aráceas.
                     A.  Frondas con raíces. Bolsas prolíferas 2.
                         B.  Raíces varias, fasciculadas.
-                                                                                        1. Spirodella
+                                                                                        1. SPIRODELLA
                         B'. Raíz solitaria.
-                                                                                        2. Lemna
+                                                                                        2. LEMNA
                     A'. Frondas sin raices. Bolsa prolífera una sola.
                         C.  Frondas delgadas, oblongas.
-                                                                                        3. Wolffiella
+                                                                                        3. WOLFFIELLA
                         C'. Frondas gruesas, globulares.
-                                                                                        4. Wolffia
+                                                                                        4. WOLFFIA
 
                     1.  SPIRODELLA Schl.
                         Bolsas prolíferas 2, triangulares, a ambos lados de la porción basal de la fronda. Raíces más de una, fasciculadas. Espádice con una flor femenina y dos masculinas;
@@ -3261,14 +3261,14 @@ II  División SPERMATOPHYTA
                     1.  FICUS L.
                         Flores generalmente monoicas, incluidas en un receptáculo carnoso utriculiforme (sicono), cuya abertura está cerrada por varias series de brácteas. Flores masculinas
                         con perigonio 2-6-partido y 1-2 estambres (rara vez más), Flores femeninas con perigonio poco dividido o desnudas ovario recto u oblicuo, con estilo exéntrico o
-                        lateral, filiforme, con estigma peltado ó bífido. Aquenios pegados al receptáculo que suele ser acrescente y suculento. Arboles o arbustos con latex. Hojas alternas,
+                        lateral, filiforme, con estigma peltado ó bífido. Aquenios pegados al receptáculo que suele ser acrescente y suculento. Arboles o arbustos con látex. Hojas alternas,
                         simples.
                         Especie tipo: Ficus carica L,
 
                     2.  DORSTENIA L.
                         Flores monoicas, amontonadas sobre un receptáculo plano andrégino. Perianto unido al receptáculo de la inflorescencia formando alvéolos, los masculinos poco hundidos,
                         con 2 estambres; los femeninos más profundos, con la abertura casi cerrada; ovario incluso, con estilo lateral, exerto por la abertura del alvéolo, bífido; óvulo
-                        solitario, péndulo. Frutos pequeños, con epicarpo carnoso y endocarpo duro. Semillas sin albumen. Hierbas perennes o arbustitos, con latex. Hojas pecioladas, enteras
+                        solitario, péndulo. Frutos pequeños, con epicarpo carnoso y endocarpo duro. Semillas sin albumen. Hierbas perennes o arbustitos, con látex. Hojas pecioladas, enteras
                         o lobadas. Receptáculos pedunculados, de diversas formas.
                         Especie tipo: Dorstenta contrajerva L.
 
@@ -5355,7 +5355,7 @@ II  División SPERMATOPHYTA
                 con disco interestaminal; estambres pocos o muchos, libres o unidos en formas diversas ; anteras bilcculares, de dehiscencia longitudinal o por poros
                 apicales; ovario muy atrofiado o nulo. Flores femeninas con disco hipégino anular; ovario 3-locular; estilos 3, libres o unidos, sencillos o más o menos
                 divididos; óvulos 1-2 en cada, lóculo del ovario, descendentes, anátropos, con rafe ventral. Fruto normalmente cápsula, a veces tricoco, baciforme o
-                drupéceo; semillas generalmente albuminadas. Plantas de todo porte, generalmente con latex; hojas alternas u opuestas, enteras o partidas, por lo común
+                drupéceo; semillas generalmente albuminadas. Plantas de todo porte, generalmente con látex; hojas alternas u opuestas, enteras o partidas, por lo común
                 con estípulas y glándulas en el pecíolo o en la base del limbo. Inflorescencias frecuentemente compuestas, la primaria racimosa, centripeta, y la secundaria
                 cimosa. Flores con brácteas y bracteolas. Mas de 220 géneros, con unas 4000 especies distribuidas por todo el globo. Muchas de ellas son titiles, como la
                 mandioca: (Manihot esculenta), el ricino (Ricinus communis), etc.
@@ -5399,7 +5399,7 @@ II  División SPERMATOPHYTA
                         glándulas enteras o provistas de dos cuernitos. Flores masculinas numerosas en cada ciatio, desnudas, formadas por un solo estambre erecto;
                         antera globosa, de dehiscencia longitudinal. Flor femenina solitaria en el centro del ciatio, exserta a su madurez, pedunculada; perianto
                         nulo o formado por tres diminutos segmentos; ovario trilocular; estilos 3, indivisos o bífidos; óvulos solitarios en cada lóculo.
-                        Fruto cápsula tricoca. Hierbas, arbustos o plantas cactiformes, con latex. Hojas alternas o, las superiores, opuestas, enteras o dentadas.
+                        Fruto cápsula tricoca. Hierbas, arbustos o plantas cactiformes, con látex. Hojas alternas o, las superiores, opuestas, enteras o dentadas.
                         Ciatios en cimas terminales.
                         Especie tipo: H. antiquorum L.
                             A.  Ciatios con glándulas involucrales más o menos semilunares, terminadas en dos cuernitos.
@@ -5451,7 +5451,7 @@ II  División SPERMATOPHYTA
                     5. SEBASTIANIA Spreng.
                         Flores diclinas, monoicas, apétalas. Disco nulo. Flores masculinas con cáliz muy reducido, membrano. 0, 3-5-lobado; estambres 3. Flores femeninas
                         con cáliz 5-partido o 3-lobado; ovario trilocular, triovulado; estilos enteros. Cápsula abriéndose en 3 cocos bivalvos. Arbustos o Arboles con hojas
-                        alternas, enteras o aserradas. Flores pequeñas, en racimos. Plantas con latex.
+                        alternas, enteras o aserradas. Flores pequeñas, en racimos. Plantas con látex.
                         Especie tipo: S. braszliensis Spreng.
                             A.  Brácteas de la inflorescencia con dos glándulas en su base, chatas y rugosas. Arbol de 8-10 m de alt. Corteza blanquecina. Hojas cortamente pecioladas, elípticas, finamente aserradas, glabras, de 2-10 cm de long. Cápsulas de más de 1 cm de diám.
                                                                                         1. S. brasiliensis
@@ -6016,7 +6016,7 @@ II  División SPERMATOPHYTA
                 cuculados, valvados. Alternando con los pétalos hay frecuentemente escamas petaloideas cuculadas, apendiculadas en el dorso. Estambres indefinidos, con filamentos filiformes,
                 a menudo reunidos en fasciculos opuestos a los pétalos; anteras oblongas o dídimas, de dehiscencia longitudinal; estaminodios presentes o ausentes. Ovario ínfero, unilocular
                 (raramente 2-3-locular); estilo filiforme o subulado, entero o dividido; estigma por lo común puntiforme; ovulos solitarios o numerosos sobre placentas parietales, péndulos,
-                anátropos. Fruto cápsula, con costillas rectas o retorcidas en espiral, dehiscente por 3-10 valvas. Hierbas erectas o volubles, ramificadas dicotómicamente, hispidas,
+                anátropos. Fruto cápsula, con costillas rectas o retorcidas en espiral, dehiscente por 3-10 valvas. Hierbas erectas o volubles, ramificadas dicotómicamente, híspidas,
                 frecuentemente con pelos urticantes. Hojas opuestas o alternas, sin estípulas. Flores solitarias, racimosas o cimosas, blancas, amarillas, anaranjadas o rojas.
                 Trece géneros con unas 200 especies, en su mayoria americanas.
 
@@ -6420,7 +6420,7 @@ II  División SPERMATOPHYTA
                     3.  DAUCUS L.
                         Dientes del cáliz débiles o atrofiados. Pétalos a veces desiguales, acuminados y enroscados hacia adentro o bilobados. Disco ligeramente cónico,
                         entero o crenado. Fruto ovado u oblongo, redondeado o ligeramente comprimido dorsalmente, con costillas (a veces aliformes) sobre las que nacen
-                        espinas fuertes. Hierbas anuales o bienales, generalmente hispidas. Flores blancas, digspuestas en umbelas compuestas, con o sin involucro e involucelos.
+                        espinas fuertes. Hierbas anuales o bienales, generalmente híspidas. Flores blancas, digspuestas en umbelas compuestas, con o sin involucro e involucelos.
                         Especie tipo: D. carota L.
 
                     4.  LILAEOPSIS Greene
@@ -6742,7 +6742,7 @@ II  División SPERMATOPHYTA
                 La parte central e inferior del ginostegio esta ocupada por el gineceo, que consta de un ovario bilocular, pluriovu- lado, terminado en dos cortos estilos que llevan un
                 estigma único discoideo o apendiculado. Fruto formado por dos foliculos (con frecuencia uno de ellos aborta), llenos de semillas comprimidas, y, a menudo, coronadas por
                 un mechón de pelos sedosos; albumen cartilagineo. Hierbas perennes, sufrutices o arbustos, a veces enredaderas, con hojas opuestas, sin estípulas. Inflorescencia cimosa.
-                Plantas con latex. Cerca de 230 géneros, con más de 1700 especies distribuidas principalmente por las regiones cálidas de todo el mundo.
+                Plantas con látex. Cerca de 230 géneros, con más de 1700 especies distribuidas principalmente por las regiones cálidas de todo el mundo.
                     A.  Plantas erectas.
                         B.  Corona simple.
                             C.  Caudículas con un diente en su parte superior.
@@ -8676,7 +8676,7 @@ II  División SPERMATOPHYTA
                     Tribu 13. CICHORIEAE
                         A.  Plantas con hojas espinosas, rigidas. Aspecto de cardos.
                                                                                         77. SCOLYMUS
-                        A'. Plantas con hojas inermes o hispidas, no espinosas.
+                        A'. Plantas con hojas inermes o híspidas, no espinosas.
                             B.  Papus ausente o formado por pajitas cortas.
                                 C.  Flores azules.
                                                                                         78. CICHORIUM
@@ -8819,7 +8819,7 @@ II  División SPERMATOPHYTA
                                             O'. Hojas lanceoladas u ovado-lanceoladas, atenuadas en la base.
                                                 P.  Corolas de 2,5 mm de long. Aquenios de 1,3-1,5 mm de long. Involucro de 3-3,5 mm de altura, por 4 mm de diám. Brácteas lanceoladas, acuminadas en el ápice, densamente pubescentes, 1-2-seriadas. Hojas pecioladas, ias inferiores opuestas, las superiores alternas, ovado-lanceoladas o lanceoladas, aserradas, trinervadas, pubescentes, de 3,5-9 cm de long., por 0,5-2,5 cm de anch. Capítulos densamente corimbosos.
                                                                                         14. E. candolleanum
-                                                P'. Corolas de 3,5 mm de long. Aquenios de 3-3,5 mm de long. Involucro acampanado de 5 mm de alt. por 4 mm de diám.; brácteas 2-seriadas, lineal-lanceoladas, agudas, hispidas. Flores 50-60, purpúreas. Hojas inferiores opuestas, las superiores alternas, pecioladas, lanceoladas, aserradas, trinervadas, cortamente pubescentes o glabras, de 5-8 cm de long., por 1,4-2 cm de anch.; pecíolo de 1-2 cm. Capítulos densamente corimbosos.
+                                                P'. Corolas de 3,5 mm de long. Aquenios de 3-3,5 mm de long. Involucro acampanado de 5 mm de alt. por 4 mm de diám.; brácteas 2-seriadas, lineal-lanceoladas, agudas, híspidas. Flores 50-60, purpúreas. Hojas inferiores opuestas, las superiores alternas, pecioladas, lanceoladas, aserradas, trinervadas, cortamente pubescentes o glabras, de 5-8 cm de long., por 1,4-2 cm de anch.; pecíolo de 1-2 cm. Capítulos densamente corimbosos.
                                                                                         15. E. cabrerae
                                         N'. Capítulos grandes, con 40-120 flores. Involucro hemisférico, de 10-13 mm de alt., por 15-20 mm de diám. Brácteas 1-2-seriadas, oblanceoladas, agudas, pubescentes. Hojas opuestas, subsésiles, ovadas o lanceoladas, agudas, crenado-aserradas, estrigiloso-pilosas, de 5-8 cm de long., por 0,8-2 cm de anch. Capítulos pocos, en corimbos laxos.
                                                                                         16. E. macrocephalum
@@ -8882,7 +8882,7 @@ II  División SPERMATOPHYTA
                                         C'. Flores marginales blancas o rosadas. Plantas laxamente hirsutas. Hojas inferiores espatuladas, obtusas, enteras, con pelos largos esparcidos, de 3-4 cm de long.; hojas superiores oblanceoladas. Capítulos solitarios en el ápice de los tallos. Involucro hemisférico, de 1 cm de alt. por 1,5 cm de diám. Brácteas 4-5-seriadas, lineal-oblongas, obtusas, ciliadas en el margen, glabras. Aquenios lanceolados, pubescentes. Papus rojizo.
                                                                                         3. A. decumbens
                                     B'. Involucro acampanado. Lígulas de 3-4 mm de largo, apenas sobresaliendo del involucro.
-                                        D.  Tallos erectos o ascendentes, lanosos en la parte superior y glabrescentes en la inferior. Hojas radicales espatuladas, obtusas, enteras, cortamente hispidas, de 3-7 cm de long.; hojas caulinares oblanceolado-espatuladas, agudas, enteras, de 1,5-2,5 cm de long. Capítulos solitarios. Involucro acampanado, de 12 mm de alt., por 8 mm de diám.; brácteas lineales agudas, rojizas, lanuginosas, de. 1-1,5 mm de anch. Flores marginales blancas. Aquenios comprimidos, lanceolados, con pelos largos flojos y pelitos glandulares cortos. Papus amarillento.
+                                        D.  Tallos erectos o ascendentes, lanosos en la parte superior y glabrescentes en la inferior. Hojas radicales espatuladas, obtusas, enteras, cortamente híspidas, de 3-7 cm de long.; hojas caulinares oblanceolado-espatuladas, agudas, enteras, de 1,5-2,5 cm de long. Capítulos solitarios. Involucro acampanado, de 12 mm de alt., por 8 mm de diám.; brácteas lineales agudas, rojizas, lanuginosas, de. 1-1,5 mm de anch. Flores marginales blancas. Aquenios comprimidos, lanceolados, con pelos largos flojos y pelitos glandulares cortos. Papus amarillento.
                                                                                         4. A. argentinensis
                                         D'. Tallos decumbentes o rara vez ascendentes.
                                             E.  Plantas verde-grisáceas, laxamente velludas. Hojas radicales espatuladas, enteras; las caulinares lanceoladas, agudas, enteras y crespas, en el margen, de 2-4 cm de long. Capítulos solitarios en el extremo de las ramitas. Involucro acampanado de 10 mm de alt. por 8 mm de diám.; brácteas en 3-4 series, lineales, lanuginosas, de 1-1,5 mm de anchura, Flores marginaies blancas o violáceas. Aquenios lanceolados, densamente pubescentes. Papus purpúreo.
@@ -8903,7 +8903,7 @@ II  División SPERMATOPHYTA
                                     B'. Plantas velludas.
                                         C.  Raiz tuberiforme. Tallo erecto, simple, de 20-50 cm de alt. Hojas inferiores obovadas u oblanceoladas, obtusas; atenuadas en la base, crenadas, de 3-5 cm de long. Hojas superiores pocas, lineales, enteras. Capítulos pocos, en corimbos laxos. Involucro hemisférico, de 6-7 mm de alt. por 6-8 mm de diám.; brácteas lineales, acuminadas, hirsutas. Flores blancas o violáceas, las marginales pluriseriadas, con corola filiforme cortisimamente ligulada en el ápice. Aquenios pubescentes.
                                                                                         2. C. monorchis
-                                        C'. Raíz no engrosada. Tallos erectos, sencillos, de 30-80 cm de allt, Hojas basales oblanceoladas, obtusas, atenuadas en la base, crenadas, de 5-13 cm de long. Hojas superiores lineales, agudas, enteras, Capítulos pocos, densamente corimbosos. Involucro hemisférico, de 5-7 mm de alt., por 10-12 mm de diám.; brácteas lineales, acuminadas, hispidas. Flores muy numerosas, blancas; las marginales pluriseriadas con corola filiforme tridentada en el ápice. Aquenios casi glabros.
+                                        C'. Raíz no engrosada. Tallos erectos, sencillos, de 30-80 cm de allt, Hojas basales oblanceoladas, obtusas, atenuadas en la base, crenadas, de 5-13 cm de long. Hojas superiores lineales, agudas, enteras, Capítulos pocos, densamente corimbosos. Involucro hemisférico, de 5-7 mm de alt., por 10-12 mm de diám.; brácteas lineales, acuminadas, híspidas. Flores muy numerosas, blancas; las marginales pluriseriadas con corola filiforme tridentada en el ápice. Aquenios casi glabros.
                                                                                         3. C. chilensis
                                 A'. Hierbas anuales, con tallos densamente hojosos.
                                     D.  Plantas completamente glabras. Tallos sencillos, hojosos, de 10-30 cm de alt. Hojas lineales, glabras, obtusas, semienvainadoras en la base, enteras, de 1,5-10 cm de long. Capítulos laxamente corimbosos. Involucro de 4 mm de alt.; brácteas lineales, acuminadas. Flores blancas, las marginales pluriseriadas, filiformes, semiliguladas en el ápice. Aquenios pubescentes, Papus blanco.
@@ -8919,7 +8919,7 @@ II  División SPERMATOPHYTA
                                             G'. Involucro glabro o con algunos pelos dispersos.
                                                 H.  Hojas estrechamente lineales, de 1-1,5 mm de anchura, las inferiores generalmente pinatisectas, glabras a excepción de la nervadura y los bordes, donde Hevan pelos rigidos. Capítulos muy numerosos, en panojas densas largas y angostas. Involucro acampanado, de 3,5-4,5 mm de altura; brácteas lineales, semiobtusas, glabras. Flores numerosas, las marginales pluriseriadas, con corola filiforme bidentada en el ápice. Flores del disco pocas. Aquenios laxamente pubescentes. Papus blanco o amarillento.
                                                                                         7. C. blakei
-                                                H'. Hojas lanceoladas, de más de 2 mm de anchura, laxamente hispidas, las inferiores aserradas o Jobuladas, las superiores enteras. Capítulos pequeños, numerosisimos, dispuestos en amplia panoja. Involucro acampanado, de 3-4 mm de alt.; brácteas pocas, lineales, agudas, glabras o con algunos pelitos esparcidos. Flores marginales filiformes, cortisimamente liguladas en el ápice. Aquenios ligeramente velludos. Papus blanco o amarillento.
+                                                H'. Hojas lanceoladas, de más de 2 mm de anchura, laxamente híspidas, las inferiores aserradas o Jobuladas, las superiores enteras. Capítulos pequeños, numerosisimos, dispuestos en amplia panoja. Involucro acampanado, de 3-4 mm de alt.; brácteas pocas, lineales, agudas, glabras o con algunos pelitos esparcidos. Flores marginales filiformes, cortisimamente liguladas en el ápice. Aquenios ligeramente velludos. Papus blanco o amarillento.
                                                                                         8. C. sordescens
 
                         11. VITTADINIA A. Rich.
@@ -9364,7 +9364,7 @@ II  División SPERMATOPHYTA
                                                                                         2. H. haenkeana
 
                         47. HELENIUM L.
-                            Involucro hemisférico, formado por 1-2 series de braécteas poco apretadas, las exteriores herbáceas, las interiores frecuentemente membranáceas. Receptáculo convexo o
+                            Involucro hemisférico, formado por 1-2 series de brácteas poco apretadas, las exteriores herbáceas, las interiores frecuentemente membranáceas. Receptáculo convexo o
                             semigloboso, desnudo. Flores isomorfas o dimorfas: las marginales (cuando existen) femeninas o neutras, liguladas; las del disco tubulosas, hermafroditas, pentadentadas
                             en el limbo. Anteras cortamente auriculadas en la base o semisagitadas. Ramas del estilo truncadas en el ápice, con una coronita de pelos. Aquenios turbinados,
                             sericeo-velludos o glabrescentes. Papus formado por 5-8 pajitas aristadas o múticas. Hierbas o sufrutices; hojas alternas; capítulos generalmente solitarios.
@@ -9384,7 +9384,7 @@ II  División SPERMATOPHYTA
                                                                                         2. G. aristata
 
                         49. TAGETES L.
-                            Involucro cilíndrico o acampanado; braécteas en una sola serie, soldadas por sus bordes hasta cerca del ápice. Receptáculo plano, desnudo o ciliado. Flores dimorfas:
+                            Involucro cilíndrico o acampanado; brácteas en una sola serie, soldadas por sus bordes hasta cerca del ápice. Receptáculo plano, desnudo o ciliado. Flores dimorfas:
                             las marginales femeninas, liguladas; las del disco hermafroditas, tubulosas, pentadentadas en el limbo (a veces todas las flores tubulosas). Anteras redondeadas en la base.
                             Ramas del estilo truncadas en el ápice. Aquenios lineales o fusiformes. Papus formado por pajitas desiguales, unas escamiformes, cortas, otras aristiformes, largas.
                             Hierbas o sufrutices con bolsas oleíferas epidérmicas en las brácteas involucrales y en las hojas. Hojas opuestas, generalmente pinatisectas.
@@ -9553,1237 +9553,313 @@ II  División SPERMATOPHYTA
 
                     Tribu 9. CALENDULEAE
                         61. CALENDULA L.
-                            Involucro hemisférico; brácteas 1-2-seriadas, algo escariosas en el margen. Receptáculo plano, desnudo. Flores dimorfas: las marginales femeninas, liguladas; las del disco
-                            masculinas, tubulosas, pentadentadas en el limbo. Anteras sagitadas en la base. Estilo de las flores masculinas indiviso. Aquenios curvados, con puntas en el dorso, sin papus.
-                            Hierbas anuales o perennes; hojas alternas. Capítulos solitarios. Flores amarillas.
+                            Involucro hemisférico; brácteas 1-2-seriadas, algo escariosas en el margen. Receptáculo plano, desnudo. Flores dimorfas: las marginales femeninas, liguladas;
+                            las del disco masculinas, tubulosas, pentadentadas en el limbo. Anteras sagitadas en la base. Estilo de las flores masculinas indiviso. Aquenios curvados, con
+                            puntas en el dorso, sin papus. Hierbas anuales o perennes; hojas alternas. Capítulos solitarios. Flores amarillas.
                             Especie tipo: C. officinalis L.
 
                     Tribu 10. ARCTOTIDEAE
                         62. CRYPTOSTEMMA R. Br.
-                            Involucro hemisférico; brácteas pluriseriadas, imbriecadas, escariosas. Receptáculo plano, alveolado. Flores dimorfas: las marginales femeninas o neutras, liguladas; las del
-                            disco hermafroditas, tubulosas, con limbo ensanchado pentasecto. Anteras auriculadas o cortamente sagitadas en la base. Estilo dilatado en la parte superior, corta y
-                            uniformemente papiloso, cortamente bífido en el ápice. Aquenios ovoideos, densamente lanosos. Papus formado por 1-2 series de pajitas cortas. Hierbas semiacaules o caulescentes,
-                            tomentosas. Hojas radicales o alternas. Capitulos grandes, largamente pedunculados.
+                            Involucro hemisférico; brácteas pluriseriadas, imbriecadas, escariosas. Receptáculo plano, alveolado. Flores dimorfas: las marginales femeninas o neutras,
+                            liguladas; las del disco hermafroditas, tubulosas, con limbo ensanchado pentasecto. Anteras auriculadas o cortamente sagitadas en la base. Estilo dilatado en
+                            la parte superior, corta y uniformemente papiloso, cortamente bífido en el ápice. Aquenios ovoideos, densamente lanosos. Papus formado por 1-2 series de pajitas
+                            cortas. Hierbas semiacaules o caulescentes, tomentosas. Hojas radicales o alternas. Capitulos grandes, largamente pedunculados.
                             Especie tipo: C. calendulaceum (W.) R. Br.
 
-Tribu 11. CYNAREAE
-
-63. Arctium L.
-
-Involucro globoso; brácteas multiseriadas, lineales, subuladas y gan-
-chudas en la parte superior. Receptáculo plano, cubierto de cerdas.
-Flores isomorfas, todas hermafroditas, con corola tubulosa pentalobada
-en el limbo. Anteras sagitadas en la base. Estilo bífido, con un anillo de
-pelitos debajo del punto de bifurcación y ramitas lineales, agudas. Aque-
-nios oblongos, algo comprimidos, truncados en la parte superior, cos-
-tados. Papus formado por numerosas cerdas anchas. Hierbas altas,
-ramosas. Hojas alternas, grandes, indivisas. Capítulos casi sésiles, ci-
-mosos. Flores purpúreas. Especie tipo: A. lappa L.
-
-Bibliogr.: Arenes, J., en Bull. Jard. Bot. Bruxelles, 20: 67-156, 1950.
-
-1. A. minus (Hill.) Bernh., Syst. Verz. Pfl. Erf.: 184, 1800. Lappa minor Hill.
-Veg. Syst. 4: 28, 1762. Hierba bienal, erecta, lanuginosa, de 1-1,5 m de alt. Hojas
-grandes, ovado-oblongas, cordadas, ondulado dentadas en el margen; largamente
-pecioladas, verdes en el haz y lanuginosas en el envés. Capítulos en cimas racemi-
-formes, los superiores amontonados. Involucro globoso, de 12-15 mm de alt., por
-15-20 mm de diám. Aquenios glabros, lustrosos. (Fig. 186, A-C).
-
-Europa y Asia occidental. Adventicia en América. En suelos modificados. Medi-
-cinal. N. v.: lampazo, bardana. Exxsice. Cabrera 149, 4522.
-
-64, Carpuus L.
-
-Involucro ovoideo o globoso; brácteas pluriseriadas, imbricadas, espi-
-nescentes en el ápice. Receptáculo plano o convexo, densamente cer-
-doso. Flores isomorfas, todas hermafroditas (raramente wnisexuales
-dioicas), con corola tubulosa, ensanchada en el limbo y profundamente
-pentasecta. Estambres con filamentos pilosos y anteras sagitadas en la
-base. Estilo con un anillo de pelitos debajo del punto de bifurcación,
-y ramas pegadas entre sí hasta la parte superior. Aquenios obovoideos,
-glabros, semitetragonales, con 5-10 costillas, con articulación basal.
-Papus formado por muchos pelos simples, unidos entre sí en la base.
-Hierbas erectas con hojas alternas, espinosas, generalmente decurrentes
-a lo largo del tallo, sinuado-dentadas o pinatisectas. Capítulos medianos
-o grandes, largamente pedunculados o sésiles y amontonados. Corolas
-purpúreas o blancas. Especie tipo: C. nutans L.
-
-~
- 
-
-COMPOSITAE 525
-
-Fig. 186,-— A-C, Arctium minus (Hill.) Bernh.: A, ramita florifera ( 1); B, seeción lon-
-gitudinal del capítulo; C, aquenio. D, Carduus acanthoides Li. (X 1/2). E-J, Onopordon
-acanthium L.: E,:rama florifera; F, sección longitudinal del recepiáculo; G, flor; 4H,
-estilo; J, aquenio (X 7/e).
-526 FLORA DE BUENOS AIRES
-
-- A. Capítulos globosos. Flores bilabiado-tubulosas, con labio exterior tetrasecto y
-iabio interior lineal. Plantas glabras o casi glabras.
-
-B. Capítulos muy grandes, solitarios, más o menos nutantes; involucro de cerca
-de 3 cm de alt. por 6 cm de diám.; brácteas lanceoladas, espinescentes en el
-ápice, recurvadas, glabras. Flores purpúreas. Aquenios estriados, glabros.
-Hojas lanceoladas, sinuadas, con dientes largamente espinosos en el margen. |
-
-1. C. nutans
-
-B'. Capítulos pequeños, agrupados en corto número en el ápice de las ramitas.
-Involucro de 1,5 cm de alt. por 1,2-1,5 cm de diám.; brdecteas lineal-subula-
-das, espinosas. Flores purpúreas. Aquenios glabros, amarillentos, estriados.
-Hojas pinatífidas, espinosas .............0...0...00.0.00. 2. C. acanthoides
-
-A'. Capítulos ovoideos, cilíndricos. Flores tubulosas, pentasectas. Plantas lanuginosas.
-
-C. Capítulos amontonados en número de 3-20, sésiles en el ápice de las ramas.
-Involucro cilíndrico, de 17-20 mm de alt. por 10-14 mm de diám.; brácteas
-lanceoladas, espinosas en el ápice, glabras o casi en el dorso. Aquenios oblon-
-gos, con 5-6 estrias a cada lado. Hojas lanceoladas, decurrentes en su base,
-lobulado-espinosas en el margen, lanosas.................. 3. C. tenuiflorus
-
-C'. Capítulos aglomerados en número de 2-3 en el ápice de las ramas. Involucro
-ovoideo, de unos 20 mm de alt. por 8-10 mm de diám.; brácteas lanceoladas,
-espinosas en el ápice, lanosas en el dorso. Aquenios oblongos, glabros. Hojas
-lanceoladas, lobado-espinosas, lanosas ................ 4. C. pycnocephalus
-
-1. C. nutans L. var. macrocephalus (Desf.) Fiori et Beguin., Fl. Anal. d'Ttalia,
-3: 352, 1904. C. macrocephalus Desf., Fl. Atlant. 2: 245, 1800. Hierba anual de 1-2 m
-de alt. Tallos erectos, glabros, con ramas casi desnudas en la parte superior.
-
-Europa; adventicia en el centro de la Argentina. Comtin en campos con hacienda.
-N. v.: cardo. Exsice. Cabrera 184.
-
-2. C. acanthoides L., Sp. Pl. 2: 821, 1753. Hierba anual, erecta, ramosa, de 1,5-2 m
-de alt., glabra o casi glabra, con ramas aladas, espinosas. (Fig. 186, D).
-
-Inuropa. Maleza invasora en las regiones agricolas de la Argentina. N. v.: cardo. .
-Exsice. Cabrera 174, 6427.
-
-3. C. tenuiflorus Curtis, Fl. Lond. 6:55, 1777. Hierba anual o bienal, de 50-
-120 cm de alt., con tallos ramosos provistos de alas recortadas espinosas.
-Europa. Adventicia en la Argentina. N'. v.: cardo. Exsice. Cabrera 105, 6572.
-
-4..C. pycnocephalus L., Sp. Pl. Ed. 2, 2: 1151, 1763. Hierba anual o bienal, de
-30-120 cm de alt. Tallos erectos, ramosos, provistos de alas recortadas espinosas,
-lanosas.
-
-Sur de Europa. Rara en los alrededores de Buenos Aires. Exsice. Parodi 4785.
-
-65. Crrsium Adans.
-
-Involucro globeso o acampanado; brácteas muy numerosas, imbri-
-cadas, espinescentes en el ápice. Receptáculo pestafioso. Flores isomor-
-fas, hermafroditas o unisexuales dioicas. Corola tubulosa, con Hmbo
-pentasecto. Estambres con filamentos frecuentemente pilosos y anteras
-más o menos sagitadas en la base. Estilo con ramas lineales, pegadas o
-apenas separadas en el ápice, con una coronita de pelos por debajo del
-punto de bifurecacién. Aquenios oblongos, glabros. Papus formado por
-numerosos pelos plumosos. Hierbas anuales o perennes, con hojas decu-
-rrentes, espinosas. Flores purpúreas o amarillentas. Especie tipo: C.
-heterophyllum (L.) All:
-
-1. C. vulgare (Savi) Airy-Shaw, Rep. Spec. Nov. 48: 304, 1938. Carduus vulgaris
-Savi Fl. Pis, 2: 241, 1798. Hierba anual, espinosa, con tallos erectos de 80-140 cm
-de alt. alados, pubescentes. Alas dentado-espinosas. Hojas lanceoladas,, lobadas, .es-
-pinosas, pubescentes. Capítulos grandes, subsésiles en el extremo de ramitas cortas.
-
-~
- 
-
-COMPOSITAE 527
-
-Involucro ovoide, de 3 cm de alt.; brácteas lanceolado-lineales, terminadas en una
-larga espina algo curva.
-
-Europa; adventicia en las regiones templadas. Comtin en campos de pastoreo y
-suelog modificados. N. v.: cardo negro. Exsice. Cabrera 140.
-
-66. Cynara LL.
-
-Involucro semigloboso; brácteas muy numerosas, ensanchadas en la
-base, lanceoladas y espinosas en el ápice, enteras, carnosas. Recep-
-taculo craso, plano, cubierto de largas cerdas. Flores isomorfas, herma-
-froditas, con corola tubulosa pentasecta. Estambres con filamentos
-pubescentes y anteras sagitadas en la base. Estilo con un anillo de pe-
-litos debajo del punto de bifurcación y ramas lineales, pegadas entre
-
- 
-
-Fic. 187. A-D, Cynara cardunculus L.: A, ramita en flor (X 1/3); B; sección longitudinal del invo-
-lucro; C, parte superior del estilo; D, aquenio. — E-H, Carthamus lanatvs L.: E, :ama en flor (X
-1/3); F, andtoceo; G, parte superior del estilo; H, aquenio.
-
-si. Aquenios glabros, obovoideos, gruesos, levemente comprimidos. Pa-
-pus formado por numerosos pelos plumosos soldados en la base. Hierbas
-erectas, elevadas, con hojas espinosas, pinatisectas y eapitulos muy
-grandes, solitarios en el ápice de las ramitas. Flores azules o blancas.
-Especie tipo: C. cardunculus L.
-
-1. C. cardunculus L., Sp. Pl. 2: 827, 1753. Hierba perenne, de 1-1,5 m de alt.
-Hojas muy grandes, pinatisectas, con segmentos lanceolados, espinosos, verdes en
-el haz y griseo-lanosas en el envés. Capíttlos muy grandes, en falsas cimas. Involucro
-de 5 cm de alt. por 5-6 cm de d.im.; brácteas lanceoladas, agudas, espinosas en el
-ápice. glabras. Flores azules o violáceas. (Fig. 187, A-D).
-
-Espana y N. de Africa. Adventicia en la Argentina desde el siglo XVIII. Muy
-frecuente en campos de pastoreo. Comestible. Coagulante de la leche. N. v.: cardo
-de Castilla, cardo, cardén. Exsicc. Cabrera 139.
-
- 
-FLORA DE BUENOS AIRES
-
-67. Stryeum Vaill. ?
-
-Involucro semigloboso; braécteas multiseriadas, terminadas en una
-larga espina y dentado-espinosas en el margen. Receptáculo plano, cer-
-doso. Flores isomorfas, hermafroditas, tubulosas, pentasectas. Estam-
-bres con filamentos parcialmente soldados entre sí y anteras sagitadas
-en la base. Estilo con un anillo de pelitos debajo del punto de bifur-
-cación y ramas adheridas hasta cerca de la punta. Aquenios obovados,
-glabros. Papus formado por numerosas cerdas simples rigidas. Hierbas
-erectas, con hojas espinosas, lobadas o pinatisectas. Capítulos grandes,
-solitarios en el extremo de las ramas. Corolas purpúreas o violáceas.
-Especie tipo: Silybum marianum (L.) Gaertn.
-
-i. S. marianum (L.) Gaertn., Fruct. et Sem. Plant. 2: 398, 1791. Carduus ma-
-rtanus L., Sp. Pl. 2: 823, 1753. Hierba anual de 1-2 m de allt. Hojas profundamente
-lobadas, espinosas, con manchas blancas en la cara superior. Involucro globoso, de
-3-4 com de alt. por 3-4 cm de diám.
-
-Europa; adventicia en América del Sur. Frecuente en campos con hacienda yen
-suelos modificados. N. v.: cardo asnal. Exsice. Cabrera 100.
-
-68. Onoporpon L.
-
-Involucro globoso; brácteas pluriseriadas, espinosas en el ápice. Recep-
-táculo plano, carnoso, alveolado. Flores isomorfas, hermafroditas, tubu-
-losas, pentasectas. Estambres con filamentos pilosos y anteras sagitadas
-en la base. Estilo pubescente por debajo del punto de bifurcación, con
-ramitas pegadas hasta la punta. Aquenios glabros, lisos o rugosos, grue-
-sos. Papus formado por cerdas simples o plumosas. Hierbas espinosas,
-
--generalmente tomentosas. Tallos alados. Hojas espinosas. Capítulos
-grandes, solitarios. Flores violáceas o blancas: Especie tipo: O. acan-
-thium LL.
-
-1.40. acanthium L., Sp. Pl. 2: 827, 1753. Hierba bienal, erecta, albo-tomentosa,
-
-, de 1-1,5 m de alt. Tallos con alas espinosas. Hojas ovado-oblongas, dentadas o lo-
-
-badas, espinosas en el margen. Inveiero de 1,5-2,5 cm de ait. por 2-3 cm de diám.;
-
-brácteas subuladas. Flores viol'ceas. Aquenios con arrugas transversales obscuras
-
-y surcos claros. Papus formado por cerdas amarillentas desiguales. (Fig. 186, E-J).
-
-Europa; adventicio en la Argentina. En terraplenes del ferrocarril, bordes de ca-
-minos, etc. N. v.: cardo. Exsiec. Cabrera 1272. .
-
-69. CentaurEa L.
-
-Involucro ovoideo o globoso; brácteas en varias series, terminadas en
-el ápice en un apéndice escarioso o en una espina entera o ramificada.
-Receptáculo semiplano, cerdoso. Flores dimorfas o isomorfas: las mar-
-ginales (cuando existen) asexuadas, con limbo muy ensanchado, a veces
-cigomorfas; las del disco hermafroditas, tubulosas, pentasectas. Anteras
-sagitadas en la base. Estilo algo engrosado o con una coronita de pelos
-debajo del punto de bifurcación, con ramas pegadas. Aquenios fijos al
-receptáculo por una articulación lateral. Pelos del papus rigidos o pa-
-jizos, a veces nulos. Hierbas perennes o anuales. Hojas alternas, enteras,
-dentadas o partidas. Capítulos solitarios o cimosos. Flores de diversos
-colores. Especie tipo: C. centaurium L. , '
-
-~
-COMPOSITAE 529
-
-A. Brácteas involucrales termmadas en una larga espina coriicea.
-
-B. Flores violáceas. Hojas superiores e inferiores profundamente pinatisectas,
-con segmentos lanceolados, mucronados, pubescentes. Capítulos sésiles en
-las bifurcaciones del tallo y en el pice de las ramitas. Involucro ovoide, de
-12 mm de alt.; brácteas ovaladas, prolongadas en una larguisima espina
-que lleva dos espinitas más cortas a cada lado en su base. Flores isomorfas,
-todas hermarroditas. Papus nulo. Aquenios glabros ......... 1. C. caleitrapa
-
-_. BY'. Flores amarillas Hojas superiores enteras.
-
-Cc'.
-
-Egpinas del involucro de 4-5 mm de long., con 2-3 dientes espinosos a
-cada lado en su base. Hojas inferiores lirado-pinatífidas; hojas superiores
-lineal-lanceoladas, decurrentes a lo largo del tallo, dspero pubescentes.
-Capítulos 1-8 en el extremo de ramitas cortas. Involucro ovoide de
-12 mm de alt. Aquenios glabros. Papus formado por muches pajitas li-
-reales COrtaS ... 6. eee eee e eters 2. C. melitensis
-Espinas del involucro de 14-22 mm de long., con algunas espinitas en
-su base. Hojas inferiores pinatífidas; las superiores enteras, lineales, la-
-nosas. Capítulos solitarios. Involucro ovoideo, de 10 mm de alt. Flores
-isomorfas. Aquenios glabros. Papus formado por numerosas cerdas blan-
-CAS cee eee eee teen eer eee eene 3. C. solstitialis
-
-A'. Brácteas involucrales sin espina coriácea en el apice.
-D. Brácteas involucrales provistas en su ápice de un apéndice membranáceo
-circular más o menos profundamente laciniado.
-
-E.
-
-Apéndice de las brácteas involucrales ovado-rómbico, castaño, corta-
-mente laciniado. Hojas lanceoladas, agudas, enteras o dentadas en la
-base, estrigoso-pubescentes. Capítulos solitarios. Involucro globoso, de
-13-14 mm de alt. Brácteas lanceoladas, lanuginosas. Flores dimorfas,
-las marginales asexuadas, radiantes. Papus ausente o formado por pajitas
-MUY COPtAS 0. eee een tte 4. C. dubia
-
-. Apéndice de las brácteas involucrales anchamente flabelado, laciniado
-
-casi hasta su base, de color castaño claro. Hojas inferiores lanceoladas,
-agudas, con 1-2 lóbulos a cada lado; hojas superiores lanceoladas. Ca-
-pitulos solitarios. Involucro globoso, de cerca de 2 cm de diám. Flores
-violáceas, las marginales asexuadas, radiantes. Aquenios pubescentes.
-Papus cortisimo .... 0... eee eee teens 5. C. jacea
-
-D'. Brácteas involucrales sin apéndice membranfceo circular.
-
-F.
-
-F.
-
-Capítulos solitarios, pequeños. Involucro ovoideo de 10-12 mm de alt.;
-brácteas lanceoladas, ciliado-espinosas en el borde, glabras. Flores azu-
-les, las marginales asexuadas, casi liguliformes. Aquenios pubescentes.
-Papus formado por pajitas desiguales. Hojas mferiores pinatífidas; las
-superiores lineales, enteras ............. 0.2. o eee ee ee 6. C. cyanus
-Capítulos solitarios, grandes. Involucro globoso de 2-2,5 cm de alt.;
-brácteas oblongo-lanceoladas, con un apéndice lineal laciniado en el
-ápice, glabras. Flores purpúreas, isomorfas. Aquenios negros. Papus cer-
-doso. Hojas lineal-lanceoladas, enteras, ásperas ....... 7. C. tweediet
-
-1. C. calcitrapa L., Sp. Pl. 2: 917, 1753. Hierba anual o bienal, difuso-ramosa,
-'de 30-50 cm de alt.
-
-Europa; adventicia en América. Comin en suelos modificados. N. v.: abre pufio.
-Exsicc. Cabrera 124.
-
-2. C. melitensis L., Sp. Pl. 2: 917, 1758. Hierba anual, erecta, dspero-pilosa,
-de 40-80 cm de alt.
-
-Sur de Europa y N. de Africa; adventicia en América. Comtin en suelos modifi-
-cados. Exsicc. Cabrera 534, 5617.
-
-3. C. solstitialis L., Sp. Pl.-2: 917, 1753. Hierba anual o bienal, de 50 cm de alt.,
-con tallos lanosos, alados.
-
-Europa; adventicia en América. Rara en la región; frecuente en suelos arenosos
-del W. de Buenos Aires. N. v.: abre pujio amarillo. Exsice. Cabrera 653.
-
-4. C. dubia Suter, subps. vochinensis (Bernh.) Hayek ex Hegi, Jil. Fl. Mutt.
-
-Eur. 6 (2):
-
-951, 1928. C. vochinensis Bernh. ex Reichb., Ic. Fl. Germ. 15: 15, 18381.
-
-Hierba perenne, ramosa, erecta, de 50 cm de alt.
-Europa; adventicia en la Argentina. Rara en Eva Perén. Exsicc. Cabrera.
-
- 
- 
-
-530 FLORA DE BUENOS AIRES
-
-5. C. jacea L., Sp. Pl. 2: 914, 1753. Hierba perenne, ramosa, erecta, pubéscente.
-Norte de Europa. Adventicia en el sur de la Argentina y cerca de Abasto, alrede-
-dores de Eva Perén. Exsice. Cabrera 7404.
-
-6. C. cyanus L., Sp. Pl. 2: 911, 1753. Hierba anual, erecta, ramosa, algo tomen-
-tosa, de 30-60 cm de alt.
-Sur de Europa. Cultivada como ornamental y subespontánea. N. v.: azulejo.
-
-7. C. tweediei Hook. et Arn., Comp. Bot. Mag. 1: 110, 1835. Hierba anual, erecta,
-glabra o dspera, de 50-100 cm de alt.
-
-Sur del Brasil, Uruguay y NE. de la Argentina, hasta el Delta del Parand. Exsice.
-Scala X1-1925.
-
-70. Cartuamus L.
-
-Involucro ovoideo o globoso; brácteas multiseriadas, las exteriores
-foliaceas, espinosas. Receptáculo plano, densamente paleáceo o setoso.
-Flores generalmente isomorfas, todas hermafroditas, tubulosas, penta-
-sectas. Estambres con filamentos pilosos en la parte media y anteras
-sagitadas en la base. Estilo con un anillo de pelitos debajo del punto
-de bifurcaciéón y ramas lineales, pegadas casi hasta la punta. Aquenios
-glabros, obovoideos, tetragonales, con articulación lateral, sin papus
-o con papus formado por muchas pajitas. Hierbas espinosas; hojas
-alternas, dentadas o lobadas, espinosas. Capítulos grandes, solitarios
-o cimosos. Flores amarillas, anaranjadas, rojas o blancas. Especie tipo:
-C. tinctorius L.
-
-1. C. lanathus L., Sp. Pi. 2: 830, 1753. Hierba anual, erecta, laxamente pubes-
-cente, de unos 50 cm de alt. Hojas coriáceas, sésiles, semiamplexicaules, lanceoladas,
-pinatisectas, con lóbulos y épice largamente espinosos, glabras o pubescentes. Ca-
-pitulos cimosos, dispuestos en las bifurcaciones del tallo y en el extremo de las ra-
-mitas. Involucro de 3-4 cm de alt. por 2 cm de diám. Brácteas coriáceas, lanceo-
-ladas, dentado-espinosas, abiertas. Flores amarillas. Papus formado por muchas
-pajitas desiguales. (Fig. 187, E-H).
-
-Europa; adventicia en América. Frecuente en campos de pastoreo. Exsice. Ca-
-brera 110. ;
-
-Tribu 12. MutistHar
-71. Moutvista L. f.
-
-Involucro acampanado o cilíndrico; brácteas multiseriadas, imbri-
-eadas, anchas, las exteriores gradualmente menores. Receptáculo plano,
-. desnudo. Flores dimorfas: las marginales femeninas, bilabiadas, con
-labio exterior liguliforme y labio interior casi nulo; flores del disco her-
-mafroditas, con corola bilabiada: labios aproximadamente de la misma
-longitud, el exterior 3-dentado y el interior bífido y enroscado. Anteras
-largamente sagitadas. Estilo bilobado. Aquenios turbinados u oblongos,
-glabros. Papus formado por muchos pelos plumosos. Arbustos o enre-
-daderas; hojas alternas, enteras o pinatisectas, frecuentemente termi-
-nadas en un zarcillo. Capítulos grandes, solitarios. Especie tipo: M.
-clematis L. f.
-
-1. M. coccinea St. Hil., Voy. Diaman. 1: 386, 1833. Enredadera herbácea, peren-
-ne, con tallos flexibles con 4-5 ángulos muy marcados, Jaxamente tomentosa. Hojas
-
-pinaticompuestas, con raquis terminado en un zarcillo ramificado y 4-6 pares de
-. H
- 
-
- 
-
-COMPOSITAE 531
-
-folíolos elíptico-lanceolados, obtusos, enteros, casi glabros en el haz y albo-tomen-
-tosos en el envés. Capítulos largamente pedunculados, solitarios en el extremo de
-las ramas. Involucro de 2,5-3,5 cm de alt.; brácteas ovado-lanceoladas, con un mar-
-gen albo-lanoso ancho. Flores rojas.
-
-Sur del Brasil, Paraguay, Uruguay y NE. de la Argentina. Muy rara en el Delta
-del Parand: arroyo Carapachay. Exsice. Burkart 4858.
-
-72. TRICHOCLINE Cass.
-
-Involucro hemisférico; brácteas multiseriadas, herbáceas o membra-
-nosas. Receptáculo plano, ciliado o desnudo. Flores dimorfas: las mar-
-ginales femeninas, bilabiadas, con labio exterior liguliforme y labio
-interior corto y enroscado. Flores del disco hermafroditas, bilabiadas,
-con labios de la misma longitud: el exterior tridentado y el interior
-bisecto y enroscado. Anteras largamente sagitadas en la base. Ramas
-del estilo de las flores hermafroditas muy cortas, redondeadas en el
-ápice. Aquenios turbinados, papiloso-velludos o glabros. Papus formado
-por muchos pelos simples. Hierbas perennes, generalmente acaules,
-con rizoma grueso y hojas en roseta. Capítulos solitarios en el extremo
-de largos escapos. Flores amarillas o anaranjadas. Especie tipo: T.
-incana (lam.) Cass.
-
-1. T. sinuata (Don) nov. comb. Bichenia -sinuata Don, Philos. Mag. 11: 391,
-1832. Hojas. oblanceoladas, profundamente lobadas, glabrescentes en el haz y densa-
-mente tomentosas en el envés. Escapos erectos, tomentosos, sin brácteas, de 4-30 cm
-de alt. Capítulos solitarios. Involucro hemisférico, de 15 mm de alt. por 20-30 mm
-de diám.; brácteas lineal-lanceoladas, tomentosas. Flores doradas, las marginales lar-
-gamente liguladas. Aquenios papiloso-pubescentes.
-
-Sur del Brasil, Uruguay y NE. de la Argentina. Rara en la región: Santa Catalina.
-Exsiec. Spegazzint III-1918.
-
-73. Cuaprauia Vent.
-
-Involucro acampanado o turbinado; braécteas multiseriadas, las exte-
-riores gradualmente menores. Flores trimorfas: las marginales feme-
-ninas, liguladas o sub-bilabiadas; las siguientes femeninas, con corola
-filiforme más corta que el estilo; las centrales hermafroditas, con corola
-bilabiada de labio exterior tridentado y labio interior bisecto, enroscado.
-Anteras sagitadas en la base. Ramas del estilo cortas y obtusas, pubes-
-centes en el dorso. Aquenios fusiformes, a veces rostrados. Papus for-
-mado por numerosos pelos. Hierbas perennes, acaules, con hojas en ro-
-seta, albo-tomentosas en el envés. Capítulos solitarios, generalmente
-sobre largos escapos. Flores blancas o rosadas. Especie tipo: Ch. to-
-mentosa Vent.
-
-Bibliogr.: Burkart, A., en Darwiniana, 6: 505-594, 1944.
-
-A. Aquenios sin rostro, obovados, comprimidos, costados, papiloso-pubescentes,
-de 5 mm de long. Capítulo sésil antes de la fructificación, luego cortamente pe-
-duneulado (escapo de 2-3 cm de long.). Involucro de 15-20 mm de long. Flores
-blancas, las marginales liguladas (lígula más corta que el involucro). Hojas obo-
-vadas o elípticas, sinuado-dentadas, de 4-7 cm de long. por 2-4 cm de anch. |
-
-. : 1. Ch. exscapa
-
-A'. Aquenios rostrados. Capítulos sobre largos escapos.
-B. Hojas lirado-pinatífidas, con lóbulo terminal grande, ovado, sinuado den-
-
-tado. Escapos de 10-40 cm de alt., tomentosos, sin brácteas. Capítulos nu-
-532
-
-FLORA DE BUENOS AIRES
-
-' tantes. Involucra de 15 mm de alt. Flores rogadas, las marginates con Kgula
-apenas sobresaliendo del involucro. Aquenios fusiformes, 5-6-costados, de
-4 mm de longitud; terminados en un rostro delgado de 13-15 mm de largo.
-Papus blanco. 2... 0. cee 2. Ch. nutans
-B'. Hojas enteras, sinuadas o dentadas.
-
-; C. Capítulos con 20-60 flores, siempre erectos. Hojas oblanceoladas, de
-
-menos de 15 mm de anchura.
-
-Cc.
-
-D.
-
-Aquenios con 7-8 costillas, fusiformes, papilosos en la base, de 6-7 mm
-de long., terminados en un rostro de 7-8 mm de long. Papus rojizo,
-Hojas retrorso dentadas en el borde, agudas, de 3,5-9 cm de long.
-Escapos de 2-17 cm de long., lanosos, con muchas brácteas lineales.
-Involucro de 14-25 mm de' alt. Flores blancas o rosadas, las margi-
-nales cortamente liguiadas ..................... 3. Ch. piloselloides
-
-. Aquenios con 4-6 costillas, fusiforme-lineales, glabros, de 5-6 mm de
-
-long., terminados en un rostro de 5-7 mm. Papus blanco.o rosado.
-Hojas agudas o casi obtusas, retrorso aserradas, de 6-12 cm de long.
-Escapos de 10-35 cm de alt., bracteolados superiormente, lanosos.
-Involucro de 10 mm de alt. Flores blancas o rosadas, las marginales
-apenas exsertas 0.0... eee eee cee aes 4. Ch. runcinata
-
-Capítulos plurifloros, nutantes antes de la fructificación. Hojas de más
-de 20 cm de anch.
-
-E.
-
-E'.
-
-Escapos con numerosas brácteas lineales, tomentosos, de 10-30 cm
-de altura. Hojas obovadas, obtusas, crenadas en el margen, de 6-13
-cm de long. por 3-5 cm de anch. Involucro de 18-22 mm de alt. Flores
-blancas o rosadas, las marginales cortamente liguladas. Aquenios
-lanceolados, comprimidos, con 3 costillas a cada lado, de 5-6 mm de
-long., terminados en un rostro de 7-8 mm de long. 5. Ch. arechavaletai
-Escapos con 1-5 brácteas o sin ellas. Aquenios densamente papilosos.
-F. Hojas oblongo-lanceoladas, obtusas, crenado-dentadas, de 9-18
-cm de long. por 1,5-2,8 cm de anch. Escapos de 15-40 cm de
-long., tomentosos, con 3-5 brácteas en su parte superior. Invo-
-lucro de 15 mm de long. Flores 100-150, blancas, las marginales
-cortamente liguladas. Aquenios fusiformes, con 6-8 costillas, de
-7-8 mm de long., terminados en un rostro de 15 mm de long.
-6. Ch. ignota
-F'. Hojas obovadas, obtusas, retrorso-dentadas, de 6-12 cm de long.
-por 3-4 cm de anch, Escapos de 7-30 cm de long., tomentoses,
-sin brácteas o con 1-3 cerca del capítulo. Involucro de 14-24 mm
-de long. Flores blancas o rosadas, las marginales con lígula exce-
-diendo algo al involucro. Aquenios oblanceolados, gruesos, 5-cos-
-tados, papilosos, de 4-5 mm de long., terminados en un rostro
-de 9-11 mm de long. ............ 00. cece eee eee 7. Ch, sinuata
-
-1, Ch. exscapa (Pers.) Bak. en Mart., Fl. Brasil. 6 (3): 879, 1884. T'ussilago
-exscapa Pers., Syn. Plant. 2: 456, 1807. Hierba perenne, acaule.
-
-Sur del Brasil, Uruguay y centro de la Argentina. Comtin en la estepa climax.
-Exsice. Cabrera 247, 323.
-
-2. Ch. nutans (L.) Polak., Linnaea, 41: 582, 1877. Tusstlago nutans L., Syst.
-Ed. 10, 2: 1214, 1759. Hierba perenne, acaule.
-América tropical, Isla Martin Garcia. Exsice. Cabrera 2865.
-
-3. Ch. piloselloides (Vahl.) Bak. en Mart., Fl. Brasil. 6 (3): 378, 1884. Perdt-
-ctum piloselloides Vahl, Skrivt. N. H. Selsk. Kiobenhaun, 2: 38, 1791. Hierba perenne,
-acautle.
-
-Sur del Brasil, Uruguay y NE. de la Argentina. Estepa climax. Exsice. Cabrera
-
-248,
-
-1408.
-
-4. Ch. runcinata H. B. K., Nov. Gen. et Spec. 4: 5, 1820. Hierba perenne, acaule.
-
-(Fig. 188).
-
-América del Sur, hasta el N. de la Argentina. Rara.en la estepa chmax. Exsicc.
-Cabrera 907.
-
-
-COMPOSITAE ; 533
-
-5. Ch. arechavaletai Hieron. ex Arech., Anal. Mus. Nac. Montevideo, Ser. 2, 1:
-14, 1904. Hierba perenne, acaule, con hojas en roseta.
-
-Endémica del Uruguay y del NE. de la Argentina. Frecuente en la estepa climax.
-Exsiee. Cabrera 413, 5369.
-
-6. Ch. ignota Burkart, Physis, 11: 102, 1982. Hierba perenne, acattle.
-Provincia de Entre Rios, norte de Buenos Aires y oeste del Uruguay. Hallada en
-San Isidro. Exsice. Burkari 2153.
-
-Fre. 188.—∞-Chaptalia runcinata H. B. K.: A, planta (X 1/2); B, capítulo; C, flor marginal femenina
-ligulada; D, flor intermedia femenina tubulosa; E, flor del disco hermafrodita bilabiada; F, aquenio;
-G, androceo; H, parte superior del estilo de una flor hermafrodita.
-
-7. Ch. sinuata (Less.) Bak. en Mart., Fl. Brasil. 6 (3): 378, 1884. Leria nutans
-var. sinuata Less., Linnaea, 5: 354, 1830. Hierba perenne, acaule.
-
-Uruguay y N. y centro de la Argentina. Norte y oeste de la provincia de Buenos
-Aires: Zelaya, Junin, etc. Exsice. Cabrera 6510.
-
-74. Trrxis P. Br.
-
-Involucro acampanado o hemisférico; brácteas 1-2-seriadas, imbri-
-cadas. Receptáculo piloso. Flores isomorfas, hermafroditas, con corola
-bilabiada de labio exterior tridentado y labio interior bisecto (algunas
-veces flores marginales liguliformes). Anteras sagitadas. Ramas del
-estilo truncadas, pilosas en el ápice. Aquenios lineales o lanceolados,
-contraídos o rostrados en el ápice, papilosos. Papus formado por 2-3
-series de pelos delgados. Hierbas perennes o arbustos. Hojas alternas.
-Flores amarillas o anaranjadas. Especie tipo: 7. frutescens P. Br.
-
-Bibliogr.: Cabrera, A. L., en Rev. Mus. La Plata (N. S.) Bot. 1: 31-86, 1936.
-534 FLORA DE BUENOS AIRES
-
-A. Tallos alados, amarillento-tomentosos. Hojas coriáceas, lanceolado-oblongas, cre-
-nadas, decurrentes, pubescentes en el haz y amarillento-tomentosas en el envés,
-de 7-20 cm de long. Capítulos numerosos, cortamente pedicelados, en panojas
-densas. Involucro de 6-8 mm de alt.; brácteas 10-15, lanceoladas, tomentosas.
-Flores 10-15. Aquenios cilíndricos, pilosos. Papus rojizo ...... 1. T. verbasctformis.
-
-A'. Tallos sin alas, densamente pubescentes. Hojas pecioladas, membranosas, ovado-
-elípticas,. enteras o aserradas, pubescentes, de 10-20 cm de long. por 3-7 cm de
-anch. Capítulos numerosos, en cimas corimbiformes densas. Involucro de 1 cm
-de ait.; brácteas en 2-3 series, lanceoladas, agudas. Flores cerca de 30, amarillas
-o anaranjadas. Aquenios cilíndricos, pilosos. Papus blanco o amarillento.
-
-2. T'. praestans
-
-1. T. verbasciformis Less., Linnaea, 5: 29, 1880. Sufrutice rizomatoso, erecto;
-Sudeste del Brasil, Uruguay, Paraguay y NE. de la Argentina, hasta el Delta de
-Parané y los alrededores de Buenos Aires. Exsicc. Burkart 4429.
-
-2. T. praestans (Vell.) Cabr., Rev. Mus. La Plata (N. 8.) Bot. 1: 61, 1986. Castra
-praestans Velu., Fl. Flum.: 343, 1825. Arbusto ramoso, de 1,5-2,5 m de alt.
-
-Suelos secos del sur del Brasil, Paraguay, Uruguay y NE. de la Argentina, hasta
-la isla Martin Garefa. Florece en invierno. E:xsice. Cabrera 396, 2885.
-
-75. Ciuanruxes Don.
-
-Involucro hemisférico; brácteas involucrales en 1-2 series; receptáculo
-glabro. Flores isomorfas, blancas, hermafroditas, con corola bilabiada.
-Anteras sagitadas. Ramas del estilo truncadas y pubescentes en el ápice.
-
-Aquenios cilíndrico-fusiformes, pubescentes. Papus formado por muchos
-pelos denticulados. Hierbas perennes, con hojas inferiores arrosetadas
-y hojas caulinares escasas. Capítulos en cimas corimbiformes o soli-
-tarios. Especie tipo: C. brasiltensis (L.) Don.
-
-A. Plantas hirsutas. Involucro de unos 10 mm de altura. Hojas basales oblongo-
-espatuladas o casi orbiculares, obtusas, dentadas o crenadas, de 6-16 cm de long.
-Hojas caulinares pocas, ovadas o lanceoladas, semiabrazadoras, dentadas. Ca-
-pitulos 3-10, largamente pedicelados, cimoso-corimbosos. Brácteas involucrales
-10-15, 2-seriadas, lanceoladas, pilosas..................... 1. C. brasiliensis
-
-A'. Plantas glabras o apenas pilosas. Involucro de 4-6 mm de alt. Hojas basales
-oblanceoladas, agudas, dentadas o runcinadas, ciliadas en el borde, de 3-14-cm
-de lorg. Hojas caulinares sésiles, lanceoladas, semiabrazadoras. Capítulos 3-10,
-en cimas corimbiformes laxas. Brácteas involucrales 8-10, oblongas, algo pubes-
-centes en el dorso. 20... eer etc eee 2. C. hieracioides
-
-1. C. brasiliensis (L.) Don, Trans. Linn. Soc. 16: 22, 1830. Perdictim brastliense
-L., Mantissa, 1: 115, 1767. Hierba perenne, erecta, de 20-80 cm de alt. Tallos simples
-en la parte inferior y ramificados en la superior.
-
-Sudeste del Brasil, Uruguay y NE. de la Argentina, hasta la Sierra de la Ventana.
-No parece hallarse cerca de la Capital Federal, pero si en los campos de Pergamina
-y Junin. Exsice. Cabrera 6565.
-
-2. C. hieracioides Don, Trans. Linn. Soc. 16: 197, 1830. Hierba perenne, erecta,
-de 10-60 cm de alt. Raíces gemiferas. Tallos simples en la base y algo ramificados
-en la parte superior. (Fig. 189, A-E).
-
-Paraguay, Uruguay y N. y centro de la Argentina. Frecuente en campos hiimedosr.
-Exsice. Cabrera 1626, 1855.
-
-76. PaMPHALEA Lag.
-
-Involucro acampanado; brácteas sub-biseriadas, escariosas en el mar-
-gen; receptáculo plano, desnudo. Flores isomorfas, hermafroditas, bila-
-
-biadas, blancas. Anteras sagitadas en la base. Ramas del estilo trunca-
-!
- 
-
-Fig. 189. — A-k,
-
-COMPOSITAE
-
-Cleanthes hierncioides Don.: A, planta (xX 1/2); B. capítulo;
-
-antera; FE, parte. superior del estilo. F-K, Pamphalea bupleurifolia Saess.:
-
-C, flor;
-F, parte su-
-perior de la planta ( 3/4); G, hoja basal; H, capítulo; J, flor; K, aquenio.
-
-D,
-536 FLORA DE BUENOS 'AIRES
-
-das y pilosas en el ápice. Aquenios obovoideos, sin papus. Hierbas anuales
-o perennes; hojas alternas. Capítulos pequeños, en cimas corimbiformes.
-Especie tipo: P. commersonii Cass.
-
-1. P. bupleurifolia Less., Linnaea, 5: 8, 1830. Hierba perenne. Tallos erectos,
-ramosos, glabros, densamente hojosos inferiormente y muy laxamente en la parte
-superior, de 15-60 cm de alt. Hojas lineal-lanceoladas, enteras, las inferiores larga-
-mente atenuadas en pecíolo envainador; las superiores sésiles y auriculadas en la
-base. Capítulos numerosos, en cimas corimbiformes laxas. Involucro de 4 mm de alt,
-Aquenios turbinados, papilosos. (Fig. 189, F-K).
-
-Campos húmedos y salobres del Uruguay y del N. de Buenos Aires. Exsiec. Ca
-brera 1856, 2382.
-
-Tribu 18. CrcHorInAn
-
-77. Scotymus L.
-
-Involucro acampanado o hemisférico; brácteas pauciseriadas, imbri-
-cadas, las exteriores foliáceas, espinosas en el ápice y en el margen, las
-interiores coriáceas, mucronadas o espinosas en el ápice. Receptáculo
-eénico, cubierto de páleas que envuelven a los ovarios. Flores isomor-
-fas, hermafroditas, liguladas, con lígula 5-dentada. Anteras sagitadas
-en la base. Estilo densamente piloso en su parte superior, cortamente
-partido en dos ramitas agudas. Aquenios comprimidos dorsalmente,
-obovoideos, rodeados por las páleas del receptáculo que se desprenden
-con ellos. Papus nulo o formado por 2-3 cerdas caducas. Hierbas espi-
-nosas. Hojas alternas, coriáceas espinosas. Capítulos sésiles en las
-axilas de las hojas superiores. Flores amarillas. Especie tipo: S. macu-
-latus L.
-
-1. S. hispanicus L., Sp. Pl. 2: 813, 1753. Hierba perenne, laxamente pubescente,
-ramosa, de 20-80 cm de alt. Hojas sésiles, ovado-lanceoladas, decurrentes, iobadas o
-pinatisectas, con ápice y léóbulos fuertemente espinosos, con nervaduras muy promi-
-nentes en el envés, de 7-8 cm de long. Capítulos formando una seudoespiga foliosa.
-Involucro de 15 mm de alt. Papus formado por dos largas aristas. (Fig. 190, C-G).
-
-Sur de Europa y N. de Africa. Adventicia cerca de Buenos Aires. Exsice. Cabrera
-6973,
-
-78. Crcuorium L.
-
-Involucro turbinado; brácteas 2-seriadas, las exteriores mas cortas.
-Receptáculo desnudo o algo pestafioso. Flores isomorfas, hermafroditas,
-con corolas liguladas, pentadentadas en el ápice. Anteras sagitadas en
-la base. Estilo bífido, con .ramas delgadas, agudas y pelos desde debajo
-del punto de bifurcación. Aquenios pentagonales o pluricostados, trun-
-eados en el ápice. Papus formado por pajitas escamiformes, pequeñas
-y numerosas. Hierbas glabras o hispidas. Hojas radicales o alternas,
-enteras, dentadas o pinatisectas. Capítulos pedunculados o axilares y
-sésiles. Flores azules o blancas. Plantas con latex. Especie tipo: C. im-
-tybus L. oe
-
-1. C. intybus L., Sp. Pl. 2: 813, 1753. Hierba anual o bienal, erecta, ramosa,
-glabra o setulosa, de 20-130 cm de alt. Hojas radicales crenadas o runcinadas, las
-superiores lanceoladas, abrazadoras en la base. Capítulos sésiles, laxamente espi-
-gados a lo largo de las ramas. Involucro de 10 mm de alt. por 6-8 mm de diám.; brée-
-teas lanceoladas. Flores azules.
-
-Europa; adventicia en América. Cultivada como planta comestible. -N. v.: achi-
-
-coria, radicheta. EXxsice. Cabrera 154. ;
-COMPOSITAE : 537
-
-79. Lapsana L.
-
-Involucro acampanado; braécteas 2-seriadas: las interiores herbáceas,
-'Jas exteriores muy pequeñas. Receptáculo plano, desnudo. Flores iso-
-morfas, hermafroditas, con corola ligulada pentadentada en el ápice.
-Anteras sagitadas en la base. Estilo con ramas delgadas, piloso desde
--debajo del punto de divisién. Aquenios oblongos, multicostados, sin
-. papus. Hierbas con létex, anuales, erectas, ramosas. Hojas alternas,
-dentadas o pinatisectas. Capítulos pequeños, en panojas o cimas laxas.
-'Corolas amarillas. Especie tipo: L. communis L.
-
-1. L. communis L., Sp. Pl, 2: 811, 1753. Hierba glabra de 40-100 cm de alt.
-Hojas inferiores liradas, pecioladas; las superiores anchamente lanceoladas, sésiles.
-'Capítulos numerosos, paniculado-corrmbosos. Involucro de 6 mm de alt. Aquenios
-
-. gruesos, glabros.
-
-Europa y Asia. Adventicia en América. Rara en la región. Exsice. Spegazzini,
-
-XTJ-1921.
-
-80. Hepypnois Schreb.
-
-Involucro globoso; brácteas 1-seriadas, envolviendo a los frutos mar-
-ginales a la maduración del capítulo. Receptáculo plano, desnudo.
-Flores isomorfas, hermafroditas, con corola ligulada pentadentada en
-el ápice. Anteras sagitadas en la base. Ramas del estilo lineales, agudas,
-:pubescentes. Aquenios cilíndricos, curvados, pluricostados. Papus coroni-
-forme o, en las flores del disco, con pajitas y aristas. Hierbas anuales; ho-
-jas radicales y alternas. Plantas con latex. Especie tipo: H. cretica (L.) W.
-
-1. H. cretica (L.) Willd., Sp. Pl. 3: 1617, 1804. Hyoseris cretica L., Sp. Pl, 2:
-810, 1753. Tallos decumbentes o ascendentes, poco ramosos, laxamente hispidos,
-de 10-40 cm de long. Hojas radicales oblanceoladas, semi-enteras, dentadas o lobadas;
-hojas caulinares lanceoladas, abrazadoras en la base, dentadas. Capítulos solitarios
-sobre pedéinculos engrosados en el épice. Involucro de 7 mm de alt.; brácteas lineales,
-hirsutas. Flores amarillas. Aquenios papilosos. Papus formado por una coronita mem-
-branácea corta y una pajita lineal caduca.
-
-Sur de Europa. Adventicia en Amériea. Comtin en suelos modificados. Exsice. Ca-
--brera 599, 1516.
-
-81. Hypocnognris L.
-
-Involucro acampanado; braécteas en varias series, las exteriores gra-
-dualmente menores. Receptáculo plano, cubierto de páleas membrano-
-sas que abrazan parclalmente a las flores. Flores isomorfas, hermafro-
-ditas, con corola ligulada pentadentada en el ápice. Anteras sagitadas
-en la base. Ramas del estilo lineales, agudas, pilosas. Aquenios fusifor-
-mes, con o sin rostro en el ápice. Papus formado por pelos plumosos.
-Hierbas anuales o perennes. Hojas radicales arrosetadas; hojas caulinares
-escasas o nulas. Tallos escapiformes, poco ramificados. Corolas ama-
-rillas o blancas. Plantas con latex. Especie tipo: H. radicata L.
-
-A. Pelos del papus en dos series: los interiores largos y plumosos, los exteriores más
-eortos y sencillos (Subgén. Hypochoeris).
-
-B. Aquenios marginales truncados en el ápice; los interiores rostrados. Hierbas
-anuales. Hojas obovadas, obtusas, sinuado-dentadas, hirtas o glabras. Ca-
-pitulos solitarios en el extremo de tallos escapiformes, de 20-30 cm de alt.
-Involucro de 7-8 mm de alt. durante la floración. Flores amarillas, corta-
-mente liguladas. 1.0... cee ccc ee cee tee nee ne eaee 1. H. glabra
-+
-
-5388 FLORA DE BUENOS AIRES
-
-B'. Todos los aquenios largamente rostrados. Hierbas perennes. Hojas oblanceo-
-ladas u oboblongas, obtusas, runcinadas, hirtas. Escapos ramificados, gla-
-bros, de 10-50 cm de alt. Capítulos solitarios en el extremo de las ramifica-
-ciones del escapo. Involucro de 10 mm de alt. durante la floración. Brácteas:
-involucrales lineales, obtusas. Flores amarillas............... 2. H. radicata
-
-oA'. Pelos del papus en una sola serie, todos plumosos (Subgén. Achyrophorus).
-
-a
-
-C. Aquenios fusiformes, de 7-9 mm de long., terminados en un rostro corto, de
-sólo 2-4 mm. Hojas oblanceoladas, pinatisectas, hirsutas, de 10-20 cm de-
-long. Capituios solitarios. Involucro florifero de 15-18 mm de alt. Quego
-de hasta 26 mm de alt.); brácteas lineal-lanceoladas, las exteriores hispidas.
-
-Flores amarillas, más cortas que las brácteas interiores ..... 3. H. pampasica
-C'. Aquenios largamente rostrados: rostro tan largo o más largo que la parte:
-seminifera,
-
-D. Tallos ramosos, hojosos.
-
-E. Brácteas involucrales hispidas. Hojas inferiores oblanceoladas, irre--
-- gularmente lobadas o dentadas, de 10-30 cm de long.; hojas cauli-
-nares lanceoladas, semiabrazadoras en la base. Capítulos numerosos,
-en cimas corimbiformes laxas. Involucro florffero de 12-15 mm de
-alt.; brácteas lineales. Flores amarillas. Aquenios de 6 mm de long.,
-con rostro de 7 MM........... ce eve eee tee eee 4. H. tweediet
-
-'E'. Brácteas involucrales lanuginosas o glabras.
-F. Involucros floriferos cilíndricos, de 10-11 mm de altura; brác-
-teas lineales, obtusas. Flores amarillas o blancas. Aquenios de
-4-5 mm, con rostro de 4 mm. Hojas inferiores oblanceoladas,
-
-ms dentadas o runcinadas, glabras, de 6-10 cm de long.; hojas cau-
-linares lineales, sésiles, enteras o partidas. Capítulos en cimas
-corimbiformes laxas......... 60.60 ... 5. H. microcephala
-
-F'. Involucros tloriferos acampanados, de 12-18 mm de alt.; brácteas:
-lineales, casi obtusas. Flores amarillas, numerosas. Aquenios:
-de 5 mm de long. con rostro de 5 mm. Hojas inferiores arrose-
-tadas, oblanceoladas, dentadas o lobuladas, de 5-20 cm de long.;
-las superiores lanceoladas o lineales, semiabrazadoras en la base,
-dentadas o lobadas. Capítulos en cimas corimbiformes laxas.
-
-6. H. brasiliensis:
-D'. Tallos simples, escapiformes, raramente bifureados.
-
-G. Flores algo más largas que las brácteas interiores del involucro,
-amarillas. Hojas oblanceoladas, sinuado-dentadas o lobadas, hirtas,.
-de 6-10 cm de long. Capítulos grandes, solitarios. Involucro acam--
-panado, de 13-18 mm de alt. por 11-14 mm de diám.; brácteas lineal-
-oblongas, obtusas, hirtas, con una mancha obscura en el ápice. Aque-
-
-nios de 4 mm de long., con rostro de 8mm ....... 7. H. grisebachia
-G'. Flores más cortas que las brácteas interiores del involucro, amari-
-llas.
-
-H. Involucro de 20-30 mm de alt.; brácteas lineal-lanceoladas, gla-
-bras. Aquenios de 6 mm de long. con rostro de 9 mm. Hojas.
-oblanceoladas, dentadas o lobuladas, hispidas, de 6-20 cm de long.
-
-8. H. megapotamica
-
-H'. Involucro de 10-15 mm de altura; brácteas lineales, glabras,
-semi-agudas. Flores amarillas. Aquenios de 4-5 mm de long,.,
-con rostro delgado de 4-5 mm. Hojas oblanceolado-lineales, agu-
-das, sinuado-dentadas o pinatisectas, generalmente glabras, de
-5-14 cm de long. ......... 0c cece eee eee ees 9. H. petiolaris
-
-1. H. giabra L., Sp. Pi. 2: 811, 1753. Anual; tallos escapiformes, sencillos.
-Europa; adventicia en. América. Rara en la región: dunas de Monte Veloz. Exsice.-
-Cabrera 1881.
-
-2. H. radicata L., Sp. Pl. 2: 811, 1753. Perenne, con hojas en roseta y tallos esca-
-piformes simples o ramificados.
-
-Europa; adventicia en América. Muy común tanto en la estepa climax, como cm
-suelos modificados. Exsicc. Cabrera 526, 1519 2 | :
- 
-
-OOMPOSITAE 5389
-
-1/o); B, aquenio y palea.
-flor; E, anteras; F, parte
-H, capitule; J, aquento'
-
-Fig. 190. — A-B, Hypochoeris megapotamica Cabr.: A, planta (X
-- O-G, Seolymus hispanicus L.; C, ramita en flor (X 14/2); D,
-> superior del estilo; G, aquenio. H-J3, Lactuca saligne «Le.
-~ K-L, Picrosia longifolia Don.: K, capítulo; L, aquenio. +. -.
- 
-
-540 FLORA DE BUENOS AIRES
-
-3. H. pampasica Cabr., Rev. Mus. La Plata (N. 8.) Bot. 4: 395, 1941. Hemicrip-
-tofita con raíz gruesa; hojas arrosetadas; tallos simples o bifureados, de 20-50 cm
-de altura, desnudos o con alguna hoja en la parte inferior.
-
-Suelos arenosos del sur y del oeste de la provincia de Buenos Aires. Rara cerca
-de la Capital Federal: Isla Martin Garcia. Exsicc. Cabrera 6540.
-
-4. H. tweediei (Hook. et Arm.) Cabr., Not. Mus. La Plata, 2: 203, 1937. Seriola
-tweediei Hook. et Arn., Comp. Bot. Mag. 1: 31, 1835. Perenne, con raiz gruesa. Tallos
-erectos, ramosos, hojosos, glabros, de 50-80 cm de alt.
-
-Uruguay y NE. de la Argentina. Comiin en los bosques del Delta y de la ribera
-platense; también en jardmes y terrenos húmedos. Exsice. Cabrera 5597, 6800.
-
-5. H. microcephala (Sch. Bip.) Cabr., Not. Mus. La Plata, 2: 200, 1937. Achy-
-rophorus microcephalus Sch. Bip., Pollichia, 16-17: 59, 1859. Hierba perenne; tallos
-erectos, ramosos, glabros o laxamente hirsutos, de 20-40 cm de alt. Flores amarillas.
-
-Sur del Brasil, Uruguay y NE. de la Argentina. Comun en suelos húmedos y fér-
-tiles. Exsicc. Cabrera 314, 1534.
-
-5a. H. microcephala var. albiflora (OK.) Cabr., Not. Mus. La Plata, 2: 201,
-1937. H. brasiliensis var. albiflora O. Kuntze, Rev. Gen. Plant. 3 (2): 159, 1898. Va-
-riedad con flores blancas. ;
-
-Comin en los bosques del Delta y de la ribera platense; también 'en campos hi-
-medos. Exsicc. Cabrera 2633.
-
-6. H. brasiliensis (Less.) Benth. et Hook., ex Griseb., Symbolae: 217, 1879. Por-
-cellites brasiliensis Less., Linnaea, 6: 103, 1831. Hierba perenne; tallos erectos, gla-
-bros o hispidos, ramosos, hojosos, de 30-60 cm de alt.
-
-Sur del Brasil, Paraguay, Uruguay y centro de la Argentina. Exsice. Cabrera 4890,
-6360.
-
-7. H. grisebachii Cabr., Not. Mus. La Plata, 2: 194, 1937. Hemicriptéfita; hojas
-en roseta; tallos ecapiformes de 20-30 cm de alt.
-Uruguay y NE. de la Argentina. En la estepa climax. Exsice. Cabrera 1522.
-
-8. H. megapotamica Cabr., Not. Mus. La Plata, 2: 192, 1937. Hemicriptdfita;
-hojas en roseta; tallos sencillos o bifurcados, laxamente híspidos, con alguna hoja
-en la parte inferior, de 10-35 cm de alt. (Fig. 190, A-B).
-
-queiay y NE. de la Argentina: en campos altos y fértiles. Exsicc. Cabrera 1523,
-
-18.
-
-9. H. petiolaris (H. et A.) Griseb., Symbolae: 218, 1879. Seriola petiolaris Hook.
-et Arn., Comp. Bot. Mag. 1: 31, 1835. Perenne; hojas arrosetadas; tallos escapifor-
-mes, simples o bifurcados, glabros o algo hispidos, de 12-25 cm de allt.
-
-Campos bajos algo salobres del Uruguay y de la provincia de Buenos Aires. Exsicc.
-Cabrera 479, 1547. . ~
-
-82. Lmontopon IL.
-
-Involucro acampanado; brácteas 1-2-seriadas, con algunas bracteolas
-cortas. Recepticulo plano, ciliado o alveolado. Flores isomorfas, her-
-mafroditas, con corola ligulada truncada y pentadentada en el ápice.
-Anteras sagitadas. Estilo con ramas lineales, agudas, pubescentes des-
-de mas abajo del punto de bifurcación. Aquenios cilíndrico-fusiformes,
-contraidos o rostrados en el ápice. Papus formado por 1-2 series de pe-
-los plumosos. Hierbas con l@tex, perennes o anuales; hojas en roseta.
-Tallos escapiformes, monocéfalos. Flores amarillas. Especie tipo: L. his-
-pidus L.
-
-1. L. nudicaulis (L.) Banks, ex Lowe, Trans. Camb. Phil. Soc. 4: 28, 1831. Crepis
-
-nudicaulis L., Sp. Pil. 2: 805, 1753. Hierba anual o perenne; hojas oblanceoladas,
-agudas o semi-obtusas, atenuadas en la base, dentadas o lobadas en el margen, hir-
- 
-
-COMPOSITAE 5AL
-
-sutas, de 7-15 cm de long. Escapos ebracteados, hispidos, de 12-40 cm de alt. Invo-
-lucro de 10 mm de alt.; brácteas lanceoladas, glabras. Flores amarillas. Papus de
-las flores marginales formados por una coronita de escamas muy cortas; el de las
-flores del disco constituido por pelos plumosos 2-seriados.
-
-Europa; adventicia en la Argentina. Comtin en campos bajos de la región de Do-
-lores y General Lavalle, en la provincia, de Buenos Aires. Raro cerca de la Capital
-Federal. Exsice. Cabrera 315.
-
-88. Pron! L.
-
-Involucro acampanado; brácteas interiores l-seriadas; las exteriores
-foliáceas. Receptáculo plano, cortamente ciliado. Flores isomorfas, her-
-mafroditas, con corola ligulada, truncada y 5-dentada en el ápice. Ante-
-ras sagitadas en la base. Estilo con ramas lineales, agudas, pubescentes
-desde debajo del punto de bifurcación. Aquenios lineales u oblongos,
-5-10-costados, arrugados transversalmente, rostrados (aquenios mar-
-ginales con rostro más corto y papus a veces ausente). Papus formado
-por pelos plumosos (a veces con algunos pelos simples mas _ cortos).
-Hierbas con laitex, erectas, ramosas, hispidas. Hojas alternas y radi-
-cales; capítulos solitarios o corimbosos. Flores amarillas. Especie tipo:
-P. hieractoides Lh.
-
-1. P. echioides L., Sp. Pl. 2: 792, 1753. Hierba anual, erecta, ramosa, densa-
-mente hojosa, de 0,5-1 m de alt. Tallos hirsutos. Hojas radicales oblanceoladas, ob-
-tusas, sinuado-dentadas, laxamente hirsutas, de 6-14 cm de long.; hojas caulinares
-oblanceoladas u obovadas, agudas, sésiles y semiabrazadoras en la base, dentadas,
-hirsutas. Capítulos en cimas laxas. Involucro con brácteas exteriores foliáceas, ova-
-das, agudas, de 10-12 mm de long.; las interiores lineales, con un apéndice cirriforme
-hirsuto. Agquenios oblongos, castaños, de 2,5 mm de long., prolongados en un rostro
-delgado de 3 mm de long. Papus plumoso.
-
-Sur de Europa y N. de Africa; adventicia en América. Frecuente en suelos modi-
-ficados. Exsicc. Cabrera 106, 312.
-
-84. Tracopocon L.
-
-Involucro cilíndrico o acampanado; brácteas uniseriadas. Recep-
-taculo plano o convexo, alveolado. Flores isomorfas, hermafroditas, con
-corola ligulada, truncada y pentadentada en el ápice. Anteras sagitadas.
-Ramas del estilo delgadas, agudas, cubiertas de pelos desde mas abajo
-del punto de bifurcación. Aquenios lineales, 5-10-costados, rostrados.
-Papus plumoso, l-seriado. Hierbas con latex, bienales o perennes, gla-
-bras o lanuginosas. Hojas alternas, lineales, enteras, amplexicaules.
-Capítulos terminales sobre pedúnculos engrosados. Corolas amarillas,
-azules o purpúreas. Especie tipo: T. pratensis L.
-
-A. Flores azules o violáceas. Hojas lineal-lanceoladas, atenuadas en el ápice, enteras,
-glabras. Capítulos muy largamente pedunculados (pedinculo muy engrosado
-en el ápice), solitarios. Involucro de 2,5--3 cm de long.; brácteas lineal-lanceo-
-ladas, glabras. Aquenios largamente rostrados ............... '1. 7. porrifolius
-
-A'. Flores amarillas. Hojas lanceoladas, atenuadas en el ápice, dilatadas en la base,
-enteras, glabras. Capítulos solitarios, sobre largos pedúnculos apenas dilatados
-en el ápice. Aquenios rostrados ...... 0.0.0 ccc eee ee eee 2. T. pratensis
-
-1. T. porrifolius L., Sp. Pi. 2: 789, 1753. Hierba anual o bienal; raiz gruesa;
-tallos erectos de 20-100 cm de alt., glabros.
-Sur de Europa. Cultivada y subespontdénea en suelos modificados. N. v.: salszfé.
-
- 
- 
-
-§42 : FLORA DE BUENOS AIRES
-
-2. T. pratensis L., Sp. Pl. 2: 789, 1753. Hierba bienal o perenne, glabra, de 30-
-
-70 cm de alt.
-Europa; adventicia en América. Muy rara en la región. Exsice. Molfino, I-1918.
-
-85. Taraxacum Hall.
-
-Involucro acampanado; brácteas herbáceas, las interiores 1-seriadas,
-las exteriores menores. Receptéiculo plano, desnudo. Flores isomorfas,
-hermafroditas, con corola ligulada, truncada y 5-dentada en el ápice.
-Anteras sagitadas en la base. Estilo con ramas delgadas, piloso desde
-debajo del punto de bifurcación. Aquenios fusiformes u obovoideos,
-largamente rostrados, 10-costados, con protuberancias puntiagudas en
-la parte superior. Papus formado por numerosos pelos simples. Hierbas
-con létex, acaules, con hojas en roseta y escapos áfilos monocéfalos.
-Flores amarillas. Especie tipo: Taraxacum officinale Web.
-
-Bibliogr.: Handel-Mazzetti, H., Monograp! ie der Gaitung Taraxacum, 1907.
-
-
-Fie, 191. — Taraxacum officinale (With.) Wiggers: A, planta (X 4/4); B, capítulo; C, flor;
-D, androceo; E, parte superior del estilo; F, aquenio.
-
-1. T. officinale Weber ex Wigg., Primit. Fl. Holsat.: 56, 1780. Hemicriptéfita
-acaule; hojas oblongas u oblanceolado-oblongas, runcinadas, glabras. Capítulos soli-
-tarios sobre escapos huecos. Involucro de 12-14 mm de alt.; brácteas exteriores re-
-curvadas.
-
-Europa; adventicia en todo el Mundo. Cultivado por sus hojas comestibies. N. v.:
-amargén, diente de leén. Exsice. Cabrera 1764.
-
-'
-
-86. Soncuus L.
-
-Involucro acampanado; brácteas en varias series, las exteriores gra~
-dualmente menores. Receptáculo plano, desnudo.. Flores isomorfas,
-hermafroditas, con corola ligulada, 5-dentada en el ápice. Anteras sagi-
-COMPOSITAE 543
-
-'ttadas. Estilo con ramas delgadas, piloso desde debajo del punto de bi-
-~ furcacién, Aquenios comprimidos, obovado-oblongos o lineales, 10-20
-costados, atenuados en la base y redondeados en el ápice, sin rostro.
-Papus formado por pelos simples. Hierbas con latex, anuales o perennes.
-Hojas radiecales o alternas. Capítulos cimosos. Corolas amarillas. Es-
-pecie tipo: S, oleraceus L. .
-
-A. Aquenios obovados o anchamente oblanceolados.
-
-B. Aquenios transversalmente rugosos. Hojas no espinulosas, las inferiores run-
-cinadas, las superiores lobadas o runcinadas, auriculadas en la base, con
-auriculas agudas. Capítulos en cimas corimbiformes. Involucro de 10-12 mm de
-
-. alt.; brácteas lineales, semiobtusas, glabras o algo lanuginosas. 1. S. oleraceus
-
-B'. Aquenios sin arrugas transversales. Hojas espinulosas en el margen, las in-
-
-. feriores lirado-pinatífidas, las superiores ovado-lanceoladas, con grandes
-
-auriculas redondeadas en su base. Capítulos en cimas umbeliformes. Involucro
-
-. de 10 mm de alt.; brácteas lineal-lanceoladas, glabras.......... 2. S. asper
-
-A'. Aquenios lineales, casi cilíndricos, costados, con costillas arrugadas transversal-
-
-mente. Hojas profundamente pinatisectas, con raquis lineal y segmentos casi
-
-opuestos, ovados u oblongos, obtusos. Capítulos en cimas corimbiformes pauci-
-floras. Involucro de 10 mm de alto; brácteas lanceoladas, semiobtusas,glabras.
-
-3. S. ltenerrimus
-
-1. S. oleraceus L., Sp. Pl. 2: 794, 1753. Hierba anual, erecta, glabra, de 0,5-1 m
-de alt.
-Europa; adventicia en todo el mundo. N. v.: cerraja. Exsice. Cabrera 104.
-
-2. S. asper (L.) Hill, Herb. Brit. 1: 47, 1769. S. oleraceus var. asper L., Sp. Pl.
-2: 794, 17538. Hierba anual de 40-100 cm de alt., con tallos ramosos, glabros o pu-
-bescentes-glandulosos en la parte superior.
-
-Europa; adventicia en todo el Globo. Exsicc. Cabrera 6579. .
-
-3. S. tenerrimus L., Sp. Pl. 2: 794, 1753. Hierba anual, de 20-40 cm de alt.,
-con tallos glabros (o con algunos pelos glandulosos), laxamente hojosos.
-Sur de Europa y N. de Africa. Rara en la Capital Federal. Exsice. Hicken X-1923.
-
-87. Lactuca L.
-
-Involucro cilíndrico; brácteas pauciseriadas, imbricadas, las  exte-
-riores gradualmente menores. Receptáculo plano, desnudo. Flores iso-
-morfas, hermafroditas, con corola ligulada, truncada y 5-dentada en el
-ápice. Anteras sagitadas. Estilo con ramas delgadas, piloso desde mas
-abajo del punto de división. Aquenios comprimidos, obovados, costados,
-con largo rostro filiforme. Papus formado por muchos pelos delgados,
-simples. Hierbas con latex, glabras o pilosas. Hojas radicales y alternas.
-Capítulos en racimos o panojas. Corolas amarillas o azules. Especie
-tipo: L. sativa L.
-
-A. Hojas inferiores oblanceoladas, runcinadas, con segmentos enteros o denticulados,
-de 3-8 cm de long.; hojas superiores lineal-lanceoladas, sagitadas en la base, sé-
-siles, enteras en el margen, de 15-40 mm de long. por 2-3 mm de anch. Capítulos
-cortamente pedunculados, en 1acimos espiciformes. Involucro de 8-10 mm de
-alt.; brdicteas lineal-lanceoladas, glabras. Flores pocas, amarillentas. 1. L. saligna
-
-A'. Hojas caulinares nunca lineales y enteras. Flores en panojas o panojas corim-
-biformes.
-
-B. Hojas anchas, dentadas o crenadas, no espinulosas, las superiores sésiles y
-auriculadas en la base. Capítulos numerosos, en corimbos o panojas amplias.
-Involucro de 7-8 mm de alt.; brácteas lineal-lanceoladas, semiobtusas, gla-
-bras. Flores amarillo crema ........ 0... eee e eee ee eee tenes 2. L. sativa
-544 FLORA DE BUENOS AIRES
-
-' B'. Hojas obovadas, agudas o semiobtusas, sésiles y auriculadas en la base, si-
-nuadas o, más comúnmente, runcinadas, con margen y nervadura central
-espinulosos, de 7-15 cm de long. por 2-6 cm de anch. Capítulos numerogos,
-en amplia panoja. Involucro de 10-12 mm de long.; brácteas lineales, glabras.
-Flores pocas, amarillentas ........ 0.0.0... eee eee eee ee 3. L. serriola
-
-1. L. saligna L., Sp. Pl. 2: 796, 1753. Hierba bienal; tallos ascendentes o erectos;.
-glabros, simples o poco ramosos, de 20-30 cm de alt. (Fig. 190, H-J).
-
-Europa; adventicia en América, Rara en la región, en suelos modificados. Exsice,.
-Cabrera 211.
-
-2. L. sativa L., Sp. Pl. 2: 795, 1753. Hierba anual o bienal, erecta, glabra, de
-60-100 cm de ait.
-Especie cultivada de origen desconocido. A veces subesponténea. N. v.: lechuga.
-
-3. L. serriola L., Cent. Pl. 2: 29, 1756. Hierba anual o bienal, erecta, ramosa,
-glabra (a excepción de la parte inferior donde es espinulosa), de 1-1,5 m de alt.
-
-Europa; adventicia en todo el Globo. Frectente en suelos modificados. Exsice.
-Cabrera 740.
-
-88. Prcrosta Don.
-
-Involucro cilíndrico; bráécteas 6-8, 1-seriadas. Receptáculo plano, des-
-nudo. Flores isomorfas, hermafroditas, con corola ligulada, truncada y
-5-dentada en el ápice. Anteras sagitadas. Estilo con ramas cortas y
-delgadas, pubescente desde debajo del punto de bifurcación. Aquenios.
-fusiformes, 8-10-costados, contraidos o rostrados en el ápice. Papus for-
-mado por numerosos pelos simples. Hierbas con litex, perennes, glabras,.
-con hojas radicales y alternas. Capítulos solitarios, largamente peduncu-
-lados. Flores blancas. Especie tipo: P. longifolia Don.
-
-1. P. longifolia Don, Transact. Linn. Soc. 16: 184, 1830. Hierba perenne, con
-raices gemfferas. Tallos erectos, glabros, poco ramosos, laxamente hojosos, de 15-
-80 cm de alt. Hojas basales oblanceoladas, agudas, atenuadas en la base en largo
-pecíolo, enteras o con algún diente, glabras, de 6-50 cm de long. Hojas caulinares
-lanceoladas, agudas, dilatadas y semiabrazadoras en la base, enteras. Involucro de
-14-20 mm de long.; brácteas glabras. Aquenios rostrados. (Fig. 190, K-L).
-
-Regiones edlidas y templadas de América del Sur. Comin en suelos húmedos, pa-
-jonales, etc. Exsicc. Cabrera 1548, 3418, 5375.
-
-89. Creris L.
-
-Involucro acampanado; brácteas pauciseriadas, las exteriores mas
-cortas. Receptáculo plano o cóncavo, desnudo o pestafioso. Flores iso-
-morfas, hermafroditas, con corola ligulada, truncada y pentadentada
-en el ápice. Anteras sagitadas. Estilo con ramas delgadas, pubescente
-desde debajo del punto de bifurcación. Aquenios fusiformes, pluricos-
-tados, con o sin rostro pero siempre contraidos en la base y en el ápice.
-Papus formado por muchos pelos simples. Hierbas :on látex, anuales o
-perennes. Hojas radicales y alternas. Capítulos solitarios o apanojados.
-Flores amarillas, rosadas o blancas. Especie tipo: C. biennis L.
-
-Bibliogr.: Babcock, E. B., en Univ. of Calif. Publ. in Bot, 21-22: 1-1030, 1947.
-
-A. Aquenios cortamente rostrados, fusiformes, costados, pilosos en la parte superior.
-Plantas hirsutas. Hojas inferiores lirado-pinatífidas, de 7-10 cm de long. Hojas
-superiores lanceoladas, agudas, sentadas y abrazadoras en la base, laciniadas en
-la parte inferior. Capítulos cimoso-corimbosos. Involucro de 7 mm de alt.; brde-
-teas lanceoladas, hispidas. Flores amarillas..............6....0-- L. C. setosa
- 
-
-COMPOSITAE 545
-
-A'. Aquenios sin rostro, cilíndricos, costados, glabros. Plantas casi glabras. Hojas
-radicales runcinadas, las superiores lanceoladas, sagitadas en la base, dentadas.
-Involucro de 7 mm de alt.; brácteas lineales, lanuginosas y con alguna cerda
-en el dorso. Flores amarillas 2.0... 0... 6ónec eee eee eee ee eee 2. C. capillaris
-
-1. C. setosa Hall. f. en Roem. Arch. 1: 2, 1796. Hierba anual, erecta, de 30-60 cm
-de alt.
-
-Europa; adventicia en la Argentina. Comin en suelos modificados. Exsice. Ca-
-brera 121, 1251.
-
-2. C. capillaris (L.) Wall., Linnaea, 14: 657, 1840. Lapsana capillaris L., Sp. Pl.
-2: 812, 1753. Hierba anual, polimorfa, glabra.
-
-Europa; adventicia en casi toda América, Rara en la región. Exsice. Cabrera 548,
-870.
+                    Tribu 11. CYNAREAE
+                        63. ARCTIUM L.
+                            Involucro globoso; brácteas multiseriadas, lineales, subuladas y ganchudas en la parte superior. Receptáculo plano, cubierto de cerdas. Flores isomorfas, todas
+                            hermafroditas, con corola tubulosa pentalobada en el limbo. Anteras sagitadas en la base. Estilo bífido, con un anillo de pelitos debajo del punto de bifurcación
+                            y ramitas lineales, agudas. Aquenios oblongos, algo comprimidos, truncados en la parte superior, costados. Papus formado por numerosas cerdas anchas. Hierbas altas,
+                            ramosas. Hojas alternas, grandes, indivisas. Capítulos casi sésiles, cimosos. Flores purpúreas.
+                            Especie tipo: A. lappa L.
+
+                        64. CARDUUS L.
+                            Involucro ovoideo o globoso; brácteas pluriseriadas, imbricadas, espinescentes en el ápice. Receptáculo plano o convexo, densamente cerdoso. Flores isomorfas,
+                            todas hermafroditas (raramente unisexuales dioicas), con corola tubulosa, ensanchada en el limbo y profundamente pentasecta. Estambres con filamentos pilosos y
+                            anteras sagitadas en la base. Estilo con un anillo de pelitos debajo del punto de bifurcación, y ramas pegadas entre sí hasta la parte superior. Aquenios obovoideos,
+                            glabros, semitetragonales, con 5-10 costillas, con articulación basal. Papus formado por muchos pelos simples, unidos entre sí en la base. Hierbas erectas con hojas
+                            alternas, espinosas, generalmente decurrentes a lo largo del tallo, sinuado-dentadas o pinatisectas. Capítulos medianos o grandes, largamente pedunculados o sésiles
+                            y amontonados. Corolas purpúreas o blancas.
+                            Especie tipo: C. nutans L.
+                                A.  Capítulos globosos. Flores bilabiado-tubulosas, con labio exterior tetrasecto y labio interior lineal. Plantas glabras o casi glabras.
+                                    B.  Capítulos muy grandes, solitarios, más o menos nutantes; involucro de cerca de 3 cm de alt. por 6 cm de diám.; brácteas lanceoladas, espinescentes en el ápice, recurvadas, glabras. Flores purpúreas. Aquenios estriados, glabros. Hojas lanceoladas, sinuadas, con dientes largamente espinosos en el margen.
+                                                                                        1. C. nutans
+                                    B'. Capítulos pequeños, agrupados en corto número en el ápice de las ramitas. Involucro de 1,5 cm de alt. por 1,2-1,5 cm de diám.; brdecteas lineal-subuladas, espinosas. Flores purpúreas. Aquenios glabros, amarillentos, estriados. Hojas pinatífidas, espinosas.
+                                                                                        2. C. acanthoides
+                                A'. Capítulos ovoideos, cilíndricos. Flores tubulosas, pentasectas. Plantas lanuginosas.
+                                    C.  Capítulos amontonados en número de 3-20, sésiles en el ápice de las ramas. Involucro cilíndrico, de 17-20 mm de alt. por 10-14 mm de diám.; brácteas lanceoladas, espinosas en el ápice, glabras o casi en el dorso. Aquenios oblongos, con 5-6 estrias a cada lado. Hojas lanceoladas, decurrentes en su base, lobulado-espinosas en el margen, lanosas.
+                                                                                        3. C. tenuiflorus
+                                    C'. Capítulos aglomerados en número de 2-3 en el ápice de las ramas. Involucro ovoideo, de unos 20 mm de alt. por 8-10 mm de diám.; brácteas lanceoladas, espinosas en el ápice, lanosas en el dorso. Aquenios oblongos, glabros. Hojas lanceoladas, lobado-espinosas, lanosas.
+                                                                                        4. C. pycnocephalus
+
+                        65. CIRSIUM Adans.
+                            Involucro globoso o acampanado; brácteas muy numerosas, imbricadas, espinescentes en el ápice. Receptáculo pestafioso. Flores isomorfas, hermafroditas o unisexuales dioicas.
+                            Corola tubulosa, con limbo pentasecto. Estambres con filamentos frecuentemente pilosos y anteras más o menos sagitadas en la base. Estilo con ramas lineales, pegadas o
+                            apenas separadas en el ápice, con una coronita de pelos por debajo del punto de bifurecación. Aquenios oblongos, glabros. Papus formado por numerosos pelos plumosos.
+                            Hierbas anuales o perennes, con hojas decurrentes, espinosas. Flores purpúreas o amarillentas.
+                            Especie tipo: C. heterophyllum (L.) All.
+
+                        66. CYNARA L.
+                            Involucro semigloboso; brácteas muy numerosas, ensanchadas en la base, lanceoladas y espinosas en el ápice, enteras, carnosas. Receptaculo craso, plano, cubierto de largas
+                            cerdas. Flores isomorfas, hermafroditas, con corola tubulosa pentasecta. Estambres con filamentos pubescentes y anteras sagitadas en la base. Estilo con un anillo de pelitos
+                            debajo del punto de bifurcación y ramas lineales, pegadas entre sí. Aquenios glabros, obovoideos, gruesos, levemente comprimidos. Papus formado por numerosos pelos plumosos
+                            soldados en la base. Hierbas erectas, elevadas, con hojas espinosas, pinatisectas y eapitulos muy grandes, solitarios en el ápice de las ramitas. Flores azules o blancas.
+                            Especie tipo: C. cardunculus L.
+
+                        67. SILYBUM Vaill.
+                            Involucro semigloboso; brácteas multiseriadas, terminadas en una larga espina y dentado-espinosas en el margen. Receptáculo plano, cerdoso. Flores isomorfas, hermafroditas,
+                            tubulosas, pentasectas. Estambres con filamentos parcialmente soldados entre sí y anteras sagitadas en la base. Estilo con un anillo de pelitos debajo del punto de bifurcación
+                            y ramas adheridas hasta cerca de la punta. Aquenios obovados, glabros. Papus formado por numerosas cerdas simples rigidas. Hierbas erectas, con hojas espinosas, lobadas o
+                            pinatisectas. Capítulos grandes, solitarios en el extremo de las ramas. Corolas purpúreas o violáceas.
+                            Especie tipo: Silybum marianum (L.) Gaertn.
+
+                        68. ONOPORDON L.
+                            Involucro globoso; brácteas pluriseriadas, espinosas en el ápice. Receptáculo plano, carnoso, alveolado. Flores isomorfas, hermafroditas, tubulosas, pentasectas.
+                            Estambres con filamentos pilosos y anteras sagitadas en la base. Estilo pubescente por debajo del punto de bifurcación, con ramitas pegadas hasta la punta. Aquenios glabros,
+                            lisos o rugosos, gruesos. Papus formado por cerdas simples o plumosas. Hierbas espinosas, generalmente tomentosas. Tallos alados. Hojas espinosas. Capítulos grandes, solitarios.
+                            Flores violáceas o blancas.
+                            Especie tipo: O. acanthium L.
+
+                        69. CENTAUREA L.
+                            Involucro ovoideo o globoso; brácteas en varias series, terminadas en el ápice en un apéndice escarioso o en una espina entera o ramificada. Receptáculo semiplano, cerdoso.
+                            Flores dimorfas o isomorfas: las marginales (cuando existen) asexuadas, con limbo muy ensanchado, a veces cigomorfas; las del disco hermafroditas, tubulosas, pentasectas.
+                            Anteras sagitadas en la base. Estilo algo engrosado o con una coronita de pelos debajo del punto de bifurcación, con ramas pegadas. Aquenios fijos al receptáculo por una
+                            articulación lateral. Pelos del papus rigidos o pajizos, a veces nulos. Hierbas perennes o anuales. Hojas alternas, enteras, dentadas o partidas. Capítulos solitarios o cimosos.
+                            Flores de diversos colores.
+                            Especie tipo: C. centaurium L.
+                                A.  Brácteas involucrales termmadas en una larga espina coriácea.
+                                    B.  Flores violáceas. Hojas superiores e inferiores profundamente pinatisectas, con segmentos lanceolados, mucronados, pubescentes. Capítulos sésiles en las bifurcaciones del tallo y en el pice de las ramitas. Involucro ovoide, de 12 mm de alt.; brácteas ovaladas, prolongadas en una larguisima espina que lleva dos espinitas más cortas a cada lado en su base. Flores isomorfas, todas hermarroditas. Papus nulo. Aquenios glabros.
+                                                                                        1. C. calcitrapa
+                                    B'. Flores amarillas Hojas superiores enteras.
+                                        C.  Espinas del involucro de 4-5 mm de long., con 2-3 dientes espinosos a cada lado en su base. Hojas inferiores lirado-pinatífidas; hojas superiores lineal-lanceoladas, decurrentes a lo largo del tallo, dspero pubescentes. Capítulos 1-3 en el extremo de ramitas cortas. Involucro ovoide de 12 mm de alt. Aquenios glabros. Papus formado por muches pajitas lineales cortas.
+                                                                                        2. C. melitensis
+                                        C'. Espinas del involucro de 14-22 mm de long., con algunas espinitas en su base. Hojas inferiores pinatífidas; las superiores enteras, lineales, lanosas. Capítulos solitarios. Involucro ovoideo, de 10 mm de alt. Flores isomorfas. Aquenios glabros. Papus formado por numerosas cerdas blancas.
+                                                                                        3. C. solstitialis
+                                A'. Brácteas involucrales sin espina coriácea en el apice.
+                                    D.  Brácteas involucrales provistas en su ápice de un apéndice membranáceo circular más o menos profundamente laciniado.
+                                        E.  Apéndice de las brácteas involucrales ovado-rómbico, castaño, cortamente laciniado. Hojas lanceoladas, agudas, enteras o dentadas en la base, estrigoso-pubescentes. Capítulos solitarios. Involucro globoso, de 13-14 mm de alt. Brácteas lanceoladas, lanuginosas. Flores dimorfas, las marginales asexuadas, radiantes. Papus ausente o formado por pajitas muy cortas.
+                                                                                        4. C. dubia
+                                        E'. Apéndice de las brácteas involucrales anchamente flabelado, laciniado casi hasta su base, de color castaño claro. Hojas inferiores lanceoladas, agudas, con 1-2 lóbulos a cada lado; hojas superiores lanceoladas. Capitulos solitarios. Involucro globoso, de cerca de 2 cm de diám. Flores violáceas, las marginales asexuadas, radiantes. Aquenios pubescentes. Papus cortisimo.
+                                                                                        5. C. jacea
+                                    D'. Brácteas involucrales sin apéndice membranfceo circular.
+                                        F.  Capítulos solitarios, pequeños. Involucro ovoideo de 10-12 mm de alt.; brácteas lanceoladas, ciliado-espinosas en el borde, glabras. Flores azules, las marginales asexuadas, casi liguliformes. Aquenios pubescentes. Papus formado por pajitas desiguales. Hojas mferiores pinatífidas; las superiores lineales, enteras.
+                                                                                        6. C. cyanus
+                                        F'. Capítulos solitarios, grandes. Involucro globoso de 2-2,5 cm de alt.; brácteas oblongo-lanceoladas, con un apéndice lineal laciniado en el ápice, glabras. Flores purpúreas, isomorfas. Aquenios negros. Papus cerdoso. Hojas lineal-lanceoladas, enteras, ásperas.
+                                                                                        7. C. tweediei
+
+                        70. CARTHAMUS L.
+                            Involucro ovoideo o globoso; brácteas multiseriadas, las exteriores foliaceas, espinosas. Receptáculo plano, densamente paleáceo o setoso. Flores generalmente
+                            isomorfas, todas hermafroditas, tubulosas, pentasectas. Estambres con filamentos pilosos en la parte media y anteras sagitadas en la base. Estilo con un anillo
+                            de pelitos debajo del punto de bifurcación y ramas lineales, pegadas casi hasta la punta. Aquenios glabros, obovoideos, tetragonales, con articulación lateral,
+                            sin papus o con papus formado por muchas pajitas. Hierbas espinosas; hojas alternas, dentadas o lobadas, espinosas. Capítulos grandes, solitarios o cimosos.
+                            Flores amarillas, anaranjadas, rojas o blancas.
+                            Especie tipo: C. tinctorius L.
+
+                    Tribu 12. MUTISIEAE
+                        71. MUTISIA L. f.
+                            Involucro acampanado o cilíndrico; brácteas multiseriadas, imbricadas, anchas, las exteriores gradualmente menores. Receptáculo plano, desnudo. Flores dimorfas:
+                            las marginales femeninas, bilabiadas, con labio exterior liguliforme y labio interior casi nulo; flores del disco hermafroditas, con corola bilabiada: labios
+                            aproximadamente de la misma longitud, el exterior 3-dentado y el interior bífido y enroscado. Anteras largamente sagitadas. Estilo bilobado. Aquenios turbinados
+                            u oblongos, glabros. Papus formado por muchos pelos plumosos. Arbustos o enredaderas; hojas alternas, enteras o pinatisectas, frecuentemente terminadas en un zarcillo.
+                            Capítulos grandes, solitarios.
+                            Especie tipo: M. clematis L. f.
+
+                        72. TRICHOCLINE Cass.
+                            Involucro hemisférico; brácteas multiseriadas, herbáceas o membranosas. Receptáculo plano, ciliado o desnudo. Flores dimorfas: las marginales femeninas, bilabiadas,
+                            con labio exterior liguliforme y labio interior corto y enroscado. Flores del disco hermafroditas, bilabiadas, con labios de la misma longitud: el exterior tridentado
+                            y el interior bisecto y enroscado. Anteras largamente sagitadas en la base. Ramas del estilo de las flores hermafroditas muy cortas, redondeadas en el ápice.
+                            Aquenios turbinados, papiloso-velludos o glabros. Papus formado por muchos pelos simples. Hierbas perennes, generalmente acaules, con rizoma grueso y hojas en roseta.
+                            Capítulos solitarios en el extremo de largos escapos. Flores amarillas o anaranjadas.
+                            Especie tipo: T. incana (lam.) Cass.
+
+                        73. CHAPTALIA Vent.
+                            Involucro acampanado o turbinado; brácteas multiseriadas, las exteriores gradualmente menores. Flores trimorfas: las marginales femeninas, liguladas o sub-bilabiadas;
+                            las siguientes femeninas, con corola filiforme más corta que el estilo; las centrales hermafroditas, con corola bilabiada de labio exterior tridentado y labio interior
+                            bisecto, enroscado. Anteras sagitadas en la base. Ramas del estilo cortas y obtusas, pubescentes en el dorso. Aquenios fusiformes, a veces rostrados. Papus formado por
+                            numerosos pelos. Hierbas perennes, acaules, con hojas en roseta, albo-tomentosas en el envés. Capítulos solitarios, generalmente sobre largos escapos.
+                            Flores blancas o rosadas.
+                            Especie tipo: Ch. tomentosa Vent.
+                                A.  Aquenios sin rostro, obovados, comprimidos, costados, papiloso-pubescentes, de 5 mm de long. Capítulo sésil antes de la fructificación, luego cortamente pedunculado (escapo de 2-3 cm de long.). Involucro de 15-20 mm de long. Flores blancas, las marginales liguladas (lígula más corta que el involucro). Hojas obovadas o elípticas, sinuado-dentadas, de 4-7 cm de long. por 2-4 cm de anch..
+                                                                                        1. Ch. exscapa
+                                A'. Aquenios rostrados. Capítulos sobre largos escapos.
+                                    B.  Hojas lirado-pinatífidas, con lóbulo terminal grande, ovado, sinuado dentado. Escapos de 10-40 cm de alt., tomentosos, sin brácteas. Capítulos nutantes. Involucra de 15 mm de alt. Flores rogadas, las marginates con Kgula apenas sobresaliendo del involucro. Aquenios fusiformes, 5-6-costados, de 4 mm de longitud; terminados en un rostro delgado de 13-15 mm de largo. Papus blanco.
+                                                                                        2. Ch. nutans
+                                    B'. Hojas enteras, sinuadas o dentadas.
+                                        C.  Capítulos con 20-60 flores, siempre erectos. Hojas oblanceoladas, de menos de 15 mm de anchura.
+                                            D.  Aquenios con 7-8 costillas, fusiformes, papilosos en la base, de 6-7 mm de long., terminados en un rostro de 7-8 mm de long. Papus rojizo, Hojas retrorso dentadas en el borde, agudas, de 3,5-9 cm de long. Escapos de 2-17 cm de long., lanosos, con muchas brácteas lineales. Involucro de 14-25 mm de alt. Flores blancas o rosadas, las marginales cortamente liguiadas.
+                                                                                        3. Ch. piloselloides
+                                            D'  Aquenios con 4-6 costillas, fusiforme-lineales, glabros, de 5-6 mm de long., terminados en un rostro de 5-7 mm. Papus blanco.o rosado. Hojas agudas o casi obtusas, retrorso aserradas, de 6-12 cm de long. Escapos de 10-35 cm de alt., bracteolados superiormente, lanosos. Involucro de 10 mm de alt. Flores blancas o rosadas, las marginales apenas exsertas.
+                                                                                        4. Ch. runcinata
+                                        C'. Capítulos plurifloros, nutantes antes de la fructificación. Hojas de más de 20 cm de anch.
+                                            E.  Escapos con numerosas brácteas lineales, tomentosos, de 10-30 cm de altura. Hojas obovadas, obtusas, crenadas en el margen, de 6-13 cm de long. por 3-5 cm de anch. Involucro de 18-22 mm de alt. Flores blancas o rosadas, las marginales cortamente liguladas. Aquenios lanceolados, comprimidos, con 3 costillas a cada lado, de 5-6 mm de long., terminados en un rostro de 7-8 mm de long..
+                                                                                        5. Ch. arechavaletai
+                                            E'. Escapos con 1-5 brácteas o sin ellas. Aquenios densamente papilosos.
+                                                F.  Hojas oblongo-lanceoladas, obtusas, crenado-dentadas, de 9-18 cm de long. por 1,5-2,8 cm de anch. Escapos de 15-40 cm de long., tomentosos, con 3-5 brácteas en su parte superior. Involucro de 15 mm de long. Flores 100-150, blancas, las marginales cortamente liguladas. Aquenios fusiformes, con 6-8 costillas, de 7-8 mm de long., terminados en un rostro de 15 mm de long..
+                                                                                        6. Ch. ignota
+                                                F'. Hojas obovadas, obtusas, retrorso-dentadas, de 6-12 cm de long. por 3-4 cm de anch, Escapos de 7-30 cm de long., tomentoses, sin brácteas o con 1-3 cerca del capítulo. Involucro de 14-24 mm de long. Flores blancas o rosadas, las marginales con lígula excediendo algo al involucro. Aquenios oblanceolados, gruesos, 5-costados, papilosos, de 4-5 mm de long., terminados en un rostro de 9-11 mm de long..
+                                                                                        7. Ch. sinuata
+
+                        74. TRIXIS P. Br.
+                            Involucro acampanado o hemisférico; brácteas 1-2-seriadas, imbricadas. Receptáculo piloso. Flores isomorfas, hermafroditas, con corola bilabiada de labio exterior tridentado
+                            y labio interior bisecto (algunas veces flores marginales liguliformes). Anteras sagitadas. Ramas del estilo truncadas, pilosas en el ápice. Aquenios lineales o lanceolados,
+                            contraídos o rostrados en el ápice, papilosos. Papus formado por 2-3 series de pelos delgados. Hierbas perennes o arbustos. Hojas alternas. Flores amarillas o anaranjadas.
+                            Especie tipo: T. frutescens P. Br.
+                                A.  Tallos alados, amarillento-tomentosos. Hojas coriáceas, lanceolado-oblongas, crenadas, decurrentes, pubescentes en el haz y amarillento-tomentosas en el envés, de 7-20 cm de long. Capítulos numerosos, cortamente pedicelados, en panojas densas. Involucro de 6-8 mm de alt.; brácteas 10-15, lanceoladas, tomentosas. Flores 10-15. Aquenios cilíndricos, pilosos. Papus rojizo.
+                                                                                        1. T. verbasciformis.
+                                A'. Tallos sin alas, densamente pubescentes. Hojas pecioladas, membranosas, ovado-elípticas,. enteras o aserradas, pubescentes, de 10-20 cm de long. por 3-7 cm de anch. Capítulos numerosos, en cimas corimbiformes densas. Involucro de 1 cm de alt.; brácteas en 2-3 series, lanceoladas, agudas. Flores cerca de 30, amarillas o anaranjadas. Aquenios cilíndricos, pilosos. Papus blanco o amarillento.
+                                                                                        2. T. praestans
+
+                        75. CLEANTHES Don.
+                            Involucro hemisférico; brácteas involucrales en 1-2 series; receptáculo glabro. Flores isomorfas, blancas, hermafroditas, con corola bilabiada. Anteras sagitadas. Ramas del
+                            estilo truncadas y pubescentes en el ápice. Aquenios cilíndrico-fusiformes, pubescentes. Papus formado por muchos pelos denticulados. Hierbas perennes, con hojas inferiores
+                            arrosetadas y hojas caulinares escasas. Capítulos en cimas corimbiformes o solitarios.
+                            Especie tipo: C. brasiltensis (L.) Don.
+                                A.  Plantas hirsutas. Involucro de unos 10 mm de altura. Hojas basales oblongoespatuladas o casi orbiculares, obtusas, dentadas o crenadas, de 6-16 cm de long. Hojas caulinares pocas, ovadas o lanceoladas, semiabrazadoras, dentadas. Capitulos 3-10, largamente pedicelados, cimoso-corimbosos. Brácteas involucrales 10-15, 2-seriadas, lanceoladas, pilosas.
+                                                                                        1. C. brasiliensis
+                                A'. Plantas glabras o apenas pilosas. Involucro de 4-6 mm de alt. Hojas basales oblanceoladas, agudas, dentadas o runcinadas, ciliadas en el borde, de 3-14-cm de lorg. Hojas caulinares sésiles, lanceoladas, semiabrazadoras. Capítulos 3-10, en cimas corimbiformes laxas. Brácteas involucrales 8-10, oblongas, algo pubescentes en el dorso.
+                                                                                        2. C. hieracioides
+
+
+                        76. PAMPHALEA Lag.
+                            Involucro acampanado; brácteas sub-biseriadas, escariosas en el margen; receptáculo plano, desnudo. Flores isomorfas, hermafroditas, bilabiadas, blancas. Anteras sagitadas
+                            en la base. Ramas del estilo truncadas y pilosas en el ápice. Aquenios obovoideos, sin papus. Hierbas anuales o perennes; hojas alternas. Capítulos pequeños, en cimas corimbiformes.
+                            Especie tipo: P. commersonii Cass.
+
+                    Tribu 13. CICHORIEAE
+                        77. SCOLYMUS L.
+                            Involucro acampanado o hemisférico; brácteas pauciseriadas, imbricadas, las exteriores foliáceas, espinosas en el ápice y en el margen, las interiores coriáceas, mucronadas
+                            o espinosas en el ápice. Receptáculo cónico, cubierto de páleas que envuelven a los ovarios. Flores isomorfas, hermafroditas, liguladas, con lígula 5-dentada. Anteras sagitadas
+                            en la base. Estilo densamente piloso en su parte superior, cortamente partido en dos ramitas agudas. Aquenios comprimidos dorsalmente, obovoideos, rodeados por las páleas del
+                            receptáculo que se desprenden con ellos. Papus nulo o formado por 2-3 cerdas caducas. Hierbas espinosas. Hojas alternas, coriáceas espinosas. Capítulos sésiles en las axilas
+                            de las hojas superiores. Flores amarillas.
+                            Especie tipo: S. maculatus L.
+
+                        78. CICHORIUM L.
+                            Involucro turbinado; brácteas 2-seriadas, las exteriores mas cortas. Receptáculo desnudo o algo pestafioso. Flores isomorfas, hermafroditas, con corolas liguladas, pentadentadas
+                            en el ápice. Anteras sagitadas en la base. Estilo bífido, con .ramas delgadas, agudas y pelos desde debajo del punto de bifurcación. Aquenios pentagonales o pluricostados,
+                            truncados en el ápice. Papus formado por pajitas escamiformes, pequeñas y numerosas. Hierbas glabras o híspidas. Hojas radicales o alternas, enteras, dentadas o pinatisectas.
+                            Capítulos pedunculados o axilares y sésiles. Flores azules o blancas. Plantas con látex.
+                            Especie tipo: C. imtybus L.
+
+                        79. LAPSANA L.
+                            Involucro acampanado; brácteas 2-seriadas: las interiores herbáceas, las exteriores muy pequeñas. Receptáculo plano, desnudo. Flores isomorfas, hermafroditas, con corola ligulada
+                            pentadentada en el ápice. Anteras sagitadas en la base. Estilo con ramas delgadas, piloso desde debajo del punto de divisién. Aquenios oblongos, multicostados, sin papus.
+                            Hierbas con látex, anuales, erectas, ramosas. Hojas alternas, dentadas o pinatisectas. Capítulos pequeños, en panojas o cimas laxas. Corolas amarillas.
+                            Especie tipo: L. communis L.
+
+                        80. HEDYPNOIS Schreb.
+                            Involucro globoso; brácteas 1-seriadas, envolviendo a los frutos marginales a la maduración del capítulo. Receptáculo plano, desnudo. Flores isomorfas, hermafroditas, con
+                            corola ligulada pentadentada en el ápice. Anteras sagitadas en la base. Ramas del estilo lineales, agudas, pubescentes. Aquenios cilíndricos, curvados, pluricostados.
+                            Papus coroniforme o, en las flores del disco, con pajitas y aristas. Hierbas anuales; hojas radicales y alternas. Plantas con látex.
+                            Especie tipo: H. cretica (L.) W.
+
+                        81. HYPOCHOERIS L.
+                            Involucro acampanado; brácteas en varias series, las exteriores gradualmente menores. Receptáculo plano, cubierto de páleas membranosas que abrazan parclalmente a las flores.
+                            Flores isomorfas, hermafroditas, con corola ligulada pentadentada en el ápice. Anteras sagitadas en la base. Ramas del estilo lineales, agudas, pilosas. Aquenios fusiformes,
+                            con o sin rostro en el ápice. Papus formado por pelos plumosos. Hierbas anuales o perennes. Hojas radicales arrosetadas; hojas caulinares escasas o nulas. Tallos escapiformes,
+                            poco ramificados. Corolas amarillas o blancas. Plantas con látex.
+                            Especie tipo: H. radicata L.
+                                A.  Pelos del papus en dos series: los interiores largos y plumosos, los exteriores más cortos y sencillos (Subgén. Hypochoeris).
+                                    B.  Aquenios marginales truncados en el ápice; los interiores rostrados. Hierbas anuales. Hojas obovadas, obtusas, sinuado-dentadas, hirtas o glabras. Capitulos solitarios en el extremo de tallos escapiformes, de 20-30 cm de alt. Involucro de 7-8 mm de alt. durante la floración. Flores amarillas, cortamente liguladas.
+                                                                                        1. H. glabra
+                                    B'. Todos los aquenios largamente rostrados. Hierbas perennes. Hojas oblanceoladas u oboblongas, obtusas, runcinadas, hirtas. Escapos ramificados, glabros, de 10-50 cm de alt. Capítulos solitarios en el extremo de las ramificaciones del escapo. Involucro de 10 mm de alt. durante la floración. Brácteas involucrales lineales, obtusas. Flores amarillas.
+                                                                                        2. H. radicata
+                                A'. Pelos del papus en una sola serie, todos plumosos (Subgén. Achyrophorus).
+                                    C.  Aquenios fusiformes, de 7-9 mm de long., terminados en un rostro corto, de sólo 2-4 mm. Hojas oblanceoladas, pinatisectas, hirsutas, de 10-20 cm de long. Capituios solitarios. Involucro florifero de 15-18 mm de alt. (luego de hasta 26 mm de alt.); brácteas lineal-lanceoladas, las exteriores híspidas. Flores amarillas, más cortas que las brácteas interiores.
+                                                                                        3. H. pampasica
+                                    C'. Aquenios largamente rostrados: rostro tan largo o más largo que la parte seminifera.
+                                        D.  Tallos ramosos, hojosos.
+                                            E.  Brácteas involucrales híspidas. Hojas inferiores oblanceoladas, irregularmente lobadas o dentadas, de 10-30 cm de long.; hojas caulinares lanceoladas, semiabrazadoras en la base. Capítulos numerosos, en cimas corimbiformes laxas. Involucro florffero de 12-15 mm de alt.; brácteas lineales. Flores amarillas. Aquenios de 6 mm de long., con rostro de 7 mm.
+                                                                                        4. H. tweediei
+                                            E'. Brácteas involucrales lanuginosas o glabras.
+                                                F.  Involucros floriferos cilíndricos, de 10-11 mm de altura; brácteas lineales, obtusas. Flores amarillas o blancas. Aquenios de 4-5 mm, con rostro de 4 mm. Hojas inferiores oblanceoladas, dentadas o runcinadas, glabras, de 6-10 cm de long.; hojas caulinares lineales, sésiles, enteras o partidas. Capítulos en cimas corimbiformes laxas.
+                                                                                        5. H. microcephala
+                                                F'. Involucros floriferos acampanados, de 12-18 mm de alt.; brácteas lineales, casi obtusas. Flores amarillas, numerosas. Aquenios de 5 mm de long. con rostro de 5 mm. Hojas inferiores arrosetadas, oblanceoladas, dentadas o lobuladas, de 5-20 cm de long.; las superiores lanceoladas o lineales, semiabrazadoras en la base, dentadas o lobadas. Capítulos en cimas corimbiformes laxas.
+                                                                                        6. H. brasiliensis
+                                        D'. Tallos simples, escapiformes, raramente bifurcados.
+                                            G.  Flores algo más largas que las brácteas interiores del involucro, amarillas. Hojas oblanceoladas, sinuado-dentadas o lobadas, hirtas, de 6-10 cm de long. Capítulos grandes, solitarios. Involucro acampanado, de 13-18 mm de alt. por 11-14 mm de diám.; brácteas linealoblongas, obtusas, hirtas, con una mancha obscura en el ápice. Aquenios de 4 mm de long., con rostro de 8mm.
+                                                                                        7. H. grisebachii
+                                            G'. Flores más cortas que las brácteas interiores del involucro, amarillas.
+                                                H.  Involucro de 20-30 mm de alt.; brácteas lineal-lanceoladas, glabras. Aquenios de 6 mm de long. con rostro de 9 mm. Hojas. oblanceoladas, dentadas o lobuladas, híspidas, de 6-20 cm de long..
+                                                                                        8. H. megapotamica
+                                                H'. Involucro de 10-15 mm de altura; brácteas lineales, glabras, semi-agudas. Flores amarillas. Aquenios de 4-5 mm de long., con rostro delgado de 4-5 mm. Hojas oblanceolado-lineales, agudas, sinuado-dentadas o pinatisectas, generalmente glabras, de 5-14 cm de long..
+                                                                                        9. H. petiolaris
+
+                        82. LEONTODON L.
+                            Involucro acampanado; brácteas 1-2-seriadas, con algunas bracteolas cortas. Recepticulo plano, ciliado o alveolado. Flores isomorfas, hermafroditas, con corola ligulada
+                            truncada y pentadentada en el ápice. Anteras sagitadas. Estilo con ramas lineales, agudas, pubescentes desde mas abajo del punto de bifurcación. Aquenios cilíndrico-fusiformes,
+                            contraidos o rostrados en el ápice. Papus formado por 1-2 series de pelos plumosos. Hierbas con l@tex, perennes o anuales; hojas en roseta. Tallos escapiformes, monocéfalos.
+                            Flores amarillas.
+                            Especie tipo: L. hispidus L.
+
+                        83. PICRIS L.
+                            Involucro acampanado; brácteas interiores l-seriadas; las exteriores foliáceas. Receptáculo plano, cortamente ciliado. Flores isomorfas, hermafroditas, con corola ligulada,
+                            truncada y 5-dentada en el ápice. Anteras sagitadas en la base. Estilo con ramas lineales, agudas, pubescentes desde debajo del punto de bifurcación. Aquenios lineales u
+                            oblongos, 5-10-costados, arrugados transversalmente, rostrados (aquenios marginales con rostro más corto y papus a veces ausente). Papus formado por pelos plumosos (a veces
+                            con algunos pelos simples mas cortos). Hierbas con látex, erectas, ramosas, híspidas. Hojas alternas y radicales; capítulos solitarios o corimbosos. Flores amarillas.
+                            Especie tipo: P. hieractoides Lh.
+
+                        84. TRAGOPOGON L.
+                            Involucro cilíndrico o acampanado; brácteas uniseriadas. Receptaculo plano o convexo, alveolado. Flores isomorfas, hermafroditas, con corola ligulada, truncada y pentadentada
+                            en el ápice. Anteras sagitadas. Ramas del estilo delgadas, agudas, cubiertas de pelos desde mas abajo del punto de bifurcación. Aquenios lineales, 5-10-costados, rostrados.
+                            Papus plumoso, l-seriado. Hierbas con látex, bienales o perennes, glabras o lanuginosas. Hojas alternas, lineales, enteras, amplexicaules. Capítulos terminales sobre pedúnculos
+                            engrosados. Corolas amarillas, azules o purpúreas.
+                            Especie tipo: T. pratensis L.
+                                A.  Flores azules o violáceas. Hojas lineal-lanceoladas, atenuadas en el ápice, enteras, glabras. Capítulos muy largamente pedunculados (pedinculo muy engrosado en el ápice), solitarios. Involucro de 2,5-3 cm de long.; brácteas lineal-lanceoladas, glabras. Aquenios largamente rostrados.
+                                                                                        1. T. porrifolius
+                                A'. Flores amarillas. Hojas lanceoladas, atenuadas en el ápice, dilatadas en la base, enteras, glabras. Capítulos solitarios, sobre largos pedúnculos apenas dilatados en el ápice. Aquenios rostrados.
+                                                                                        2. T. pratensis
+
+                        85. TARAXACUM Hall.
+                            Involucro acampanado; brácteas herbáceas, las interiores 1-seriadas, las exteriores menores. Receptéiculo plano, desnudo. Flores isomorfas, hermafroditas, con corola ligulada,
+                            truncada y 5-dentada en el ápice. Anteras sagitadas en la base. Estilo con ramas delgadas, piloso desde debajo del punto de bifurcación. Aquenios fusiformes u obovoideos,
+                            largamente rostrados, 10-costados, con protuberancias puntiagudas en la parte superior. Papus formado por numerosos pelos simples. Hierbas con látex, acaules, con hojas en
+                            roseta y escapos áfilos monocéfalos. Flores amarillas.
+                            Especie tipo: Taraxacum officinale Web.
+
+                        86. SONCHUS L.
+                            Involucro acampanado; brácteas en varias series, las exteriores gradualmente menores. Receptáculo plano, desnudo.. Flores isomorfas, hermafroditas, con corola ligulada,
+                            5-dentada en el ápice. Anteras sagitadas. Estilo con ramas delgadas, piloso desde debajo del punto de bifurcación, Aquenios comprimidos, obovado-oblongos o lineales,
+                            10-20 costados, atenuados en la base y redondeados en el ápice, sin rostro. Papus formado por pelos simples. Hierbas con látex, anuales o perennes. Hojas radiecales o alternas.
+                            Capítulos cimosos. Corolas amarillas.
+                            Especie tipo: S. oleraceus L.
+                                A.  Aquenios obovados o anchamente oblanceolados.
+                                    B.  Aquenios transversalmente rugosos. Hojas no espinulosas, las inferiores runcinadas, las superiores lobadas o runcinadas, auriculadas en la base, con auriculas agudas. Capítulos en cimas corimbiformes. Involucro de 10-12 mm de alt.; brácteas lineales, semiobtusas, glabras o algo lanuginosas.
+                                                                                        1. S. oleraceus
+                                    B'. Aquenios sin arrugas transversales. Hojas espinulosas en el margen, las inferiores lirado-pinatífidas, las superiores ovado-lanceoladas, con grandes auriculas redondeadas en su base. Capítulos en cimas umbeliformes. Involucro de 10 mm de alt.; brácteas lineal-lanceoladas, glabras.
+                                                                                        2. S. asper
+                                A'. Aquenios lineales, casi cilíndricos, costados, con costillas arrugadas transversalmente. Hojas profundamente pinatisectas, con raquis lineal y segmentos casi opuestos, ovados u oblongos, obtusos. Capítulos en cimas corimbiformes paucifloras. Involucro de 10 mm de alto; brácteas lanceoladas, semiobtusas,glabras.
+                                                                                        3. S. tenerrimus
+
+                        87. LACTUCA L.
+                            Involucro cilíndrico; brácteas pauciseriadas, imbricadas, las  exteriores gradualmente menores. Receptáculo plano, desnudo. Flores isomorfas, hermafroditas, con corola
+                            ligulada, truncada y 5-dentada en el ápice. Anteras sagitadas. Estilo con ramas delgadas, piloso desde mas abajo del punto de división. Aquenios comprimidos, obovados,
+                            costados, con largo rostro filiforme. Papus formado por muchos pelos delgados, simples. Hierbas con látex, glabras o pilosas. Hojas radicales y alternas. Capítulos en
+                            racimos o panojas. Corolas amarillas o azules.
+                            Especie tipo: L. sativa L.
+                                A.  Hojas inferiores oblanceoladas, runcinadas, con segmentos enteros o denticulados, de 3-8 cm de long.; hojas superiores lineal-lanceoladas, sagitadas en la base, sésiles, enteras en el margen, de 15-40 mm de long. por 2-3 mm de anch. Capítulos cortamente pedunculados, en 1acimos espiciformes. Involucro de 8-10 mm de alt.; brácteas lineal-lanceoladas, glabras. Flores pocas, amarillentas.
+                                                                                        1. L. saligna
+                                A'. Hojas caulinares nunca lineales y enteras. Flores en panojas o panojas corimbiformes.
+                                    B.  Hojas anchas, dentadas o crenadas, no espinulosas, las superiores sésiles y auriculadas en la base. Capítulos numerosos, en corimbos o panojas amplias. Involucro de 7-8 mm de alt.; brácteas lineal-lanceoladas, semiobtusas, glabras. Flores amarillo crema.
+                                                                                        2. L. sativa
+                                    B'. Hojas obovadas, agudas o semiobtusas, sésiles y auriculadas en la base, sinuadas o, más comúnmente, runcinadas, con margen y nervadura central espinulosos, de 7-15 cm de long. por 2-6 cm de anch. Capítulos numerogos, en amplia panoja. Involucro de 10-12 mm de long.; brácteas lineales, glabras. Flores pocas, amarillentas.
+                                                                                        3. L. serriola
+
+                        88. PICROSIA Don.
+                            Involucro cilíndrico; bráécteas 6-8, 1-seriadas. Receptáculo plano, desnudo. Flores isomorfas, hermafroditas, con corola ligulada, truncada y 5-dentada en el ápice.
+                            Anteras sagitadas. Estilo con ramas cortas y delgadas, pubescente desde debajo del punto de bifurcación. Aquenios. fusiformes, 8-10-costados, contraidos o rostrados en
+                            el ápice. Papus formado por numerosos pelos simples. Hierbas con litex, perennes, glabras, con hojas radicales y alternas. Capítulos solitarios, largamente pedunculados.
+                            Flores blancas.
+                            Especie tipo: P. longifolia Don.
+
+                        89. CREPIS L.
+                            Involucro acampanado; brácteas pauciseriadas, las exteriores mas cortas. Receptáculo plano o cóncavo, desnudo o pestafioso. Flores isomorfas, hermafroditas, con corola
+                            ligulada, truncada y pentadentada en el ápice. Anteras sagitadas. Estilo con ramas delgadas, pubescente desde debajo del punto de bifurcación. Aquenios fusiformes,
+                            pluricostados, con o sin rostro pero siempre contraidos en la base y en el ápice. Papus formado por muchos pelos simples. Hierbas :on látex, anuales o perennes.
+                            Hojas radicales y alternas. Capítulos solitarios o apanojados. Flores amarillas, rosadas o blancas.
+                            Especie tipo: C. biennis L.
+                                A.  Aquenios cortamente rostrados, fusiformes, costados, pilosos en la parte superior. Plantas hirsutas. Hojas inferiores lirado-pinatífidas, de 7-10 cm de long. Hojas superiores lanceoladas, agudas, sentadas y abrazadoras en la base, laciniadas en la parte inferior. Capítulos cimoso-corimbosos. Involucro de 7 mm de alt.; bracteas lanceoladas, híspidas. Flores amarillas.
+                                                                                        1. C. setosa
+                                A'. Aquenios sin rostro, cilíndricos, costados, glabros. Plantas casi glabras. Hojas radicales runcinadas, las superiores lanceoladas, sagitadas en la base, dentadas. Involucro de 7 mm de alt.; brácteas lineales, lanuginosas y con alguna cerda en el dorso. Flores amarillas.
+                                                                                        2. C. capillaris
