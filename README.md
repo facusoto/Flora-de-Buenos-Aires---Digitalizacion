@@ -17,6 +17,9 @@ El proyecto actualmente se encuentra finalizado en su tarea de transcripcion, or
         > Subdivisión Gymnospermae
         > Subdivisión Angiospermae
             > Clase 1 MONOCOTYLEDONEAE
+            > Clase 2 DICOTYLEDONEAE
+
+Se evitó transcribir la descripción de las especies así como también el glosario o datos conciderados irrelevantes
 
 ## Métodos
 
