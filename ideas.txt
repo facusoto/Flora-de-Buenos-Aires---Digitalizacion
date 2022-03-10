@@ -8,3 +8,9 @@ SIB:
 -----
 
 Para hacer que las Especies tengan la misma indentación que los selectores de las mismas se puede seleccionar masivamente su indentación (Que es siempre la misma) y a partír de esta borrar hasta la línea anterior, al volver a presionar Enter los elementos aparecerán con la indentación de su elemento padre.
+
+-----
+
+Hacer una consulta escrita descriptiva; osea el poder escribir con tus palabras y en un input una descripción de la planta con la cual obtener un resultado, se diferencia del metodo tradicional de no estar encarrilado
+
+Generar un espacio latente de las plantas de acuerdo a su descripción, para esto debería primero convertirse el texto descriptivo de cada una en JSON
