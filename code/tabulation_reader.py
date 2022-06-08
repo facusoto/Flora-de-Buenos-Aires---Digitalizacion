@@ -1,7 +1,7 @@
 import re
 import csv
 
-file1 = open(file="output---Indentatios_as_tabulation.txt", mode="r", encoding="utf-8")
+file1 = open(file="output.txt", mode="r", encoding="utf-8")
 content = file1.readlines()
 counts = dict()
 line_count = 0
